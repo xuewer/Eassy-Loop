@@ -73,7 +73,7 @@ def check_changes(actual, expected):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--run-dir', type=Path, default=ROOT/'experiments/dual_v2_20261116')
+    parser.add_argument('--run-dir', type=Path, required=True, help='Existing local dual-v2 archive; not included in the source distribution')
     parser.add_argument('--output', type=Path, help='Optional new verification record; archived files stay unchanged')
     parser.add_argument('--check-working-source', action='store_true', help='Also require the current source to match the archived experiment')
     args = parser.parse_args(argv)

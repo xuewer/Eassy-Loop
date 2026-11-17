@@ -16,4 +16,4 @@ jobs:
         env:
           LANGSMITH_TRACING: 'false'
           LANGCHAIN_TRACING_V2: 'false'
-      - run: python -B tools/verify_dual_results.py
+      - run: python -B tools/verify_repository.py

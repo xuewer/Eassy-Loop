@@ -1,34 +1,31 @@
-# 复现与核对
+# 运行与复算
 
-## 离线检查已有实验
+## 检查源码分发是否完整
 
-安装 requirements-lock.txt 后，在仓库根目录执行：
-
-~~~powershell
-.venv/Scripts/python -B -m pytest -q -p no:cacheprovider
-.venv/Scripts/python -B tools/verify_dual_results.py
-~~~
-
-第二条命令只读取 experiments/dual_v2_20261116，不调用模型，也不覆盖归档文件。它检查调用唯一性和预算、任务计划、历史源码快照、原文、原始评分 JSON、引用、提示哈希、加权总分、MAE、Spearman、配对差值、区间和失败分母。所有归档数字都是历史已发生记录，离线核对不产生新的实验结果。
-
-指定另一个同格式归档目录或输出新的核对记录：
+在仓库根目录安装 requirements-lock.txt 后执行：
 
 ~~~powershell
-.venv/Scripts/python -B tools/verify_dual_results.py --run-dir experiments/dual_v2_20261116 --output runs/verification-new.json
+python -B tools/verify_repository.py
+python -B -m pytest -q -p no:cacheprovider
+python -B -m src --demo --max-rounds 2 --stop-policy fixed
 ~~~
 
-output 的父目录须存在，文件须不存在。--check-working-source 额外要求当前 src 与旧实验源码完全一致，仅适用于旧源码环境；当前维护版已有命名和可观测性修复，默认核对归档快照。
+这些检查不需要 .env 或真实模型。完整性检查核对本地模块导入、必要配置、固定样本和文档链接；pytest 禁止网络连接。demo 使用脚本模型，只检查流程。
 
-## 新运行
+## 运行新实验
 
-单次 demo 不联网。真实模型运行必须提供本地密钥，并确认账户支持所用模型。不要复用已完成批次目录；使用新目录，保存新源码指纹、配置、调用预算和结果。
+src.experiments 支持 reliability、ablation、efficiency 和 early_exit 计划。先生成计划，再选择 --demo 离线演示或 --execute 真实执行，并提供 --max-calls 上限。示例见 [实验工具](EXPERIMENTS.md)。真实调用需要自行配置服务账户，计划中的模型标识必须由该账户支持。
 
-src.experiments 提供 reliability、ablation、efficiency 和 early_exit 计划。src.dual_study 是 10 篇样本、350 次尝试上限的固定协议工具，细节见 [双模型协议](DUAL_MODEL_V2.md)。更换样本量、提示、模型或评分标准应使用新的协议版本。
+src.dual_study 实现十篇文本的固定双模型消融协议，见 [双模型协议](DUAL_MODEL_V2.md)。更换数据、提示、模型或评分标准应生成新计划，使用新的输出目录，不覆盖旧批次。固定 seed 只控制任务顺序与 bootstrap，不保证远端模型确定复现。
 
-旧批次先由第一模型评测、修订，再由第二模型评分最终文本。第二模型不看条件和已有分数。若要区分模型差异与提示结构差异，需要额外控制提示布局；该实验尚未完成。
+## 本地归档复算
 
-## 归档结构
+原始模型返回、调用日志、历史源码快照和个人报告不随源码上传。已有归档可显式传给复算工具：
 
-公开证据从本地 runs 通过 tools/export_evidence.py 的白名单导出。MANIFEST.json 保存每个复制文件的 SHA256，原始 JSON 和日志按字节保留。没有复制 .env、IDE 设置、助手会话或审阅转录。历史 provenance 中可能保留项目路径和旧显示名，这些记录不随仓库改名重写。
+~~~powershell
+python -B tools/verify_dual_results.py --run-dir runs/dual_v2_20261116
+~~~
 
-原始结果包含文本与模型返回；使用自己的数据运行时，应先确认许可，再决定公开哪些材料。公开清单校验只能证明已列出的文件一致，不能证明服务商内部模型身份、计费完整性或客观文本质量。
+该工具专门核对已完成的 dual-v2 历史批次，包括固定数量、调用唯一性、快照哈希、评分与配对指标，不是任意规模实验的通用分析器。默认只读、不写入结果、不调用模型；--output 可写入尚不存在的新文件，父目录须存在。没有该归档时不必执行此命令，新实验用 src.dual_study analyze 或 src.experiments analyze 分析。
+
+归档按原始内容保存，历史来源、失败与负结果不随项目命名或文档调整而改写。模型间 MAE 与 Spearman 不是客观准确率；完整用量与费用依赖服务端 usage 和适用价表。

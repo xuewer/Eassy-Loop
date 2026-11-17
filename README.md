@@ -2,7 +2,7 @@
 
 基于 LangGraph 的英文文本评测与反馈修订框架。将相关性、语法、结构、论证深度拆成四个裁判节点，汇聚结构化判断后修订文本，并记录每轮内容、调用延迟和 Token 用量。
 
-项目原名 A2A_evaluator，曾使用 EssayLoop 显示名。当前使用进程内多角色编排，没有集成标准 A2A 通信协议。
+使用进程内多角色编排，不包含标准 A2A 通信协议。
 
 ## 主要功能
 
@@ -52,7 +52,7 @@ Linux/macOS 使用 .venv/bin/python。demo 使用脚本假模型，不联网，�
 
 模型标识及访问权限由服务账户决定。真实调用会产生费用；本项目不会默认执行实验或自动更换模型。
 
-PyCharm 配置：打开项目根目录，解释器选择 .venv/Scripts/python.exe，Module name 填 src，Working directory 选项目根目录，Parameters 先填 --demo --max-rounds 2 --stop-policy fixed。物理文件夹保留现有 A2A_evaluator，避免破坏虚拟环境与 IDE 配置；它不影响仓库和程序的显示名称。
+PyCharm 配置：打开项目根目录，解释器选择 .venv/Scripts/python.exe，Module name 填 src，Working directory 选项目根目录，Parameters 先填 --demo --max-rounds 2 --stop-policy fixed。项目可以放在任意目录，运行时以仓库根目录为工作目录。
 
 ## 常用参数
 
@@ -72,7 +72,7 @@ PyCharm 配置：打开项目根目录，解释器选择 .venv/Scripts/python.ex
 
 ## 已有实验
 
-[完整结果与限制](docs/RESULTS.md) · [公开原始记录](experiments/dual_v2_20261116/README.md) · [复算命令](docs/REPRODUCIBILITY.md)
+[实验协议](docs/DUAL_MODEL_V2.md) · [运行与复算](docs/REPRODUCIBILITY.md)
 
 2026-11-16 至 17 日，在 10 篇多主题合成英文初稿上执行四组固定两轮消融。40 个工作流中 31 成功、9 失败；第二模型对 34 篇去重文本评分，33 成功、1 次输出截断。共记录 320 次请求尝试，包括失败请求。
 
@@ -101,9 +101,8 @@ src/network_guard.py  网络预检、运行日志
 src/metrics.py        MAE、Spearman、标准差、bootstrap
 src/artifacts.py      结果归档与源码指纹
 tests/                禁止联网的单元及集成测试
-experiments/          可公开复算的已执行批次
 ```
 
-发布前在 Python 3.13 上通过 149 项离线测试，并复算归档指标；GitHub Actions 配置执行相同检查。历史批次保存执行时源码快照，当前维护代码可继续修复，不会改写旧实验记录。评分标准沿用 essayloop-rubric-v3 标识以保持历史可比性。
+精简分发文件后，从干净检出通过 152 项离线测试。GitHub Actions 检查源码文件完整性并运行离线测试，不依赖本地结果目录。历史批次的源码快照、日志和完整报告仅保存在本地，不随代码提交；上文数值为该批次的探索性摘要。评分标准沿用 essayloop-rubric-v3 标识。
 
-更多说明：[架构](docs/ARCHITECTURE.md)、[实验工具](docs/EXPERIMENTS.md)、[双模型协议](docs/DUAL_MODEL_V2.md)、[简历描述](docs/RESUME_ZH.md)。人工标注接口保留为可选工具，当前实验未使用，也不将 AI 评分标为人工评分。
+更多说明：[架构](docs/ARCHITECTURE.md)、[实验工具](docs/EXPERIMENTS.md)、[双模型协议](docs/DUAL_MODEL_V2.md)。人工标注接口保留为可选工具，当前实验未使用。仓库包含运行源码、测试、依赖和固定样本；简历材料、发布记录、原始调用日志和历史源码副本均在本地保存。
