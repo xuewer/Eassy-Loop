@@ -1,0 +1,30 @@
+{
+  "verified_at": "2026-11-17T08:04:22.045457+00:00",
+  "status": "passed",
+  "verification_type": "deterministic_recomputation_not_independent_semantic_audit",
+  "workflow_records": 40,
+  "workflow_success": 31,
+  "judge_items": 34,
+  "judge_success": 33,
+  "inference_attempts": 320,
+  "primary_paired_originals": 6,
+  "checks": [
+    "unique call IDs and total budget",
+    "source and snapshot hashes",
+    "dataset hash",
+    "planned workflow settings and original text identity",
+    "all result calls match journal",
+    "second-judge prompt hashes and raw JSON/evidence validation",
+    "weighted score arithmetic",
+    "MAE and tied-rank Spearman recomputed",
+    "sample-level delta bootstrap intervals recomputed",
+    "failed/unrated pair denominators",
+    "group change counts and negative outcomes"
+  ],
+  "input_hashes": {
+    "runs\\dual_v2_20261116\\DUAL_MODEL_REPORT.json": "1f62bd9d20a6780b8b6456e732c08d8c5fabcc1a384b5c9067d3af283f89266f",
+    "runs\\dual_v2_20261116\\batch_plan.json": "084ae92a64f533bb1f1beac8cd2b4ad48ae92d6f0439748b8e450ac7956000a6",
+    "runs\\dual_v2_20261116\\judge_plan.json": "c8538f2af1d38a3725d6c3c7403c351349e2b39ea86fe54e95579f510e3960eb"
+  },
+  "new_model_calls": 0
+}

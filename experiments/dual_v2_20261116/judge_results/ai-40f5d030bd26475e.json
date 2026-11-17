@@ -1,0 +1,63 @@
+{
+  "blind_id": "ai-40f5d030bd26475e",
+  "rater_type": "ai",
+  "model_requested": "kimi-k3",
+  "essay_sha256": "d4a93008ee555d717d467be25e1e82e804d10c82f7d1fc23720d5516950cfd97",
+  "human_attested": false,
+  "status": "ok",
+  "judgments": {
+    "relevance": {
+      "dimension": "relevance",
+      "score": 0.9,
+      "rationale": "Directly answers the question with a conditional yes and sustains that frame throughout; every paragraph (accessibility, cost, alternatives, consultation) bears on whether more facilities should be provided. No drift; only minor room to address who pays and what is displaced.",
+      "evidence": [
+        "should provide more community sports facilities where there is a clear local gap and a sustainable funding plan",
+        "a new facility is justified only when the municipality can show a long-term budget and a realistic operating plan"
+      ],
+      "suggestions": [
+        "Add one sentence on funding sources (taxes vs. reallocation) to fully address the 'should'.",
+        "Explicitly weigh facilities against competing municipal priorities."
+      ]
+    },
+    "grammar": {
+      "dimension": "grammar",
+      "score": 1.0,
+      "rationale": "No detectable errors in syntax, agreement, punctuation, or word choice; semicolons and parallel lists are handled correctly and sentences stay clear. Phrasing is precise without padding, so there is no material defect for this criterion.",
+      "evidence": [
+        "Construction is only the beginning; maintenance, staffing, cleaning, and repairs continue for many years.",
+        "making the promise of access meaningless"
+      ],
+      "suggestions": [
+        "Optionally vary sentence openings to reduce repeated 'The + noun' starts.",
+        "No error corrections needed; only minor tightening possible."
+      ]
+    },
+    "structure": {
+      "dimension": "structure",
+      "score": 0.9,
+      "rationale": "Clear conditional thesis up front; body paragraphs have distinct roles (benefit, cost objection, alternatives) with explicit topic sentences and transitions; conclusion synthesizes decision criteria rather than merely repeating. Minor: the cost paragraph could be signposted earlier as a concession.",
+      "evidence": [
+        "The strongest reason for more facilities is accessibility.",
+        "The main concern is cost."
+      ],
+      "suggestions": [
+        "Mark the cost paragraph explicitly as a concession (e.g., 'Admittedly...') to sharpen the argument's architecture.",
+        "End with a one-sentence decision rule restating the two conditions (gap plus sustainable funding)."
+      ]
+    },
+    "depth": {
+      "dimension": "depth",
+      "score": 0.9,
+      "rationale": "Gives causal mechanisms (maintenance costs eroding promised access), task-specific details (lighting, transport, opening hours), genuine alternatives, counterarguments, and an explicit limitation of survey evidence. Claims remain reasoned but general; no quantified trade-off or concrete case grounds them.",
+      "evidence": [
+        "people who answer surveys may not represent everybody",
+        "repair them, extend opening hours, or improve transport links rather than build anew"
+      ],
+      "suggestions": [
+        "Add a concrete illustration, such as a hypothetical annual maintenance figure, to ground the cost mechanism.",
+        "Name the opportunity cost: what other spending would be displaced."
+      ]
+    }
+  },
+  "raw_response": "{\"judgments\":[{\"dimension\":\"relevance\",\"score\":0.9,\"rationale\":\"Directly answers the question with a conditional yes and sustains that frame throughout; every paragraph (accessibility, cost, alternatives, consultation) bears on whether more facilities should be provided. No drift; only minor room to address who pays and what is displaced.\",\"evidence\":[\"should provide more community sports facilities where there is a clear local gap and a sustainable funding plan\",\"a new facility is justified only when the municipality can show a long-term budget and a realistic operating plan\"],\"suggestions\":[\"Add one sentence on funding sources (taxes vs. reallocation) to fully address the 'should'.\",\"Explicitly weigh facilities against competing municipal priorities.\"]},{\"dimension\":\"grammar\",\"score\":1,\"rationale\":\"No detectable errors in syntax, agreement, punctuation, or word choice; semicolons and parallel lists are handled correctly and sentences stay clear. Phrasing is precise without padding, so there is no material defect for this criterion.\",\"evidence\":[\"Construction is only the beginning; maintenance, staffing, cleaning, and repairs continue for many years.\",\"making the promise of access meaningless\"],\"suggestions\":[\"Optionally vary sentence openings to reduce repeated 'The + noun' starts.\",\"No error corrections needed; only minor tightening possible.\"]},{\"dimension\":\"structure\",\"score\":0.9,\"rationale\":\"Clear conditional thesis up front; body paragraphs have distinct roles (benefit, cost objection, alternatives) with explicit topic sentences and transitions; conclusion synthesizes decision criteria rather than merely repeating. Minor: the cost paragraph could be signposted earlier as a concession.\",\"evidence\":[\"The strongest reason for more facilities is accessibility.\",\"The main concern is cost.\"],\"suggestions\":[\"Mark the cost paragraph explicitly as a concession (e.g., 'Admittedly...') to sharpen the argument's architecture.\",\"End with a one-sentence decision rule restating the two conditions (gap plus sustainable funding).\"]},{\"dimension\":\"depth\",\"score\":0.9,\"rationale\":\"Gives causal mechanisms (maintenance costs eroding promised access), task-specific details (lighting, transport, opening hours), genuine alternatives, counterarguments, and an explicit limitation of survey evidence. Claims remain reasoned but general; no quantified trade-off or concrete case grounds them.\",\"evidence\":[\"people who answer surveys may not represent everybody\",\"repair them, extend opening hours, or improve transport links rather than build anew\"],\"suggestions\":[\"Add a concrete illustration, such as a hypothetical annual maintenance figure, to ground the cost mechanism.\",\"Name the opportunity cost: what other spending would be displaced.\"]}]}"
+}

@@ -1,0 +1,61 @@
+{
+  "blind_id": "ai-cf6c75d6e3904a5b",
+  "rater_type": "ai",
+  "model_requested": "kimi-k3",
+  "essay_sha256": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+  "human_attested": false,
+  "status": "ok",
+  "judgments": {
+    "relevance": {
+      "dimension": "relevance",
+      "score": 0.9,
+      "rationale": "The essay directly answers the question with a clear conditional position and sustains it across every paragraph: permitted uses, prohibited uses, grade level, and equity. The digital literacy and privacy points drift slightly toward general school policy rather than the homework question itself, a minor deviation.",
+      "evidence": [
+        "Schools should allow generative AI for homework in limited, clearly defined circumstances",
+        "The key distinction is assignment purpose"
+      ],
+      "suggestions": [
+        "Tie the digital literacy and privacy sentences explicitly back to homework policy rather than general schooling."
+      ]
+    },
+    "grammar": {
+      "dimension": "grammar",
+      "score": 0.95,
+      "rationale": "Syntax, punctuation, and word choice are consistently correct, including semicolon use and parallel structure. No actual errors found. Only minor optional refinements exist, such as singular 'they' after 'a student,' which is acceptable but could be tightened for formal precision.",
+      "evidence": [
+        "the tool should function like a tutor, prompting questions and helping the learner revise their own work",
+        "When a student is drafting an essay, for example, they might use AI"
+      ],
+      "suggestions": [
+        "For strict formal agreement, revise to 'When students are drafting essays, for example, they might use AI.'"
+      ]
+    },
+    "structure": {
+      "dimension": "structure",
+      "score": 0.9,
+      "rationale": "Clear thesis in the introduction, distinct paragraph roles (support, prohibition, grade level, fairness), effective contrast transitions, and a conclusion that restates the balanced position. Limitation: the fairness paragraph is somewhat list-like and the intro lacks a roadmap of the coming criteria.",
+      "evidence": [
+        "However, not all homework should permit AI.",
+        "In conclusion, schools should not ban generative AI from homework entirely"
+      ],
+      "suggestions": [
+        "Add a brief roadmap sentence in the introduction previewing the learning-vs-assessment distinction and equity concern.",
+        "Strengthen the transition linking the grade-level paragraph to the fairness paragraph."
+      ]
+    },
+    "depth": {
+      "dimension": "depth",
+      "score": 0.8,
+      "rationale": "Offers a genuine causal mechanism (assessment validity), task-level examples (outlines, grammar checks, math problems, lab analysis), and addresses equity as a counterargument. However, all claims are unsupported assertions with no evidence, and key limitations such as enforcement difficulty and unreliable AI detection go unaddressed.",
+      "evidence": [
+        "If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material.",
+        "Not all students have the same devices, internet access, or paid AI subscriptions."
+      ],
+      "suggestions": [
+        "Address enforcement: acknowledge that detecting AI use in homework is difficult and explain how the policy handles that.",
+        "Acknowledge the lack of empirical evidence or qualify claims about AI improving learning outcomes."
+      ]
+    }
+  },
+  "raw_response": "{\"judgments\":[{\"dimension\":\"relevance\",\"score\":0.9,\"rationale\":\"The essay directly answers the question with a clear conditional position and sustains it across every paragraph: permitted uses, prohibited uses, grade level, and equity. The digital literacy and privacy points drift slightly toward general school policy rather than the homework question itself, a minor deviation.\",\"evidence\":[\"Schools should allow generative AI for homework in limited, clearly defined circumstances\",\"The key distinction is assignment purpose\"],\"suggestions\":[\"Tie the digital literacy and privacy sentences explicitly back to homework policy rather than general schooling.\"]},{\"dimension\":\"grammar\",\"score\":0.95,\"rationale\":\"Syntax, punctuation, and word choice are consistently correct, including semicolon use and parallel structure. No actual errors found. Only minor optional refinements exist, such as singular 'they' after 'a student,' which is acceptable but could be tightened for formal precision.\",\"evidence\":[\"the tool should function like a tutor, prompting questions and helping the learner revise their own work\",\"When a student is drafting an essay, for example, they might use AI\"],\"suggestions\":[\"For strict formal agreement, revise to 'When students are drafting essays, for example, they might use AI.'\"]},{\"dimension\":\"structure\",\"score\":0.9,\"rationale\":\"Clear thesis in the introduction, distinct paragraph roles (support, prohibition, grade level, fairness), effective contrast transitions, and a conclusion that restates the balanced position. Limitation: the fairness paragraph is somewhat list-like and the intro lacks a roadmap of the coming criteria.\",\"evidence\":[\"However, not all homework should permit AI.\",\"In conclusion, schools should not ban generative AI from homework entirely\"],\"suggestions\":[\"Add a brief roadmap sentence in the introduction previewing the learning-vs-assessment distinction and equity concern.\",\"Strengthen the transition linking the grade-level paragraph to the fairness paragraph.\"]},{\"dimension\":\"depth\",\"score\":0.8,\"rationale\":\"Offers a genuine causal mechanism (assessment validity), task-level examples (outlines, grammar checks, math problems, lab analysis), and addresses equity as a counterargument. However, all claims are unsupported assertions with no evidence, and key limitations such as enforcement difficulty and unreliable AI detection go unaddressed.\",\"evidence\":[\"If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material.\",\"Not all students have the same devices, internet access, or paid AI subscriptions.\"],\"suggestions\":[\"Address enforcement: acknowledge that detecting AI use in homework is difficult and explain how the policy handles that.\",\"Acknowledge the lack of empirical evidence or qualify claims about AI improving learning outcomes.\"]}]}"
+}

@@ -1,0 +1,543 @@
+{
+  "protocol": "dual-model-v2",
+  "human_review": "cancelled_by_user_not_in_protocol",
+  "evidence_type": "small_exploratory_dual_model_comparison",
+  "workflow_attempted": 40,
+  "workflow_planned": 40,
+  "judge_attempted": 34,
+  "judge_successful": 33,
+  "judge_failed": 1,
+  "model_agreement_by_original_cluster_not_accuracy": {
+    "relevance": {
+      "n": 10,
+      "mae": 0.03025,
+      "spearman": 0.6008190860104126,
+      "mae_ci95": [
+        0.016666666666666663,
+        0.045000000000000005
+      ],
+      "spearman_ci95": [
+        -0.13380139498238702,
+        0.9240506329113924
+      ],
+      "bootstrap_valid_spearman": 1999,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "grammar": {
+      "n": 10,
+      "mae": 0.02908333333333333,
+      "spearman": 0.8419239304285934,
+      "mae_ci95": [
+        0.015166666666666672,
+        0.044166666666666646
+      ],
+      "spearman_ci95": [
+        0.3937496154790789,
+        0.9875771574795099
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "structure": {
+      "n": 10,
+      "mae": 0.06208333333333334,
+      "spearman": 0.4197850785760756,
+      "mae_ci95": [
+        0.04583333333333334,
+        0.07875000000000001
+      ],
+      "spearman_ci95": [
+        -0.41381140311601877,
+        0.9215686274509803
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "depth": {
+      "n": 10,
+      "mae": 0.19599999999999998,
+      "spearman": 0.7865999889816444,
+      "mae_ci95": [
+        0.16749999999999998,
+        0.2270833333333333
+      ],
+      "spearman_ci95": [
+        0.35962324047475425,
+        0.9607843137254902
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "weighted_total": {
+      "n": 10,
+      "mae": 0.08510833333333334,
+      "spearman": 0.8666666666666667,
+      "mae_ci95": [
+        0.07121666666666668,
+        0.09765000000000001
+      ],
+      "spearman_ci95": [
+        0.4117647058823529,
+        1.0
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    }
+  },
+  "original_text_model_agreement_not_accuracy": {
+    "relevance": {
+      "n": 10,
+      "mae": 0.09258333333333334,
+      "spearman": 0.8884124622673067,
+      "mae_ci95": [
+        0.05808333333333334,
+        0.12808333333333333
+      ],
+      "spearman_ci95": [
+        0.5477225575051661,
+        0.9902118361842986
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "grammar": {
+      "n": 10,
+      "mae": 0.04325,
+      "spearman": 0.9366097648767091,
+      "mae_ci95": [
+        0.021999999999999985,
+        0.07075
+      ],
+      "spearman_ci95": [
+        0.7349684152591671,
+        0.996850385877389
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "structure": {
+      "n": 10,
+      "mae": 0.11349999999999999,
+      "spearman": 0.9753048303966928,
+      "mae_ci95": [
+        0.07224999999999998,
+        0.15975
+      ],
+      "spearman_ci95": [
+        0.8901981971385245,
+        1.0
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "depth": {
+      "n": 10,
+      "mae": 0.15608333333333335,
+      "spearman": 0.9573348703109936,
+      "mae_ci95": [
+        0.09925000000000002,
+        0.21775
+      ],
+      "spearman_ci95": [
+        0.7619393177594593,
+        1.0
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    },
+    "weighted_total": {
+      "n": 10,
+      "mae": 0.10313333333333334,
+      "spearman": 0.9848069807617046,
+      "mae_ci95": [
+        0.08669166666666664,
+        0.11825000000000002
+      ],
+      "spearman_ci95": [
+        0.8125,
+        1.0
+      ],
+      "bootstrap_valid_spearman": 2000,
+      "ci_note": "Percentile bootstrap over items; n<=10 is exploratory, repeated model calls are not independent samples"
+    }
+  },
+  "agreement_definitions": {
+    "original_text_model_agreement_not_accuracy": "One pair per original: mean of first-round first-model observations across conditions versus one second-model original rating. Effective counts differ after failures.",
+    "model_agreement_by_original_cluster_not_accuracy": "One pair per original cluster: average scores across successful final condition texts. Not forty independent samples; excludes unsuccessful/unrated workflows."
+  },
+  "successful_final_text_pairs": 30,
+  "variants": {
+    "no_rewrite": {
+      "attempted": 10,
+      "workflow_success": 8,
+      "workflow_failed": 2,
+      "not_attempted": 0,
+      "ai_changes_vs_original": {
+        "n": 8,
+        "mean_delta": 0.0,
+        "ci95_sample_bootstrap": [
+          0.0,
+          0.0
+        ],
+        "improved": 0,
+        "tied": 8,
+        "regressed": 0,
+        "tie_tolerance": 1e-12
+      }
+    },
+    "no_feedback": {
+      "attempted": 10,
+      "workflow_success": 10,
+      "workflow_failed": 0,
+      "not_attempted": 0,
+      "ai_changes_vs_original": {
+        "n": 10,
+        "mean_delta": 0.15,
+        "ci95_sample_bootstrap": [
+          0.055499999999999994,
+          0.2725
+        ],
+        "improved": 8,
+        "tied": 1,
+        "regressed": 1,
+        "tie_tolerance": 1e-12
+      }
+    },
+    "relevance_feedback": {
+      "attempted": 10,
+      "workflow_success": 7,
+      "workflow_failed": 3,
+      "not_attempted": 0,
+      "ai_changes_vs_original": {
+        "n": 6,
+        "mean_delta": 0.14333333333333334,
+        "ci95_sample_bootstrap": [
+          0.051666666666666694,
+          0.2875
+        ],
+        "improved": 6,
+        "tied": 0,
+        "regressed": 0,
+        "tie_tolerance": 1e-12
+      }
+    },
+    "all_feedback": {
+      "attempted": 10,
+      "workflow_success": 6,
+      "workflow_failed": 4,
+      "not_attempted": 0,
+      "ai_changes_vs_original": {
+        "n": 6,
+        "mean_delta": 0.12583333333333335,
+        "ci95_sample_bootstrap": [
+          0.030000000000000027,
+          0.27
+        ],
+        "improved": 6,
+        "tied": 0,
+        "regressed": 0,
+        "tie_tolerance": 1e-12
+      }
+    }
+  },
+  "comparisons": {
+    "all_feedback_vs_no_feedback": {
+      "per_sample": [
+        {
+          "sample_id": "explore-04",
+          "first_model_delta": 0.0040000000000000036,
+          "second_model_delta": 0.020000000000000018
+        },
+        {
+          "sample_id": "explore-06",
+          "first_model_delta": 0.019999999999999907,
+          "second_model_delta": 0.02499999999999991
+        },
+        {
+          "sample_id": "explore-07",
+          "first_model_delta": 0.020000000000000018,
+          "second_model_delta": -0.015000000000000013
+        },
+        {
+          "sample_id": "explore-08",
+          "first_model_delta": 0.026000000000000023,
+          "second_model_delta": -0.03499999999999992
+        },
+        {
+          "sample_id": "explore-09",
+          "first_model_delta": 0.06000000000000005,
+          "second_model_delta": -0.014999999999999902
+        },
+        {
+          "sample_id": "explore-10",
+          "first_model_delta": 0.008999999999999897,
+          "second_model_delta": -0.03500000000000003
+        }
+      ],
+      "first_model": {
+        "n": 6,
+        "mean_delta": 0.02316666666666665,
+        "ci95_sample_bootstrap": [
+          0.010999999999999935,
+          0.039333333333333366
+        ],
+        "improved": 6,
+        "tied": 0,
+        "regressed": 0,
+        "tie_tolerance": 1e-12
+      },
+      "second_model": {
+        "n": 6,
+        "mean_delta": -0.009166666666666656,
+        "ci95_sample_bootstrap": [
+          -0.028333333333333304,
+          0.010833333333333306
+        ],
+        "improved": 2,
+        "tied": 0,
+        "regressed": 4,
+        "tie_tolerance": 1e-12
+      },
+      "failed_workflow_pairs": 4,
+      "missing_pairs": 0,
+      "unrated_successful_pairs": 0
+    },
+    "all_feedback_vs_relevance_feedback": {
+      "per_sample": [
+        {
+          "sample_id": "explore-08",
+          "first_model_delta": 0.09600000000000009,
+          "second_model_delta": -0.029999999999999916
+        },
+        {
+          "sample_id": "explore-10",
+          "first_model_delta": -0.0050000000000000044,
+          "second_model_delta": -0.040000000000000036
+        }
+      ],
+      "first_model": {
+        "n": 2,
+        "mean_delta": 0.04550000000000004,
+        "ci95_sample_bootstrap": [
+          -0.0050000000000000044,
+          0.09600000000000009
+        ],
+        "improved": 1,
+        "tied": 0,
+        "regressed": 1,
+        "tie_tolerance": 1e-12
+      },
+      "second_model": {
+        "n": 2,
+        "mean_delta": -0.034999999999999976,
+        "ci95_sample_bootstrap": [
+          -0.040000000000000036,
+          -0.029999999999999916
+        ],
+        "improved": 0,
+        "tied": 0,
+        "regressed": 2,
+        "tie_tolerance": 1e-12
+      },
+      "failed_workflow_pairs": 7,
+      "missing_pairs": 0,
+      "unrated_successful_pairs": 1
+    },
+    "no_feedback_vs_no_rewrite": {
+      "per_sample": [
+        {
+          "sample_id": "explore-01",
+          "first_model_delta": 0.01000000000000012,
+          "second_model_delta": 0.025000000000000022
+        },
+        {
+          "sample_id": "explore-02",
+          "first_model_delta": 0.135,
+          "second_model_delta": 0.07500000000000007
+        },
+        {
+          "sample_id": "explore-03",
+          "first_model_delta": 0.58,
+          "second_model_delta": 0.51
+        },
+        {
+          "sample_id": "explore-05",
+          "first_model_delta": 0.07999999999999996,
+          "second_model_delta": 0.07999999999999996
+        },
+        {
+          "sample_id": "explore-06",
+          "first_model_delta": -0.031000000000000028,
+          "second_model_delta": 0.0
+        },
+        {
+          "sample_id": "explore-07",
+          "first_model_delta": 0.41500000000000004,
+          "second_model_delta": 0.465
+        },
+        {
+          "sample_id": "explore-08",
+          "first_model_delta": 0.04400000000000004,
+          "second_model_delta": 0.04500000000000004
+        },
+        {
+          "sample_id": "explore-10",
+          "first_model_delta": 0.18100000000000005,
+          "second_model_delta": 0.15000000000000002
+        }
+      ],
+      "first_model": {
+        "n": 8,
+        "mean_delta": 0.17675000000000002,
+        "ci95_sample_bootstrap": [
+          0.05225000000000003,
+          0.327625
+        ],
+        "improved": 7,
+        "tied": 0,
+        "regressed": 1,
+        "tie_tolerance": 1e-12
+      },
+      "second_model": {
+        "n": 8,
+        "mean_delta": 0.16875,
+        "ci95_sample_bootstrap": [
+          0.05187500000000002,
+          0.3175
+        ],
+        "improved": 7,
+        "tied": 1,
+        "regressed": 0,
+        "tie_tolerance": 1e-12
+      },
+      "failed_workflow_pairs": 2,
+      "missing_pairs": 0,
+      "unrated_successful_pairs": 0
+    },
+    "relevance_feedback_vs_no_rewrite": {
+      "per_sample": [
+        {
+          "sample_id": "explore-01",
+          "first_model_delta": -0.039999999999999925,
+          "second_model_delta": 0.05500000000000005
+        },
+        {
+          "sample_id": "explore-02",
+          "first_model_delta": 0.05500000000000005,
+          "second_model_delta": 0.03500000000000003
+        },
+        {
+          "sample_id": "explore-03",
+          "first_model_delta": 0.545,
+          "second_model_delta": 0.48
+        },
+        {
+          "sample_id": "explore-05",
+          "first_model_delta": 0.17499999999999993,
+          "second_model_delta": 0.09499999999999997
+        },
+        {
+          "sample_id": "explore-08",
+          "first_model_delta": -0.026000000000000023,
+          "second_model_delta": 0.040000000000000036
+        },
+        {
+          "sample_id": "explore-10",
+          "first_model_delta": 0.19499999999999995,
+          "second_model_delta": 0.15500000000000003
+        }
+      ],
+      "first_model": {
+        "n": 6,
+        "mean_delta": 0.15066666666666667,
+        "ci95_sample_bootstrap": [
+          0.014000000000000032,
+          0.32416666666666666
+        ],
+        "improved": 4,
+        "tied": 0,
+        "regressed": 2,
+        "tie_tolerance": 1e-12
+      },
+      "second_model": {
+        "n": 6,
+        "mean_delta": 0.14333333333333334,
+        "ci95_sample_bootstrap": [
+          0.050000000000000024,
+          0.2808333333333333
+        ],
+        "improved": 6,
+        "tied": 0,
+        "regressed": 0,
+        "tie_tolerance": 1e-12
+      },
+      "failed_workflow_pairs": 3,
+      "missing_pairs": 0,
+      "unrated_successful_pairs": 1
+    },
+    "all_feedback_vs_no_rewrite": {
+      "per_sample": [
+        {
+          "sample_id": "explore-06",
+          "first_model_delta": -0.01100000000000012,
+          "second_model_delta": 0.02499999999999991
+        },
+        {
+          "sample_id": "explore-07",
+          "first_model_delta": 0.43500000000000005,
+          "second_model_delta": 0.45
+        },
+        {
+          "sample_id": "explore-08",
+          "first_model_delta": 0.07000000000000006,
+          "second_model_delta": 0.01000000000000012
+        },
+        {
+          "sample_id": "explore-10",
+          "first_model_delta": 0.18999999999999995,
+          "second_model_delta": 0.11499999999999999
+        }
+      ],
+      "first_model": {
+        "n": 4,
+        "mean_delta": 0.17099999999999999,
+        "ci95_sample_bootstrap": [
+          0.02949999999999997,
+          0.37375
+        ],
+        "improved": 3,
+        "tied": 0,
+        "regressed": 1,
+        "tie_tolerance": 1e-12
+      },
+      "second_model": {
+        "n": 4,
+        "mean_delta": 0.15000000000000002,
+        "ci95_sample_bootstrap": [
+          0.017500000000000016,
+          0.36625
+        ],
+        "improved": 4,
+        "tied": 0,
+        "regressed": 0,
+        "tie_tolerance": 1e-12
+      },
+      "failed_workflow_pairs": 6,
+      "missing_pairs": 0,
+      "unrated_successful_pairs": 0
+    }
+  },
+  "telemetry": {
+    "call_count": 320,
+    "provider_failures": 6,
+    "usage_complete": false,
+    "calls_missing_usage": 5,
+    "observed_input_tokens": 222546,
+    "observed_output_tokens": 416304,
+    "total_tokens": null,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation."
+  },
+  "total_authorized_inference_attempts": 350,
+  "warning": "No human review or ground truth. Models differ in identity and prompt layout. N=10 synthetic dev originals, one rewrite realization. Retain failures and negative deltas; no full-system validation or speedup claim."
+}

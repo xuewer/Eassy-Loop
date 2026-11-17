@@ -1,0 +1,465 @@
+{
+  "topic": "What makes an online product review trustworthy?",
+  "essay": "An online review is trustworthy when the reader can understand what the writer tested and what they cannot know. Many review says a product is excellent or terrible without describing the use. A clear account of a particular situation is more useful. For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.\n\nThe writer should explain how long they used the item and what happen during that time. A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years. These are different kinds of claim. A reviewer who makes the limits visible give the reader a better chance to decide whether the experience applies to them.\n\nPhotos and detailed descriptions can help, although neither proves honesty on its own. A picture might be selected to hide a problem, and a long review can repeat information from an advertisement. It is useful to compare accounts that describe different uses rather than counting only the positive stars. If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective.\n\nThe relationship between the writer and seller also matter. Free samples or payment could influence the review, so they should be disclosed clearly. However, an unpaid buyer can also have unusual expectations or receive an unlucky faulty item. Trust should therefore not depend on one simple label. The evidence in the review and the writer willingness to acknowledge uncertainty remain important.\n\nReaders should look for specific observations, relevant conditions and honest limitations. No review can remove every uncertainty before purchase. A trustworthy review helps a reader ask better questions and understand trade-offs, rather than promising a perfect answer for everybody. This standard is harder than accepting a confident recommendation, but it is also more useful when products and people differs.",
+  "current_round": 1,
+  "feedback": "[{\"dimension\": \"grammar\", \"score\": 0.5, \"rationale\": \"The essay is generally clear and readable, but it contains multiple actual grammar errors rather than merely optional style issues. The most common problems are subject-verb agreement, pluralization, tense, and a missing possessive. These errors are noticeable enough to reduce confidence in the writing, though they do not obscure the main argument.\", \"evidence\": [\"Many review says\", \"may needs\", \"products and people differs\"], \"suggestions\": [\"Fix subject-verb agreement and plural forms: “Many reviews say,” “the relationship … also matters,” and “products and people differ.”\", \"Correct verb forms and tense: “may need,” “what happened,” and “a reviewer who makes the limits visible gives.”\", \"Add the missing possessive: “the writer’s willingness to acknowledge uncertainty.”\"]}, {\"dimension\": \"depth\", \"score\": 0.55, \"rationale\": \"The essay identifies several relevant factors—specificity of use, duration of testing, disclosure of incentives, and limits of photos or star counts—and it includes useful limitations, such as the possibility that unpaid buyers may still be biased or unlucky. However, the causal reasoning remains mostly surface-level: it says disclosure “could influence” reviews and repeated faults “may be a reason to investigate,” but does not explain how those mechanisms work, how readers can test them, or what evidence would strengthen or weaken trust. Task-level specificity is present but thin; the bag example is helpful, yet the essay lacks a concrete comparison between a weak and strong review, details about product categories, or methods for evaluating review reliability beyond general advice. The result is a reasonable overview rather than a deeply developed analysis.\", \"evidence\": [\"For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.\", \"A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years.\", \"If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective.\"], \"suggestions\": [\"Add a concrete side-by-side example: compare a vague review (“Great bag, very sturdy”) with a specific one (“After six months of daily commuting, the zipper failed at the bottom corner”), and explain which details make the second more trustworthy.\", \"Deepen the causal mechanisms by explaining how incentives, sample products, and platform verification affect reliability, and what signals readers can use to assess them, such as purchase confirmation, review timing, and consistency with other reviews.\", \"Expand limitations by discussing when aggregation can mislead, such as coordinated reviews, extreme outliers, or products that differ across batches, and how a reader can weigh multiple reviews without treating consensus as proof.\"]}, {\"dimension\": \"structure\", \"score\": 0.75, \"rationale\": \"The essay has a clear, focused thesis and a generally logical progression from what reviewers should disclose about their testing, to the limits of evidence, to conflicts of interest, and finally to a concluding standard for readers. Paragraph roles are mostly distinct, and the conclusion returns to the main claim. However, organization has identifiable limitations: the second body paragraph combines two related but separate ideas—photos/descriptions and independent accounts—making its role less precise. Transitions are present but often implicit, and the conclusion omits explicit reference to disclosure of relationships, which weakens the final synthesis.\", \"evidence\": [\"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\", \"Photos and detailed descriptions can help, although neither proves honesty on its own.\", \"Readers should look for specific observations, relevant conditions and honest limitations.\"], \"suggestions\": [\"Separate the discussion of visual evidence and independent corroboration into clearer paragraph roles, each with a more explicit topic sentence.\", \"Add smoother transitions between body paragraphs, such as signaling that after evidence comes the issue of disclosure or bias.\", \"Revise the conclusion to include all major criteria, including disclosed relationships, so the final paragraph fully integrates the essay’s structure.\"]}, {\"dimension\": \"relevance\", \"score\": 0.8, \"rationale\": \"The essay stays closely aligned with the topic and addresses the essential question by identifying several factors that make an online product review trustworthy: specific use conditions, duration of testing, visible limitations, disclosure of conflicts of interest, and independent corroboration. It avoids generic praise or criticism and instead explains what readers should look for. The main limitation is that it does not fully develop some online-specific trust markers, such as verified purchase status, reviewer history, date/recency, platform moderation, or seller responses, which are often relevant to judging online reviews.\", \"evidence\": [\"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\", \"The relationship between the writer and seller also matter.\", \"Readers should look for specific observations, relevant conditions and honest limitations.\"], \"suggestions\": [\"Add a sentence on how verified purchase status, reviewer history, or account age can support or undermine trust.\", \"Mention the importance of review date and product version, since trustworthiness can depend on recency and model changes.\", \"Include a brief note on platform features such as seller responses, reported-review flags, or moderation tools as additional trust signals.\"]}]",
+  "final_score": 0.655,
+  "exit_reason": null,
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "An online review is trustworthy when the reader can understand what the writer tested and what they cannot know. Many review says a product is excellent or terrible without describing the use. A clear account of a particular situation is more useful. For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.\n\nThe writer should explain how long they used the item and what happen during that time. A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years. These are different kinds of claim. A reviewer who makes the limits visible give the reader a better chance to decide whether the experience applies to them.\n\nPhotos and detailed descriptions can help, although neither proves honesty on its own. A picture might be selected to hide a problem, and a long review can repeat information from an advertisement. It is useful to compare accounts that describe different uses rather than counting only the positive stars. If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective.\n\nThe relationship between the writer and seller also matter. Free samples or payment could influence the review, so they should be disclosed clearly. However, an unpaid buyer can also have unusual expectations or receive an unlucky faulty item. Trust should therefore not depend on one simple label. The evidence in the review and the writer willingness to acknowledge uncertainty remain important.\n\nReaders should look for specific observations, relevant conditions and honest limitations. No review can remove every uncertainty before purchase. A trustworthy review helps a reader ask better questions and understand trade-offs, rather than promising a perfect answer for everybody. This standard is harder than accepting a confident recommendation, but it is also more useful when products and people differs.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.8,
+            "rationale": "The essay stays closely aligned with the topic and addresses the essential question by identifying several factors that make an online product review trustworthy: specific use conditions, duration of testing, visible limitations, disclosure of conflicts of interest, and independent corroboration. It avoids generic praise or criticism and instead explains what readers should look for. The main limitation is that it does not fully develop some online-specific trust markers, such as verified purchase status, reviewer history, date/recency, platform moderation, or seller responses, which are often relevant to judging online reviews.",
+            "evidence": [
+              "An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.",
+              "The relationship between the writer and seller also matter.",
+              "Readers should look for specific observations, relevant conditions and honest limitations."
+            ],
+            "suggestions": [
+              "Add a sentence on how verified purchase status, reviewer history, or account age can support or undermine trust.",
+              "Mention the importance of review date and product version, since trustworthiness can depend on recency and model changes.",
+              "Include a brief note on platform features such as seller responses, reported-review flags, or moderation tools as additional trust signals."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.8,\n  \"rationale\": \"The essay stays closely aligned with the topic and addresses the essential question by identifying several factors that make an online product review trustworthy: specific use conditions, duration of testing, visible limitations, disclosure of conflicts of interest, and independent corroboration. It avoids generic praise or criticism and instead explains what readers should look for. The main limitation is that it does not fully develop some online-specific trust markers, such as verified purchase status, reviewer history, date/recency, platform moderation, or seller responses, which are often relevant to judging online reviews.\",\n  \"evidence\": [\n    \"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\",\n    \"The relationship between the writer and seller also matter.\",\n    \"Readers should look for specific observations, relevant conditions and honest limitations.\"\n  ],\n  \"suggestions\": [\n    \"Add a sentence on how verified purchase status, reviewer history, or account age can support or undermine trust.\",\n    \"Mention the importance of review date and product version, since trustworthiness can depend on recency and model changes.\",\n    \"Include a brief note on platform features such as seller responses, reported-review flags, or moderation tools as additional trust signals.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.5,
+            "rationale": "The essay is generally clear and readable, but it contains multiple actual grammar errors rather than merely optional style issues. The most common problems are subject-verb agreement, pluralization, tense, and a missing possessive. These errors are noticeable enough to reduce confidence in the writing, though they do not obscure the main argument.",
+            "evidence": [
+              "Many review says",
+              "may needs",
+              "products and people differs"
+            ],
+            "suggestions": [
+              "Fix subject-verb agreement and plural forms: “Many reviews say,” “the relationship … also matters,” and “products and people differ.”",
+              "Correct verb forms and tense: “may need,” “what happened,” and “a reviewer who makes the limits visible gives.”",
+              "Add the missing possessive: “the writer’s willingness to acknowledge uncertainty.”"
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.5,\n  \"rationale\": \"The essay is generally clear and readable, but it contains multiple actual grammar errors rather than merely optional style issues. The most common problems are subject-verb agreement, pluralization, tense, and a missing possessive. These errors are noticeable enough to reduce confidence in the writing, though they do not obscure the main argument.\",\n  \"evidence\": [\n    \"Many review says\",\n    \"may needs\",\n    \"products and people differs\"\n  ],\n  \"suggestions\": [\n    \"Fix subject-verb agreement and plural forms: “Many reviews say,” “the relationship … also matters,” and “products and people differ.”\",\n    \"Correct verb forms and tense: “may need,” “what happened,” and “a reviewer who makes the limits visible gives.”\",\n    \"Add the missing possessive: “the writer’s willingness to acknowledge uncertainty.”\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.75,
+            "rationale": "The essay has a clear, focused thesis and a generally logical progression from what reviewers should disclose about their testing, to the limits of evidence, to conflicts of interest, and finally to a concluding standard for readers. Paragraph roles are mostly distinct, and the conclusion returns to the main claim. However, organization has identifiable limitations: the second body paragraph combines two related but separate ideas—photos/descriptions and independent accounts—making its role less precise. Transitions are present but often implicit, and the conclusion omits explicit reference to disclosure of relationships, which weakens the final synthesis.",
+            "evidence": [
+              "An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.",
+              "Photos and detailed descriptions can help, although neither proves honesty on its own.",
+              "Readers should look for specific observations, relevant conditions and honest limitations."
+            ],
+            "suggestions": [
+              "Separate the discussion of visual evidence and independent corroboration into clearer paragraph roles, each with a more explicit topic sentence.",
+              "Add smoother transitions between body paragraphs, such as signaling that after evidence comes the issue of disclosure or bias.",
+              "Revise the conclusion to include all major criteria, including disclosed relationships, so the final paragraph fully integrates the essay’s structure."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.75,\n  \"rationale\": \"The essay has a clear, focused thesis and a generally logical progression from what reviewers should disclose about their testing, to the limits of evidence, to conflicts of interest, and finally to a concluding standard for readers. Paragraph roles are mostly distinct, and the conclusion returns to the main claim. However, organization has identifiable limitations: the second body paragraph combines two related but separate ideas—photos/descriptions and independent accounts—making its role less precise. Transitions are present but often implicit, and the conclusion omits explicit reference to disclosure of relationships, which weakens the final synthesis.\",\n  \"evidence\": [\n    \"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\",\n    \"Photos and detailed descriptions can help, although neither proves honesty on its own.\",\n    \"Readers should look for specific observations, relevant conditions and honest limitations.\"\n  ],\n  \"suggestions\": [\n    \"Separate the discussion of visual evidence and independent corroboration into clearer paragraph roles, each with a more explicit topic sentence.\",\n    \"Add smoother transitions between body paragraphs, such as signaling that after evidence comes the issue of disclosure or bias.\",\n    \"Revise the conclusion to include all major criteria, including disclosed relationships, so the final paragraph fully integrates the essay’s structure.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.55,
+            "rationale": "The essay identifies several relevant factors—specificity of use, duration of testing, disclosure of incentives, and limits of photos or star counts—and it includes useful limitations, such as the possibility that unpaid buyers may still be biased or unlucky. However, the causal reasoning remains mostly surface-level: it says disclosure “could influence” reviews and repeated faults “may be a reason to investigate,” but does not explain how those mechanisms work, how readers can test them, or what evidence would strengthen or weaken trust. Task-level specificity is present but thin; the bag example is helpful, yet the essay lacks a concrete comparison between a weak and strong review, details about product categories, or methods for evaluating review reliability beyond general advice. The result is a reasonable overview rather than a deeply developed analysis.",
+            "evidence": [
+              "For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.",
+              "A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years.",
+              "If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective."
+            ],
+            "suggestions": [
+              "Add a concrete side-by-side example: compare a vague review (“Great bag, very sturdy”) with a specific one (“After six months of daily commuting, the zipper failed at the bottom corner”), and explain which details make the second more trustworthy.",
+              "Deepen the causal mechanisms by explaining how incentives, sample products, and platform verification affect reliability, and what signals readers can use to assess them, such as purchase confirmation, review timing, and consistency with other reviews.",
+              "Expand limitations by discussing when aggregation can mislead, such as coordinated reviews, extreme outliers, or products that differ across batches, and how a reader can weigh multiple reviews without treating consensus as proof."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.55,\n  \"rationale\": \"The essay identifies several relevant factors—specificity of use, duration of testing, disclosure of incentives, and limits of photos or star counts—and it includes useful limitations, such as the possibility that unpaid buyers may still be biased or unlucky. However, the causal reasoning remains mostly surface-level: it says disclosure “could influence” reviews and repeated faults “may be a reason to investigate,” but does not explain how those mechanisms work, how readers can test them, or what evidence would strengthen or weaken trust. Task-level specificity is present but thin; the bag example is helpful, yet the essay lacks a concrete comparison between a weak and strong review, details about product categories, or methods for evaluating review reliability beyond general advice. The result is a reasonable overview rather than a deeply developed analysis.\",\n  \"evidence\": [\n    \"For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.\",\n    \"A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years.\",\n    \"If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective.\"\n  ],\n  \"suggestions\": [\n    \"Add a concrete side-by-side example: compare a vague review (“Great bag, very sturdy”) with a specific one (“After six months of daily commuting, the zipper failed at the bottom corner”), and explain which details make the second more trustworthy.\",\n    \"Deepen the causal mechanisms by explaining how incentives, sample products, and platform verification affect reliability, and what signals readers can use to assess them, such as purchase confirmation, review timing, and consistency with other reviews.\",\n    \"Expand limitations by discussing when aggregation can mislead, such as coordinated reviews, extreme outliers, or products that differ across batches, and how a reader can weigh multiple reviews without treating consensus as proof.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.655,
+      "feedback": "[{\"dimension\": \"grammar\", \"score\": 0.5, \"rationale\": \"The essay is generally clear and readable, but it contains multiple actual grammar errors rather than merely optional style issues. The most common problems are subject-verb agreement, pluralization, tense, and a missing possessive. These errors are noticeable enough to reduce confidence in the writing, though they do not obscure the main argument.\", \"evidence\": [\"Many review says\", \"may needs\", \"products and people differs\"], \"suggestions\": [\"Fix subject-verb agreement and plural forms: “Many reviews say,” “the relationship … also matters,” and “products and people differ.”\", \"Correct verb forms and tense: “may need,” “what happened,” and “a reviewer who makes the limits visible gives.”\", \"Add the missing possessive: “the writer’s willingness to acknowledge uncertainty.”\"]}, {\"dimension\": \"depth\", \"score\": 0.55, \"rationale\": \"The essay identifies several relevant factors—specificity of use, duration of testing, disclosure of incentives, and limits of photos or star counts—and it includes useful limitations, such as the possibility that unpaid buyers may still be biased or unlucky. However, the causal reasoning remains mostly surface-level: it says disclosure “could influence” reviews and repeated faults “may be a reason to investigate,” but does not explain how those mechanisms work, how readers can test them, or what evidence would strengthen or weaken trust. Task-level specificity is present but thin; the bag example is helpful, yet the essay lacks a concrete comparison between a weak and strong review, details about product categories, or methods for evaluating review reliability beyond general advice. The result is a reasonable overview rather than a deeply developed analysis.\", \"evidence\": [\"For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.\", \"A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years.\", \"If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective.\"], \"suggestions\": [\"Add a concrete side-by-side example: compare a vague review (“Great bag, very sturdy”) with a specific one (“After six months of daily commuting, the zipper failed at the bottom corner”), and explain which details make the second more trustworthy.\", \"Deepen the causal mechanisms by explaining how incentives, sample products, and platform verification affect reliability, and what signals readers can use to assess them, such as purchase confirmation, review timing, and consistency with other reviews.\", \"Expand limitations by discussing when aggregation can mislead, such as coordinated reviews, extreme outliers, or products that differ across batches, and how a reader can weigh multiple reviews without treating consensus as proof.\"]}, {\"dimension\": \"structure\", \"score\": 0.75, \"rationale\": \"The essay has a clear, focused thesis and a generally logical progression from what reviewers should disclose about their testing, to the limits of evidence, to conflicts of interest, and finally to a concluding standard for readers. Paragraph roles are mostly distinct, and the conclusion returns to the main claim. However, organization has identifiable limitations: the second body paragraph combines two related but separate ideas—photos/descriptions and independent accounts—making its role less precise. Transitions are present but often implicit, and the conclusion omits explicit reference to disclosure of relationships, which weakens the final synthesis.\", \"evidence\": [\"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\", \"Photos and detailed descriptions can help, although neither proves honesty on its own.\", \"Readers should look for specific observations, relevant conditions and honest limitations.\"], \"suggestions\": [\"Separate the discussion of visual evidence and independent corroboration into clearer paragraph roles, each with a more explicit topic sentence.\", \"Add smoother transitions between body paragraphs, such as signaling that after evidence comes the issue of disclosure or bias.\", \"Revise the conclusion to include all major criteria, including disclosed relationships, so the final paragraph fully integrates the essay’s structure.\"]}, {\"dimension\": \"relevance\", \"score\": 0.8, \"rationale\": \"The essay stays closely aligned with the topic and addresses the essential question by identifying several factors that make an online product review trustworthy: specific use conditions, duration of testing, visible limitations, disclosure of conflicts of interest, and independent corroboration. It avoids generic praise or criticism and instead explains what readers should look for. The main limitation is that it does not fully develop some online-specific trust markers, such as verified purchase status, reviewer history, date/recency, platform moderation, or seller responses, which are often relevant to judging online reviews.\", \"evidence\": [\"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\", \"The relationship between the writer and seller also matter.\", \"Readers should look for specific observations, relevant conditions and honest limitations.\"], \"suggestions\": [\"Add a sentence on how verified purchase status, reviewer history, or account age can support or undermine trust.\", \"Mention the importance of review date and product version, since trustworthiness can depend on recency and model changes.\", \"Include a brief note on platform features such as seller responses, reported-review flags, or moderation tools as additional trust signals.\"]}]",
+      "exit_reason": null
+    }
+  ],
+  "generation_history": [],
+  "rewrites_completed": 0,
+  "relevance_result": {
+    "round_id": 1,
+    "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.8,
+      "rationale": "The essay stays closely aligned with the topic and addresses the essential question by identifying several factors that make an online product review trustworthy: specific use conditions, duration of testing, visible limitations, disclosure of conflicts of interest, and independent corroboration. It avoids generic praise or criticism and instead explains what readers should look for. The main limitation is that it does not fully develop some online-specific trust markers, such as verified purchase status, reviewer history, date/recency, platform moderation, or seller responses, which are often relevant to judging online reviews.",
+      "evidence": [
+        "An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.",
+        "The relationship between the writer and seller also matter.",
+        "Readers should look for specific observations, relevant conditions and honest limitations."
+      ],
+      "suggestions": [
+        "Add a sentence on how verified purchase status, reviewer history, or account age can support or undermine trust.",
+        "Mention the importance of review date and product version, since trustworthiness can depend on recency and model changes.",
+        "Include a brief note on platform features such as seller responses, reported-review flags, or moderation tools as additional trust signals."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.8,\n  \"rationale\": \"The essay stays closely aligned with the topic and addresses the essential question by identifying several factors that make an online product review trustworthy: specific use conditions, duration of testing, visible limitations, disclosure of conflicts of interest, and independent corroboration. It avoids generic praise or criticism and instead explains what readers should look for. The main limitation is that it does not fully develop some online-specific trust markers, such as verified purchase status, reviewer history, date/recency, platform moderation, or seller responses, which are often relevant to judging online reviews.\",\n  \"evidence\": [\n    \"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\",\n    \"The relationship between the writer and seller also matter.\",\n    \"Readers should look for specific observations, relevant conditions and honest limitations.\"\n  ],\n  \"suggestions\": [\n    \"Add a sentence on how verified purchase status, reviewer history, or account age can support or undermine trust.\",\n    \"Mention the importance of review date and product version, since trustworthiness can depend on recency and model changes.\",\n    \"Include a brief note on platform features such as seller responses, reported-review flags, or moderation tools as additional trust signals.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 1,
+    "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+    "dimension": "grammar",
+    "status": "ok",
+    "judgment": {
+      "dimension": "grammar",
+      "score": 0.5,
+      "rationale": "The essay is generally clear and readable, but it contains multiple actual grammar errors rather than merely optional style issues. The most common problems are subject-verb agreement, pluralization, tense, and a missing possessive. These errors are noticeable enough to reduce confidence in the writing, though they do not obscure the main argument.",
+      "evidence": [
+        "Many review says",
+        "may needs",
+        "products and people differs"
+      ],
+      "suggestions": [
+        "Fix subject-verb agreement and plural forms: “Many reviews say,” “the relationship … also matters,” and “products and people differ.”",
+        "Correct verb forms and tense: “may need,” “what happened,” and “a reviewer who makes the limits visible gives.”",
+        "Add the missing possessive: “the writer’s willingness to acknowledge uncertainty.”"
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.5,\n  \"rationale\": \"The essay is generally clear and readable, but it contains multiple actual grammar errors rather than merely optional style issues. The most common problems are subject-verb agreement, pluralization, tense, and a missing possessive. These errors are noticeable enough to reduce confidence in the writing, though they do not obscure the main argument.\",\n  \"evidence\": [\n    \"Many review says\",\n    \"may needs\",\n    \"products and people differs\"\n  ],\n  \"suggestions\": [\n    \"Fix subject-verb agreement and plural forms: “Many reviews say,” “the relationship … also matters,” and “products and people differ.”\",\n    \"Correct verb forms and tense: “may need,” “what happened,” and “a reviewer who makes the limits visible gives.”\",\n    \"Add the missing possessive: “the writer’s willingness to acknowledge uncertainty.”\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 1,
+    "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.75,
+      "rationale": "The essay has a clear, focused thesis and a generally logical progression from what reviewers should disclose about their testing, to the limits of evidence, to conflicts of interest, and finally to a concluding standard for readers. Paragraph roles are mostly distinct, and the conclusion returns to the main claim. However, organization has identifiable limitations: the second body paragraph combines two related but separate ideas—photos/descriptions and independent accounts—making its role less precise. Transitions are present but often implicit, and the conclusion omits explicit reference to disclosure of relationships, which weakens the final synthesis.",
+      "evidence": [
+        "An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.",
+        "Photos and detailed descriptions can help, although neither proves honesty on its own.",
+        "Readers should look for specific observations, relevant conditions and honest limitations."
+      ],
+      "suggestions": [
+        "Separate the discussion of visual evidence and independent corroboration into clearer paragraph roles, each with a more explicit topic sentence.",
+        "Add smoother transitions between body paragraphs, such as signaling that after evidence comes the issue of disclosure or bias.",
+        "Revise the conclusion to include all major criteria, including disclosed relationships, so the final paragraph fully integrates the essay’s structure."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.75,\n  \"rationale\": \"The essay has a clear, focused thesis and a generally logical progression from what reviewers should disclose about their testing, to the limits of evidence, to conflicts of interest, and finally to a concluding standard for readers. Paragraph roles are mostly distinct, and the conclusion returns to the main claim. However, organization has identifiable limitations: the second body paragraph combines two related but separate ideas—photos/descriptions and independent accounts—making its role less precise. Transitions are present but often implicit, and the conclusion omits explicit reference to disclosure of relationships, which weakens the final synthesis.\",\n  \"evidence\": [\n    \"An online review is trustworthy when the reader can understand what the writer tested and what they cannot know.\",\n    \"Photos and detailed descriptions can help, although neither proves honesty on its own.\",\n    \"Readers should look for specific observations, relevant conditions and honest limitations.\"\n  ],\n  \"suggestions\": [\n    \"Separate the discussion of visual evidence and independent corroboration into clearer paragraph roles, each with a more explicit topic sentence.\",\n    \"Add smoother transitions between body paragraphs, such as signaling that after evidence comes the issue of disclosure or bias.\",\n    \"Revise the conclusion to include all major criteria, including disclosed relationships, so the final paragraph fully integrates the essay’s structure.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 1,
+    "essay_hash": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+    "dimension": "depth",
+    "status": "ok",
+    "judgment": {
+      "dimension": "depth",
+      "score": 0.55,
+      "rationale": "The essay identifies several relevant factors—specificity of use, duration of testing, disclosure of incentives, and limits of photos or star counts—and it includes useful limitations, such as the possibility that unpaid buyers may still be biased or unlucky. However, the causal reasoning remains mostly surface-level: it says disclosure “could influence” reviews and repeated faults “may be a reason to investigate,” but does not explain how those mechanisms work, how readers can test them, or what evidence would strengthen or weaken trust. Task-level specificity is present but thin; the bag example is helpful, yet the essay lacks a concrete comparison between a weak and strong review, details about product categories, or methods for evaluating review reliability beyond general advice. The result is a reasonable overview rather than a deeply developed analysis.",
+      "evidence": [
+        "For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.",
+        "A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years.",
+        "If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective."
+      ],
+      "suggestions": [
+        "Add a concrete side-by-side example: compare a vague review (“Great bag, very sturdy”) with a specific one (“After six months of daily commuting, the zipper failed at the bottom corner”), and explain which details make the second more trustworthy.",
+        "Deepen the causal mechanisms by explaining how incentives, sample products, and platform verification affect reliability, and what signals readers can use to assess them, such as purchase confirmation, review timing, and consistency with other reviews.",
+        "Expand limitations by discussing when aggregation can mislead, such as coordinated reviews, extreme outliers, or products that differ across batches, and how a reader can weigh multiple reviews without treating consensus as proof."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.55,\n  \"rationale\": \"The essay identifies several relevant factors—specificity of use, duration of testing, disclosure of incentives, and limits of photos or star counts—and it includes useful limitations, such as the possibility that unpaid buyers may still be biased or unlucky. However, the causal reasoning remains mostly surface-level: it says disclosure “could influence” reviews and repeated faults “may be a reason to investigate,” but does not explain how those mechanisms work, how readers can test them, or what evidence would strengthen or weaken trust. Task-level specificity is present but thin; the bag example is helpful, yet the essay lacks a concrete comparison between a weak and strong review, details about product categories, or methods for evaluating review reliability beyond general advice. The result is a reasonable overview rather than a deeply developed analysis.\",\n  \"evidence\": [\n    \"For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.\",\n    \"A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years.\",\n    \"If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective.\"\n  ],\n  \"suggestions\": [\n    \"Add a concrete side-by-side example: compare a vague review (“Great bag, very sturdy”) with a specific one (“After six months of daily commuting, the zipper failed at the bottom corner”), and explain which details make the second more trustworthy.\",\n    \"Deepen the causal mechanisms by explaining how incentives, sample products, and platform verification affect reliability, and what signals readers can use to assess them, such as purchase confirmation, review timing, and consistency with other reviews.\",\n    \"Expand limitations by discussing when aggregation can mislead, such as coordinated reviews, extreme outliers, or products that differ across batches, and how a reader can weigh multiple reviews without treating consensus as proof.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "mode": "evaluate",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "all",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T091654-072b877927e5",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "e0042bfd75624f989fe4ea6caa7a6efc",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8070.718677,
+      "started_unix": 1794820586.8842852,
+      "prompt_sha256": "7663a7e766855d7c3d8e65b3f25321241d623ddd9862d396eb8381d2855bdb6f",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 22.409622500000296,
+      "ended_monotonic": 8093.1283015,
+      "input_tokens": 625,
+      "output_tokens": 956,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "fcf9ee1d6ac14c5bb857aa31c1097dc5",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8070.7204987,
+      "started_unix": 1794820586.8860917,
+      "prompt_sha256": "e343ab585f0cad2ae150cd9c596472aa2be8fa6e962938ef0a20d9111726e7c1",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 27.878905500000656,
+      "ended_monotonic": 8098.5994068,
+      "input_tokens": 614,
+      "output_tokens": 1352,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "a5915a9eaa1943428536091c9c72f2f8",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8070.7218535,
+      "started_unix": 1794820586.8874364,
+      "prompt_sha256": "b80c994e819d946e3a772f8a81c2904b60f51e75e6676ec09bb7a9e3502b1ea2",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 19.09756060000018,
+      "ended_monotonic": 8089.8194167,
+      "input_tokens": 614,
+      "output_tokens": 711,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "cd77450ab92840adb3f0dd9f97f50e2f",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8070.7239783,
+      "started_unix": 1794820586.8896062,
+      "prompt_sha256": "5a5a92e57c4d355eb98d2e67d281041b1e27283b8580fd0c067d0f5dbe719d17",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 21.801655799999935,
+      "ended_monotonic": 8092.525635,
+      "input_tokens": 615,
+      "output_tokens": 848,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 4,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 2468,
+    "observed_output_tokens": 3867,
+    "total_tokens": 6335,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 27.925802300000214,
+    "parse_failures": 0
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000035",
+    "sample_id": "explore-10",
+    "repeat": 0,
+    "variant": "no_rewrite"
+  }
+}

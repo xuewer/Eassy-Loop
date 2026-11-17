@@ -1,0 +1,748 @@
+{
+  "topic": "Should schools allow generative AI for homework?",
+  "essay": "Should schools allow generative AI for homework? The question is not whether students can access these tools, but how schools can use them without weakening learning. Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\n\nFor many homework tasks, AI can be a useful support tool. When a student is drafting an essay, for example, they might use AI to generate possible outlines, explain a confusing paragraph, or suggest clearer word choices. For language practice, AI could help check grammar or offer alternative sentence structures. In lower grades or introductory courses, where homework often aims to build understanding, such use may be appropriate if the student still does the core thinking. A student should not simply paste an AI answer into an assignment; instead, the tool should function like a tutor, prompting questions and helping the learner revise their own work.\n\nHowever, not all homework should permit AI. When an assignment is designed to assess independent skill, such as solving a math problem, writing a final argumentative essay, or completing a science lab analysis, schools should prohibit generative AI. In these cases, the purpose of the homework is to show what the student can do without assistance. If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material. This is especially important in assessments that prepare students for exams, certifications, or future work where independent judgment is required.\n\nGrade level also matters. Younger students may need stricter limits because they are still developing basic reading, writing, and reasoning skills. Older students, especially in high school or college, can be given more responsibility if teachers explain how to use AI ethically. The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\n\nFairness is another reason for clear rules. Not all students have the same devices, internet access, or paid AI subscriptions. Schools should provide equal access where possible and avoid rules that depend on a family’s ability to pay. Teachers should also teach digital literacy so students can evaluate AI output, recognize errors, and understand privacy risks.\n\nIn conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits. A balanced policy can permit AI for drafting, clarifying, and revising in appropriate assignments, while banning it for final problem-solving or independent assessments. With clear expectations, teacher guidance, and student responsibility, schools can protect academic integrity and prepare students for a world where technology will be part of everyday work.",
+  "current_round": 2,
+  "feedback": "[{\"dimension\": \"relevance\", \"score\": 0.9, \"rationale\": \"The essay stays tightly focused on the topic and directly answers whether schools should allow generative AI for homework. It offers a clear policy stance—allow limited use for learning support while prohibiting it for independent assessment—and repeatedly returns to that distinction. The discussion of assignment purpose, grade level, and fairness remains relevant to the central question. A minor limitation is that some points, especially digital literacy and privacy, extend beyond the core issue of permission and could be more explicitly tied to the policy decision.\", \"evidence\": [\"Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\", \"The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\", \"In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits.\"], \"suggestions\": [\"Preserve the clear thesis and the assignment-purpose distinction, as they keep the essay strongly aligned with the prompt.\", \"Add one sentence explicitly connecting equity concerns to the central question, such as why unequal access supports limited rather than unrestricted AI use.\", \"Briefly tie the digital-literacy point back to the policy decision by explaining how it supports responsible permission rather than merely expanding the discussion.\"]}]",
+  "final_score": 0.775,
+  "exit_reason": "max_rounds",
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "Generative AI is becoming part of education, and schools need a balanced approach to homework. It can explain difficult ideas and help students begin assignments, but students also need to think for themselves. A complete ban seems unrealistic because technology is available outside school. Unrestricted use would be unfair as well. Schools should allow AI in some circumstances while maintaining clear expectations.\n\nOne advantage is that students can ask questions without feeling embarrassed. A learner who does not understand a science explanation can request a simpler version. AI may also suggest an essay outline or help a student notice a grammatical problem. These uses can save time and make learning more interesting. However, a clear explanation may still be wrong, so students should check it against reliable classroom materials. Teachers remain important because they understand the course and know their students.\n\nThere are also concerns about cheating. Some students might submit a complete answer without understanding it. This means homework would no longer show what they can do. Schools could ask students to describe how they used AI and to provide examples of their own thinking. Teachers could sometimes ask follow-up questions in class. This would encourage responsibility, although it would also require additional work from teachers.\n\nFairness is another issue. Students do not all have the same devices or subscriptions, and some families can offer more guidance than others. Schools should provide equal access where possible. They should also teach digital literacy so that everyone understands the benefits and risks. Technology is changing rapidly, and education needs to keep up with these changes.\n\nIn conclusion, AI can be a useful homework assistant if students use it honestly and carefully. Schools should create sensible rules, support teachers, and help students become independent learners. A balanced approach can protect academic integrity while preparing students for a future in which technology will play an important role.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.8,
+            "rationale": "The essay stays closely aligned with the topic by directly answering whether schools should allow generative AI for homework. It takes a clear position that schools should allow it in limited, regulated circumstances, and it addresses relevant issues such as learning support, cheating, fairness, and policy expectations. The main limitation is that the discussion remains somewhat general and does not specify which homework tasks, grade levels, or assignment conditions would justify AI use, so its relevance is strong but not exceptional.",
+            "evidence": [
+              "Schools should allow AI in some circumstances while maintaining clear expectations.",
+              "One advantage is that students can ask questions without feeling embarrassed.",
+              "There are also concerns about cheating."
+            ],
+            "suggestions": [
+              "Preserve the direct focus on the policy question and the balanced conclusion.",
+              "Add specific examples of homework types where AI should be allowed, such as drafting outlines or checking grammar, and where it should be prohibited, such as final problem-solving submissions.",
+              "Briefly distinguish relevance by grade level or assignment purpose, explaining when homework is meant to assess independent skill versus when it is meant to support learning."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.8,\n  \"rationale\": \"The essay stays closely aligned with the topic by directly answering whether schools should allow generative AI for homework. It takes a clear position that schools should allow it in limited, regulated circumstances, and it addresses relevant issues such as learning support, cheating, fairness, and policy expectations. The main limitation is that the discussion remains somewhat general and does not specify which homework tasks, grade levels, or assignment conditions would justify AI use, so its relevance is strong but not exceptional.\",\n  \"evidence\": [\n    \"Schools should allow AI in some circumstances while maintaining clear expectations.\",\n    \"One advantage is that students can ask questions without feeling embarrassed.\",\n    \"There are also concerns about cheating.\"\n  ],\n  \"suggestions\": [\n    \"Preserve the direct focus on the policy question and the balanced conclusion.\",\n    \"Add specific examples of homework types where AI should be allowed, such as drafting outlines or checking grammar, and where it should be prohibited, such as final problem-solving submissions.\",\n    \"Briefly distinguish relevance by grade level or assignment purpose, explaining when homework is meant to assess independent skill versus when it is meant to support learning.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.9,
+            "rationale": "The essay is grammatically sound, with correct punctuation, tense, and sentence structure. No actual grammatical errors are evident. Minor limitations are mainly word choice and clarity: “clear explanation” conflates clarity with accuracy, “unfair as well” is vague, and “show what they can do” is slightly informal. These do not impede comprehension but prevent an exceptional score.",
+            "evidence": [
+              "However, a clear explanation may still be wrong, so students should check it against reliable classroom materials.",
+              "Unrestricted use would be unfair as well.",
+              "This means homework would no longer show what they can do."
+            ],
+            "suggestions": [
+              "Replace “a clear explanation” with “an accurate explanation” to distinguish clarity from correctness.",
+              "Specify the fairness concern in “Unrestricted use would be unfair as well,” such as “unfair to students who do not use AI.”",
+              "Change “show what they can do” to “demonstrate what students can do” for a more precise academic tone."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay is grammatically sound, with correct punctuation, tense, and sentence structure. No actual grammatical errors are evident. Minor limitations are mainly word choice and clarity: “clear explanation” conflates clarity with accuracy, “unfair as well” is vague, and “show what they can do” is slightly informal. These do not impede comprehension but prevent an exceptional score.\",\n  \"evidence\": [\n    \"However, a clear explanation may still be wrong, so students should check it against reliable classroom materials.\",\n    \"Unrestricted use would be unfair as well.\",\n    \"This means homework would no longer show what they can do.\"\n  ],\n  \"suggestions\": [\n    \"Replace “a clear explanation” with “an accurate explanation” to distinguish clarity from correctness.\",\n    \"Specify the fairness concern in “Unrestricted use would be unfair as well,” such as “unfair to students who do not use AI.”\",\n    \"Change “show what they can do” to “demonstrate what students can do” for a more precise academic tone.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.75,
+            "rationale": "The essay has a clear, focused thesis and a generally logical order: it moves from the overall position to benefits, then to cheating concerns, fairness, and a concluding restatement. Each paragraph has a recognizable role, and transitions such as “One advantage,” “There are also concerns,” and “Fairness is another issue” help guide the reader. The main limitations are that the second paragraph mixes benefits with cautions, and the fairness paragraph is somewhat broad and less tightly connected to specific homework policy. Overall, the organization is effective but not exceptional.",
+            "evidence": [
+              "Schools should allow AI in some circumstances while maintaining clear expectations.",
+              "One advantage is that students can ask questions without feeling embarrassed.",
+              "Fairness is another issue."
+            ],
+            "suggestions": [
+              "Preserve the clear thesis and balanced progression from benefits to safeguards to fairness.",
+              "Revise the second paragraph so it focuses only on benefits, moving the caution about accuracy into the cheating or policy paragraph.",
+              "Strengthen transitions by showing how each concern follows from the previous point, such as linking fairness to unequal access to AI tools for homework."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.75,\n  \"rationale\": \"The essay has a clear, focused thesis and a generally logical order: it moves from the overall position to benefits, then to cheating concerns, fairness, and a concluding restatement. Each paragraph has a recognizable role, and transitions such as “One advantage,” “There are also concerns,” and “Fairness is another issue” help guide the reader. The main limitations are that the second paragraph mixes benefits with cautions, and the fairness paragraph is somewhat broad and less tightly connected to specific homework policy. Overall, the organization is effective but not exceptional.\",\n  \"evidence\": [\n    \"Schools should allow AI in some circumstances while maintaining clear expectations.\",\n    \"One advantage is that students can ask questions without feeling embarrassed.\",\n    \"Fairness is another issue.\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear thesis and balanced progression from benefits to safeguards to fairness.\",\n    \"Revise the second paragraph so it focuses only on benefits, moving the caution about accuracy into the cheating or policy paragraph.\",\n    \"Strengthen transitions by showing how each concern follows from the previous point, such as linking fairness to unequal access to AI tools for homework.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.5,
+            "rationale": "The essay identifies several causal mechanisms, such as AI reducing embarrassment, improving explanations, and increasing cheating risk, and it acknowledges limitations like inaccuracy and unequal access. However, its analysis remains generic and lacks task-level specificity: it does not distinguish between homework types, grade levels, formative versus summative assignments, or specific policy designs. Supporting examples are brief and unsupported by evidence, while counterarguments and limitations are mentioned but not developed deeply. The result is a balanced but shallow treatment of the topic.",
+            "evidence": [
+              "A learner who does not understand a science explanation can request a simpler version.",
+              "Some students might submit a complete answer without understanding it.",
+              "Students do not all have the same devices or subscriptions"
+            ],
+            "suggestions": [
+              "Add task-specific examples, such as using AI to brainstorm an essay outline versus generating a final draft, or using it for math problem hints versus full solutions.",
+              "Develop causal chains by explaining how specific homework designs, such as drafts, oral follow-ups, or process journals, would reduce or increase learning and integrity risks.",
+              "Deepen counterarguments and limitations by discussing overreliance, teacher workload, privacy concerns, and equity issues with concrete policy responses."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.5,\n  \"rationale\": \"The essay identifies several causal mechanisms, such as AI reducing embarrassment, improving explanations, and increasing cheating risk, and it acknowledges limitations like inaccuracy and unequal access. However, its analysis remains generic and lacks task-level specificity: it does not distinguish between homework types, grade levels, formative versus summative assignments, or specific policy designs. Supporting examples are brief and unsupported by evidence, while counterarguments and limitations are mentioned but not developed deeply. The result is a balanced but shallow treatment of the topic.\",\n  \"evidence\": [\n    \"A learner who does not understand a science explanation can request a simpler version.\",\n    \"Some students might submit a complete answer without understanding it.\",\n    \"Students do not all have the same devices or subscriptions\"\n  ],\n  \"suggestions\": [\n    \"Add task-specific examples, such as using AI to brainstorm an essay outline versus generating a final draft, or using it for math problem hints versus full solutions.\",\n    \"Develop causal chains by explaining how specific homework designs, such as drafts, oral follow-ups, or process journals, would reduce or increase learning and integrity risks.\",\n    \"Deepen counterarguments and limitations by discussing overreliance, teacher workload, privacy concerns, and equity issues with concrete policy responses.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.72,
+      "feedback": "[{\"dimension\": \"relevance\", \"score\": 0.8, \"rationale\": \"The essay stays closely aligned with the topic by directly answering whether schools should allow generative AI for homework. It takes a clear position that schools should allow it in limited, regulated circumstances, and it addresses relevant issues such as learning support, cheating, fairness, and policy expectations. The main limitation is that the discussion remains somewhat general and does not specify which homework tasks, grade levels, or assignment conditions would justify AI use, so its relevance is strong but not exceptional.\", \"evidence\": [\"Schools should allow AI in some circumstances while maintaining clear expectations.\", \"One advantage is that students can ask questions without feeling embarrassed.\", \"There are also concerns about cheating.\"], \"suggestions\": [\"Preserve the direct focus on the policy question and the balanced conclusion.\", \"Add specific examples of homework types where AI should be allowed, such as drafting outlines or checking grammar, and where it should be prohibited, such as final problem-solving submissions.\", \"Briefly distinguish relevance by grade level or assignment purpose, explaining when homework is meant to assess independent skill versus when it is meant to support learning.\"]}]",
+      "exit_reason": null
+    },
+    {
+      "round_id": 2,
+      "essay": "Should schools allow generative AI for homework? The question is not whether students can access these tools, but how schools can use them without weakening learning. Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\n\nFor many homework tasks, AI can be a useful support tool. When a student is drafting an essay, for example, they might use AI to generate possible outlines, explain a confusing paragraph, or suggest clearer word choices. For language practice, AI could help check grammar or offer alternative sentence structures. In lower grades or introductory courses, where homework often aims to build understanding, such use may be appropriate if the student still does the core thinking. A student should not simply paste an AI answer into an assignment; instead, the tool should function like a tutor, prompting questions and helping the learner revise their own work.\n\nHowever, not all homework should permit AI. When an assignment is designed to assess independent skill, such as solving a math problem, writing a final argumentative essay, or completing a science lab analysis, schools should prohibit generative AI. In these cases, the purpose of the homework is to show what the student can do without assistance. If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material. This is especially important in assessments that prepare students for exams, certifications, or future work where independent judgment is required.\n\nGrade level also matters. Younger students may need stricter limits because they are still developing basic reading, writing, and reasoning skills. Older students, especially in high school or college, can be given more responsibility if teachers explain how to use AI ethically. The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\n\nFairness is another reason for clear rules. Not all students have the same devices, internet access, or paid AI subscriptions. Schools should provide equal access where possible and avoid rules that depend on a family’s ability to pay. Teachers should also teach digital literacy so students can evaluate AI output, recognize errors, and understand privacy risks.\n\nIn conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits. A balanced policy can permit AI for drafting, clarifying, and revising in appropriate assignments, while banning it for final problem-solving or independent assessments. With clear expectations, teacher guidance, and student responsibility, schools can protect academic integrity and prepare students for a world where technology will be part of everyday work.",
+      "results": [
+        {
+          "round_id": 2,
+          "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.9,
+            "rationale": "The essay stays tightly focused on the topic and directly answers whether schools should allow generative AI for homework. It offers a clear policy stance—allow limited use for learning support while prohibiting it for independent assessment—and repeatedly returns to that distinction. The discussion of assignment purpose, grade level, and fairness remains relevant to the central question. A minor limitation is that some points, especially digital literacy and privacy, extend beyond the core issue of permission and could be more explicitly tied to the policy decision.",
+            "evidence": [
+              "Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.",
+              "The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.",
+              "In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits."
+            ],
+            "suggestions": [
+              "Preserve the clear thesis and the assignment-purpose distinction, as they keep the essay strongly aligned with the prompt.",
+              "Add one sentence explicitly connecting equity concerns to the central question, such as why unequal access supports limited rather than unrestricted AI use.",
+              "Briefly tie the digital-literacy point back to the policy decision by explaining how it supports responsible permission rather than merely expanding the discussion."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay stays tightly focused on the topic and directly answers whether schools should allow generative AI for homework. It offers a clear policy stance—allow limited use for learning support while prohibiting it for independent assessment—and repeatedly returns to that distinction. The discussion of assignment purpose, grade level, and fairness remains relevant to the central question. A minor limitation is that some points, especially digital literacy and privacy, extend beyond the core issue of permission and could be more explicitly tied to the policy decision.\",\n  \"evidence\": [\n    \"Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\",\n    \"The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\",\n    \"In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits.\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear thesis and the assignment-purpose distinction, as they keep the essay strongly aligned with the prompt.\",\n    \"Add one sentence explicitly connecting equity concerns to the central question, such as why unequal access supports limited rather than unrestricted AI use.\",\n    \"Briefly tie the digital-literacy point back to the policy decision by explaining how it supports responsible permission rather than merely expanding the discussion.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.85,
+            "rationale": "The essay is grammatically accurate, syntactically controlled, and generally clear. Minor limitations appear in word choice and agency: “homework should permit AI” is awkward because homework does not permit, and “can be given more responsibility” is passive where an active construction would be sharper. These are small issues, not major defects.",
+            "evidence": [
+              "not all homework should permit AI",
+              "Older students, especially in high school or college, can be given more responsibility",
+              "final problem-solving"
+            ],
+            "suggestions": [
+              "Revise “not all homework should permit AI” to “not all assignments should allow AI use.”",
+              "Change “can be given more responsibility” to “can take more responsibility.”",
+              "Clarify “final problem-solving” as “final problem-solving tasks” or “independent problem-solving assessments.”"
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay is grammatically accurate, syntactically controlled, and generally clear. Minor limitations appear in word choice and agency: “homework should permit AI” is awkward because homework does not permit, and “can be given more responsibility” is passive where an active construction would be sharper. These are small issues, not major defects.\",\n  \"evidence\": [\n    \"not all homework should permit AI\",\n    \"Older students, especially in high school or college, can be given more responsibility\",\n    \"final problem-solving\"\n  ],\n  \"suggestions\": [\n    \"Revise “not all homework should permit AI” to “not all assignments should allow AI use.”\",\n    \"Change “can be given more responsibility” to “can take more responsibility.”\",\n    \"Clarify “final problem-solving” as “final problem-solving tasks” or “independent problem-solving assessments.”\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.85,
+            "rationale": "The essay has a clear, focused thesis and well-defined paragraph roles: it first explains appropriate AI support, then limits for independent assessment, then grade-level variation, then fairness, and finally concludes. Transitions such as 'However' and 'In conclusion' make the progression easy to follow. The main limitation is that the grade-level and fairness points are not fully integrated into the thesis or conclusion, making the final paragraph feel slightly like an added reason rather than a core structural element.",
+            "evidence": [
+              "Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.",
+              "However, not all homework should permit AI.",
+              "In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits."
+            ],
+            "suggestions": [
+              "Expand the thesis to include grade level and equitable access, so all major paragraphs are explicitly framed by the claim.",
+              "Add one concluding sentence linking fairness to the proposed policy, such as noting that rules should provide equal access to AI tools.",
+              "Tighten the fairness paragraph by connecting digital literacy directly to the assignment-purpose distinction already established."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay has a clear, focused thesis and well-defined paragraph roles: it first explains appropriate AI support, then limits for independent assessment, then grade-level variation, then fairness, and finally concludes. Transitions such as 'However' and 'In conclusion' make the progression easy to follow. The main limitation is that the grade-level and fairness points are not fully integrated into the thesis or conclusion, making the final paragraph feel slightly like an added reason rather than a core structural element.\",\n  \"evidence\": [\n    \"Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\",\n    \"However, not all homework should permit AI.\",\n    \"In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits.\"\n  ],\n  \"suggestions\": [\n    \"Expand the thesis to include grade level and equitable access, so all major paragraphs are explicitly framed by the claim.\",\n    \"Add one concluding sentence linking fairness to the proposed policy, such as noting that rules should provide equal access to AI tools.\",\n    \"Tighten the fairness paragraph by connecting digital literacy directly to the assignment-purpose distinction already established.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.55,
+            "rationale": "The essay develops a workable distinction between learning-support homework and independent-skill assessment, and it includes concrete examples such as essay drafting, grammar checking, math problems, and lab analysis. Its strongest causal mechanism is that AI-generated submissions can obscure whether a student actually understands the material. However, the analysis remains largely assertive rather than evidential. It does not explain how schools would implement or verify the proposed limits, how students might overuse AI even in permitted tasks, or how different subject types require different rules. Counterarguments are acknowledged only lightly, especially around fairness and digital literacy, without exploring tradeoffs such as reduced practice, privacy harms, or the risk that ‘limited use’ becomes difficult to enforce. The essay is coherent and partially task-specific, but it lacks the mechanisms, examples, and limitation analysis needed for stronger depth.",
+            "evidence": [
+              "the tool should function like a tutor, prompting questions and helping the learner revise their own work",
+              "If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material.",
+              "Not all students have the same devices, internet access, or paid AI subscriptions."
+            ],
+            "suggestions": [
+              "Add a specific classroom protocol, such as requiring students to label AI-assisted sections and submit a short reflection on how the AI changed their reasoning.",
+              "Differentiate task-level rules by subject and assignment type, for example allowing AI for brainstorming in essays but prohibiting it for math proofs, lab data analysis, and final arguments.",
+              "Expand the limitations section to address enforcement, overreliance, hallucinations, privacy risks, and how schools can reduce inequity without assuming paid subscriptions."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.55,\n  \"rationale\": \"The essay develops a workable distinction between learning-support homework and independent-skill assessment, and it includes concrete examples such as essay drafting, grammar checking, math problems, and lab analysis. Its strongest causal mechanism is that AI-generated submissions can obscure whether a student actually understands the material. However, the analysis remains largely assertive rather than evidential. It does not explain how schools would implement or verify the proposed limits, how students might overuse AI even in permitted tasks, or how different subject types require different rules. Counterarguments are acknowledged only lightly, especially around fairness and digital literacy, without exploring tradeoffs such as reduced practice, privacy harms, or the risk that ‘limited use’ becomes difficult to enforce. The essay is coherent and partially task-specific, but it lacks the mechanisms, examples, and limitation analysis needed for stronger depth.\",\n  \"evidence\": [\n    \"the tool should function like a tutor, prompting questions and helping the learner revise their own work\",\n    \"If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material.\",\n    \"Not all students have the same devices, internet access, or paid AI subscriptions.\"\n  ],\n  \"suggestions\": [\n    \"Add a specific classroom protocol, such as requiring students to label AI-assisted sections and submit a short reflection on how the AI changed their reasoning.\",\n    \"Differentiate task-level rules by subject and assignment type, for example allowing AI for brainstorming in essays but prohibiting it for math proofs, lab data analysis, and final arguments.\",\n    \"Expand the limitations section to address enforcement, overreliance, hallucinations, privacy risks, and how schools can reduce inequity without assuming paid subscriptions.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.775,
+      "feedback": "[{\"dimension\": \"relevance\", \"score\": 0.9, \"rationale\": \"The essay stays tightly focused on the topic and directly answers whether schools should allow generative AI for homework. It offers a clear policy stance—allow limited use for learning support while prohibiting it for independent assessment—and repeatedly returns to that distinction. The discussion of assignment purpose, grade level, and fairness remains relevant to the central question. A minor limitation is that some points, especially digital literacy and privacy, extend beyond the core issue of permission and could be more explicitly tied to the policy decision.\", \"evidence\": [\"Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\", \"The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\", \"In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits.\"], \"suggestions\": [\"Preserve the clear thesis and the assignment-purpose distinction, as they keep the essay strongly aligned with the prompt.\", \"Add one sentence explicitly connecting equity concerns to the central question, such as why unequal access supports limited rather than unrestricted AI use.\", \"Briefly tie the digital-literacy point back to the policy decision by explaining how it supports responsible permission rather than merely expanding the discussion.\"]}]",
+      "exit_reason": "max_rounds"
+    }
+  ],
+  "generation_attempts": [
+    {
+      "attempt": 1,
+      "status": "ok",
+      "raw_response": "Should schools allow generative AI for homework? The question is not whether students can access these tools, but how schools can use them without weakening learning. Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\n\nFor many homework tasks, AI can be a useful support tool. When a student is drafting an essay, for example, they might use AI to generate possible outlines, explain a confusing paragraph, or suggest clearer word choices. For language practice, AI could help check grammar or offer alternative sentence structures. In lower grades or introductory courses, where homework often aims to build understanding, such use may be appropriate if the student still does the core thinking. A student should not simply paste an AI answer into an assignment; instead, the tool should function like a tutor, prompting questions and helping the learner revise their own work.\n\nHowever, not all homework should permit AI. When an assignment is designed to assess independent skill, such as solving a math problem, writing a final argumentative essay, or completing a science lab analysis, schools should prohibit generative AI. In these cases, the purpose of the homework is to show what the student can do without assistance. If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material. This is especially important in assessments that prepare students for exams, certifications, or future work where independent judgment is required.\n\nGrade level also matters. Younger students may need stricter limits because they are still developing basic reading, writing, and reasoning skills. Older students, especially in high school or college, can be given more responsibility if teachers explain how to use AI ethically. The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\n\nFairness is another reason for clear rules. Not all students have the same devices, internet access, or paid AI subscriptions. Schools should provide equal access where possible and avoid rules that depend on a family’s ability to pay. Teachers should also teach digital literacy so students can evaluate AI output, recognize errors, and understand privacy risks.\n\nIn conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits. A balanced policy can permit AI for drafting, clarifying, and revising in appropriate assignments, while banning it for final problem-solving or independent assessments. With clear expectations, teacher guidance, and student responsibility, schools can protect academic integrity and prepare students for a world where technology will be part of everyday work.",
+      "error": null,
+      "http_status": null,
+      "timeout_phase": null,
+      "connection_cause": null,
+      "provider_code": null,
+      "provider_reason": null,
+      "response_format": null,
+      "retryable": null,
+      "hint": null
+    }
+  ],
+  "generation_history": [
+    {
+      "round_id": 2,
+      "is_rewrite": true,
+      "feedback_used": "[{\"dimension\": \"relevance\", \"score\": 0.8, \"rationale\": \"The essay stays closely aligned with the topic by directly answering whether schools should allow generative AI for homework. It takes a clear position that schools should allow it in limited, regulated circumstances, and it addresses relevant issues such as learning support, cheating, fairness, and policy expectations. The main limitation is that the discussion remains somewhat general and does not specify which homework tasks, grade levels, or assignment conditions would justify AI use, so its relevance is strong but not exceptional.\", \"evidence\": [\"Schools should allow AI in some circumstances while maintaining clear expectations.\", \"One advantage is that students can ask questions without feeling embarrassed.\", \"There are also concerns about cheating.\"], \"suggestions\": [\"Preserve the direct focus on the policy question and the balanced conclusion.\", \"Add specific examples of homework types where AI should be allowed, such as drafting outlines or checking grammar, and where it should be prohibited, such as final problem-solving submissions.\", \"Briefly distinguish relevance by grade level or assignment purpose, explaining when homework is meant to assess independent skill versus when it is meant to support learning.\"]}]",
+      "input_essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+      "output_essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "ok",
+          "raw_response": "Should schools allow generative AI for homework? The question is not whether students can access these tools, but how schools can use them without weakening learning. Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\n\nFor many homework tasks, AI can be a useful support tool. When a student is drafting an essay, for example, they might use AI to generate possible outlines, explain a confusing paragraph, or suggest clearer word choices. For language practice, AI could help check grammar or offer alternative sentence structures. In lower grades or introductory courses, where homework often aims to build understanding, such use may be appropriate if the student still does the core thinking. A student should not simply paste an AI answer into an assignment; instead, the tool should function like a tutor, prompting questions and helping the learner revise their own work.\n\nHowever, not all homework should permit AI. When an assignment is designed to assess independent skill, such as solving a math problem, writing a final argumentative essay, or completing a science lab analysis, schools should prohibit generative AI. In these cases, the purpose of the homework is to show what the student can do without assistance. If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material. This is especially important in assessments that prepare students for exams, certifications, or future work where independent judgment is required.\n\nGrade level also matters. Younger students may need stricter limits because they are still developing basic reading, writing, and reasoning skills. Older students, especially in high school or college, can be given more responsibility if teachers explain how to use AI ethically. The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\n\nFairness is another reason for clear rules. Not all students have the same devices, internet access, or paid AI subscriptions. Schools should provide equal access where possible and avoid rules that depend on a family’s ability to pay. Teachers should also teach digital literacy so students can evaluate AI output, recognize errors, and understand privacy risks.\n\nIn conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits. A balanced policy can permit AI for drafting, clarifying, and revising in appropriate assignments, while banning it for final problem-solving or independent assessments. With clear expectations, teacher guidance, and student responsibility, schools can protect academic integrity and prepare students for a world where technology will be part of everyday work.",
+          "error": null,
+          "http_status": null,
+          "timeout_phase": null,
+          "connection_cause": null,
+          "provider_code": null,
+          "provider_reason": null,
+          "response_format": null,
+          "retryable": null,
+          "hint": null
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "rewrites_completed": 1,
+  "relevance_result": {
+    "round_id": 2,
+    "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.9,
+      "rationale": "The essay stays tightly focused on the topic and directly answers whether schools should allow generative AI for homework. It offers a clear policy stance—allow limited use for learning support while prohibiting it for independent assessment—and repeatedly returns to that distinction. The discussion of assignment purpose, grade level, and fairness remains relevant to the central question. A minor limitation is that some points, especially digital literacy and privacy, extend beyond the core issue of permission and could be more explicitly tied to the policy decision.",
+      "evidence": [
+        "Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.",
+        "The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.",
+        "In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits."
+      ],
+      "suggestions": [
+        "Preserve the clear thesis and the assignment-purpose distinction, as they keep the essay strongly aligned with the prompt.",
+        "Add one sentence explicitly connecting equity concerns to the central question, such as why unequal access supports limited rather than unrestricted AI use.",
+        "Briefly tie the digital-literacy point back to the policy decision by explaining how it supports responsible permission rather than merely expanding the discussion."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay stays tightly focused on the topic and directly answers whether schools should allow generative AI for homework. It offers a clear policy stance—allow limited use for learning support while prohibiting it for independent assessment—and repeatedly returns to that distinction. The discussion of assignment purpose, grade level, and fairness remains relevant to the central question. A minor limitation is that some points, especially digital literacy and privacy, extend beyond the core issue of permission and could be more explicitly tied to the policy decision.\",\n  \"evidence\": [\n    \"Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\",\n    \"The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\",\n    \"In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits.\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear thesis and the assignment-purpose distinction, as they keep the essay strongly aligned with the prompt.\",\n    \"Add one sentence explicitly connecting equity concerns to the central question, such as why unequal access supports limited rather than unrestricted AI use.\",\n    \"Briefly tie the digital-literacy point back to the policy decision by explaining how it supports responsible permission rather than merely expanding the discussion.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 2,
+    "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+    "dimension": "grammar",
+    "status": "ok",
+    "judgment": {
+      "dimension": "grammar",
+      "score": 0.85,
+      "rationale": "The essay is grammatically accurate, syntactically controlled, and generally clear. Minor limitations appear in word choice and agency: “homework should permit AI” is awkward because homework does not permit, and “can be given more responsibility” is passive where an active construction would be sharper. These are small issues, not major defects.",
+      "evidence": [
+        "not all homework should permit AI",
+        "Older students, especially in high school or college, can be given more responsibility",
+        "final problem-solving"
+      ],
+      "suggestions": [
+        "Revise “not all homework should permit AI” to “not all assignments should allow AI use.”",
+        "Change “can be given more responsibility” to “can take more responsibility.”",
+        "Clarify “final problem-solving” as “final problem-solving tasks” or “independent problem-solving assessments.”"
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay is grammatically accurate, syntactically controlled, and generally clear. Minor limitations appear in word choice and agency: “homework should permit AI” is awkward because homework does not permit, and “can be given more responsibility” is passive where an active construction would be sharper. These are small issues, not major defects.\",\n  \"evidence\": [\n    \"not all homework should permit AI\",\n    \"Older students, especially in high school or college, can be given more responsibility\",\n    \"final problem-solving\"\n  ],\n  \"suggestions\": [\n    \"Revise “not all homework should permit AI” to “not all assignments should allow AI use.”\",\n    \"Change “can be given more responsibility” to “can take more responsibility.”\",\n    \"Clarify “final problem-solving” as “final problem-solving tasks” or “independent problem-solving assessments.”\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 2,
+    "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.85,
+      "rationale": "The essay has a clear, focused thesis and well-defined paragraph roles: it first explains appropriate AI support, then limits for independent assessment, then grade-level variation, then fairness, and finally concludes. Transitions such as 'However' and 'In conclusion' make the progression easy to follow. The main limitation is that the grade-level and fairness points are not fully integrated into the thesis or conclusion, making the final paragraph feel slightly like an added reason rather than a core structural element.",
+      "evidence": [
+        "Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.",
+        "However, not all homework should permit AI.",
+        "In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits."
+      ],
+      "suggestions": [
+        "Expand the thesis to include grade level and equitable access, so all major paragraphs are explicitly framed by the claim.",
+        "Add one concluding sentence linking fairness to the proposed policy, such as noting that rules should provide equal access to AI tools.",
+        "Tighten the fairness paragraph by connecting digital literacy directly to the assignment-purpose distinction already established."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay has a clear, focused thesis and well-defined paragraph roles: it first explains appropriate AI support, then limits for independent assessment, then grade-level variation, then fairness, and finally concludes. Transitions such as 'However' and 'In conclusion' make the progression easy to follow. The main limitation is that the grade-level and fairness points are not fully integrated into the thesis or conclusion, making the final paragraph feel slightly like an added reason rather than a core structural element.\",\n  \"evidence\": [\n    \"Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\",\n    \"However, not all homework should permit AI.\",\n    \"In conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits.\"\n  ],\n  \"suggestions\": [\n    \"Expand the thesis to include grade level and equitable access, so all major paragraphs are explicitly framed by the claim.\",\n    \"Add one concluding sentence linking fairness to the proposed policy, such as noting that rules should provide equal access to AI tools.\",\n    \"Tighten the fairness paragraph by connecting digital literacy directly to the assignment-purpose distinction already established.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 2,
+    "essay_hash": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+    "dimension": "depth",
+    "status": "ok",
+    "judgment": {
+      "dimension": "depth",
+      "score": 0.55,
+      "rationale": "The essay develops a workable distinction between learning-support homework and independent-skill assessment, and it includes concrete examples such as essay drafting, grammar checking, math problems, and lab analysis. Its strongest causal mechanism is that AI-generated submissions can obscure whether a student actually understands the material. However, the analysis remains largely assertive rather than evidential. It does not explain how schools would implement or verify the proposed limits, how students might overuse AI even in permitted tasks, or how different subject types require different rules. Counterarguments are acknowledged only lightly, especially around fairness and digital literacy, without exploring tradeoffs such as reduced practice, privacy harms, or the risk that ‘limited use’ becomes difficult to enforce. The essay is coherent and partially task-specific, but it lacks the mechanisms, examples, and limitation analysis needed for stronger depth.",
+      "evidence": [
+        "the tool should function like a tutor, prompting questions and helping the learner revise their own work",
+        "If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material.",
+        "Not all students have the same devices, internet access, or paid AI subscriptions."
+      ],
+      "suggestions": [
+        "Add a specific classroom protocol, such as requiring students to label AI-assisted sections and submit a short reflection on how the AI changed their reasoning.",
+        "Differentiate task-level rules by subject and assignment type, for example allowing AI for brainstorming in essays but prohibiting it for math proofs, lab data analysis, and final arguments.",
+        "Expand the limitations section to address enforcement, overreliance, hallucinations, privacy risks, and how schools can reduce inequity without assuming paid subscriptions."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.55,\n  \"rationale\": \"The essay develops a workable distinction between learning-support homework and independent-skill assessment, and it includes concrete examples such as essay drafting, grammar checking, math problems, and lab analysis. Its strongest causal mechanism is that AI-generated submissions can obscure whether a student actually understands the material. However, the analysis remains largely assertive rather than evidential. It does not explain how schools would implement or verify the proposed limits, how students might overuse AI even in permitted tasks, or how different subject types require different rules. Counterarguments are acknowledged only lightly, especially around fairness and digital literacy, without exploring tradeoffs such as reduced practice, privacy harms, or the risk that ‘limited use’ becomes difficult to enforce. The essay is coherent and partially task-specific, but it lacks the mechanisms, examples, and limitation analysis needed for stronger depth.\",\n  \"evidence\": [\n    \"the tool should function like a tutor, prompting questions and helping the learner revise their own work\",\n    \"If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material.\",\n    \"Not all students have the same devices, internet access, or paid AI subscriptions.\"\n  ],\n  \"suggestions\": [\n    \"Add a specific classroom protocol, such as requiring students to label AI-assisted sections and submit a short reflection on how the AI changed their reasoning.\",\n    \"Differentiate task-level rules by subject and assignment type, for example allowing AI for brainstorming in essays but prohibiting it for math proofs, lab data analysis, and final arguments.\",\n    \"Expand the limitations section to address enforcement, overreliance, hallucinations, privacy risks, and how schools can reduce inequity without assuming paid subscriptions.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "mode": "optimize",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "relevance",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T081946-afe230f9d92a",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "8acb473f75ab486ab0bdf6e8715550dd",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4508.7059671,
+      "started_unix": 1794817024.871598,
+      "prompt_sha256": "ba4f4ea635edf8aecad0b704b230cb616fe2f4dfc9dad86dce8f936116060d8f",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 27.276504400000704,
+      "ended_monotonic": 4535.9824747,
+      "input_tokens": 621,
+      "output_tokens": 811,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "5a3d7f0e4ac5493baceea3a8c33389b9",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4508.815416,
+      "started_unix": 1794817024.9810345,
+      "prompt_sha256": "1956bf790e57fbf1503cf55b50da63653e679666fa33efcca8efc2656c4b511b",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 43.261425299999246,
+      "ended_monotonic": 4552.076846,
+      "input_tokens": 610,
+      "output_tokens": 2095,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "0344c0a75f514bbc8cbae8c857714c1d",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4508.8166463,
+      "started_unix": 1794817024.9822547,
+      "prompt_sha256": "39c3b76f81773a5fe37db924880b56b2999c76706ae0024dd52d4603ff015dfc",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 16.925563599999805,
+      "ended_monotonic": 4525.7422119,
+      "input_tokens": 610,
+      "output_tokens": 660,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "619dc2b2faa2436283e7e77fd695b907",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4508.8223186,
+      "started_unix": 1794817024.9879231,
+      "prompt_sha256": "2100e2c4ffd0c17baad7da599cd23615b3c50ac71d4ba51f6bc61e7b39e61ea2",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 16.232163700000456,
+      "ended_monotonic": 4525.0544844,
+      "input_tokens": 611,
+      "output_tokens": 844,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "f2dad2bdd9424b7e99d056501643ae0d",
+      "role": "generator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4552.2145727,
+      "started_unix": 1794817068.3802094,
+      "prompt_sha256": "3e46520ddf29c4cef3f365cbd17e5cb96aa11561b9d287461c81c627eb876c30",
+      "round_id": 2,
+      "stage": "rewrite",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 77.13427640000009,
+      "ended_monotonic": 4629.3488569,
+      "input_tokens": 746,
+      "output_tokens": 3188,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "31ab7b343cce4b07b585233249f8f0e8",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4629.362606,
+      "started_unix": 1794817145.5282466,
+      "prompt_sha256": "415cc33ed300cee9b4171d04e4fe1244fb4ebe82910439b374f8834067e78bd3",
+      "round_id": 2,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 28.773217200000545,
+      "ended_monotonic": 4658.1358258,
+      "input_tokens": 796,
+      "output_tokens": 948,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "d5c0a897d5f1419fa0aefdf9cacceb40",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4629.3633425,
+      "started_unix": 1794817145.5289698,
+      "prompt_sha256": "702a300e837142390bbcbc124f433795461e9bcb0f1f766476dd189bfcbf4d1c",
+      "round_id": 2,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 40.434386599999925,
+      "ended_monotonic": 4669.7977312,
+      "input_tokens": 785,
+      "output_tokens": 1771,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "794a62d922f1493887c9ef69cedd9366",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4629.3638573,
+      "started_unix": 1794817145.5294533,
+      "prompt_sha256": "28827e1e8eac778a6ae861dda2f6af2a9a67976aeb0a3326e89181445690d4de",
+      "round_id": 2,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 35.781240600000274,
+      "ended_monotonic": 4665.1451035,
+      "input_tokens": 785,
+      "output_tokens": 1331,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "5758b2e10bd44467b3d7ff208dbe39a3",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4629.364263,
+      "started_unix": 1794817145.5298557,
+      "prompt_sha256": "acdbc37e0cf0939abc6c2c86c8336366c317e5c2db190d424aad46c60c3a9154",
+      "round_id": 2,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 29.192763999999443,
+      "ended_monotonic": 4658.5570298,
+      "input_tokens": 786,
+      "output_tokens": 1324,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 9,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 6350,
+    "observed_output_tokens": 12972,
+    "total_tokens": 19322,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 161.4364190999995,
+    "parse_failures": 0
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000002",
+    "sample_id": "explore-02",
+    "repeat": 0,
+    "variant": "relevance_feedback"
+  }
+}

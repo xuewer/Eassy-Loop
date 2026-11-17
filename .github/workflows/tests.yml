@@ -1,0 +1,19 @@
+name: Eassy Loop offline tests
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  offline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - run: python -m pip install -r requirements-lock.txt
+      - run: python -B -m pytest -q -p no:cacheprovider
+        env:
+          LANGSMITH_TRACING: 'false'
+          LANGCHAIN_TRACING_V2: 'false'
+      - run: python -B tools/verify_dual_results.py

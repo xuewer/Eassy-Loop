@@ -1,5 +1,5 @@
-langchain-core
-langchain-community
-langgraph
-python-dotenv
-dashscope
+# Runtime dependencies; requirements-lock.txt records the tested environment.
+langgraph>=1.0,<2
+pydantic>=2.10,<3
+httpx>=0.28,<1
+python-dotenv>=1.0,<2

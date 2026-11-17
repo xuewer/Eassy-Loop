@@ -1,0 +1,438 @@
+{
+  "topic": "Does a high museum visitor count prove that its education program is successful?",
+  "essay": "A successful museum should attract people, and visitor numbers provide a clear way to show that it is making an impact. Education programs are intended to reach the public, so a high visitor count demonstrates that the museum is doing its job. While other factors may be interesting, attendance is the most practical indicator because it is easy to collect, compare, and explain.\n\nLarge numbers create a lively atmosphere. When people enter a museum, they encounter objects, labels, and stories that they might not otherwise see. Every visit is therefore an educational experience. The more visits there are, the more education takes place. It would be unnecessarily complicated to ask whether visitors understood particular ideas, because learning happens in many ways and cannot always be expressed in words.\n\nAttendance figures also support funding. A museum that welcomes many people can demonstrate value to sponsors and the local authority. Strong publicity may increase visits, and this is another sign that the education team is communicating effectively. Special events, attractive displays, and popular subjects all help bring people through the door. These activities should be encouraged because visibility is essential in a competitive leisure environment.\n\nSome critics suggest that visitors may come only for entertainment or for the cafe. This concern is difficult to measure and should not outweigh a large positive total. A busy museum is clearly preferable to an empty one. If people choose to spend time there, they must find it useful. Their decision to attend is a more honest response than answers to a questionnaire, which could be influenced by the wording of questions.\n\nIn conclusion, a high visitor count is sufficient evidence of educational success. Museums should focus on expanding attendance and making their programs appealing. Detailed assessments could consume money that would be better spent attracting additional visitors. By concentrating on a straightforward measure, museum leaders can make confident decisions and show the community that their institution matters.",
+  "current_round": 1,
+  "feedback": "",
+  "final_score": null,
+  "exit_reason": "evaluation_failed",
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "A successful museum should attract people, and visitor numbers provide a clear way to show that it is making an impact. Education programs are intended to reach the public, so a high visitor count demonstrates that the museum is doing its job. While other factors may be interesting, attendance is the most practical indicator because it is easy to collect, compare, and explain.\n\nLarge numbers create a lively atmosphere. When people enter a museum, they encounter objects, labels, and stories that they might not otherwise see. Every visit is therefore an educational experience. The more visits there are, the more education takes place. It would be unnecessarily complicated to ask whether visitors understood particular ideas, because learning happens in many ways and cannot always be expressed in words.\n\nAttendance figures also support funding. A museum that welcomes many people can demonstrate value to sponsors and the local authority. Strong publicity may increase visits, and this is another sign that the education team is communicating effectively. Special events, attractive displays, and popular subjects all help bring people through the door. These activities should be encouraged because visibility is essential in a competitive leisure environment.\n\nSome critics suggest that visitors may come only for entertainment or for the cafe. This concern is difficult to measure and should not outweigh a large positive total. A busy museum is clearly preferable to an empty one. If people choose to spend time there, they must find it useful. Their decision to attend is a more honest response than answers to a questionnaire, which could be influenced by the wording of questions.\n\nIn conclusion, a high visitor count is sufficient evidence of educational success. Museums should focus on expanding attendance and making their programs appealing. Detailed assessments could consume money that would be better spent attracting additional visitors. By concentrating on a straightforward measure, museum leaders can make confident decisions and show the community that their institution matters.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.75,
+            "rationale": "The essay remains closely focused on the topic, repeatedly connecting high visitor counts to museum education success. It directly answers the question by arguing that attendance is sufficient evidence of educational impact. However, its coverage is limited because it does not fully engage with the essential question of whether visitor count can “prove” educational success, especially by distinguishing attendance from actual learning outcomes or by considering cases where high numbers may reflect entertainment rather than education.",
+            "evidence": [
+              "a high visitor count is sufficient evidence of educational success",
+              "Every visit is therefore an educational experience",
+              "If people choose to spend time there, they must find it useful"
+            ],
+            "suggestions": [
+              "Preserve the clear stance that visitor counts are useful, but add a paragraph explaining what would be needed for them to count as proof of educational success.",
+              "Distinguish between attendance, engagement, and learning outcomes to show when high visitor numbers may or may not indicate program success.",
+              "Acknowledge and analyze the entertainment/cafe counterpoint more directly rather than dismissing it as difficult to measure."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.75,\n  \"rationale\": \"The essay remains closely focused on the topic, repeatedly connecting high visitor counts to museum education success. It directly answers the question by arguing that attendance is sufficient evidence of educational impact. However, its coverage is limited because it does not fully engage with the essential question of whether visitor count can “prove” educational success, especially by distinguishing attendance from actual learning outcomes or by considering cases where high numbers may reflect entertainment rather than education.\",\n  \"evidence\": [\n    \"a high visitor count is sufficient evidence of educational success\",\n    \"Every visit is therefore an educational experience\",\n    \"If people choose to spend time there, they must find it useful\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear stance that visitor counts are useful, but add a paragraph explaining what would be needed for them to count as proof of educational success.\",\n    \"Distinguish between attendance, engagement, and learning outcomes to show when high visitor numbers may or may not indicate program success.\",\n    \"Acknowledge and analyze the entertainment/cafe counterpoint more directly rather than dismissing it as difficult to measure.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.85,
+            "rationale": "The essay is grammatically fluent, with clear syntax and generally appropriate word choice. There are no major errors, but a few expressions are slightly awkward or stylistically imprecise. 'Large positive total' is not incorrect, but it is less natural than 'high attendance figure.' The comparison 'decision ... than answers' is grammatically acceptable but slightly unbalanced. 'Cafe' is acceptable without an accent, though 'café' is more standard in formal writing.",
+            "evidence": [
+              "should not outweigh a large positive total",
+              "Their decision to attend is a more honest response than answers to a questionnaire",
+              "come only for entertainment or for the cafe"
+            ],
+            "suggestions": [
+              "Replace 'a large positive total' with 'a high attendance figure' for more natural wording.",
+              "Revise to 'Their decision to attend is a more honest indicator than questionnaire responses' for clearer parallelism.",
+              "Use 'café' if a more formal spelling is preferred."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay is grammatically fluent, with clear syntax and generally appropriate word choice. There are no major errors, but a few expressions are slightly awkward or stylistically imprecise. 'Large positive total' is not incorrect, but it is less natural than 'high attendance figure.' The comparison 'decision ... than answers' is grammatically acceptable but slightly unbalanced. 'Cafe' is acceptable without an accent, though 'café' is more standard in formal writing.\",\n  \"evidence\": [\n    \"should not outweigh a large positive total\",\n    \"Their decision to attend is a more honest response than answers to a questionnaire\",\n    \"come only for entertainment or for the cafe\"\n  ],\n  \"suggestions\": [\n    \"Replace 'a large positive total' with 'a high attendance figure' for more natural wording.\",\n    \"Revise to 'Their decision to attend is a more honest indicator than questionnaire responses' for clearer parallelism.\",\n    \"Use 'café' if a more formal spelling is preferred.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.7,
+            "rationale": "The essay has a clear introduction, body, and conclusion, and the thesis is focused on visitor count as evidence of educational success. Paragraph roles are generally identifiable: one links attendance to educational exposure, another connects attendance to funding and visibility, and a third addresses a counterargument. Transitions are present and the conclusion restates the claim. However, the organization has limitations: the second body paragraph drifts toward funding and publicity rather than directly proving educational success, and the counterargument paragraph is structurally underdeveloped, offering a dismissal rather than a balanced analysis. The progression is logical but not tightly controlled.",
+            "evidence": [
+              "Education programs are intended to reach the public, so a high visitor count demonstrates that the museum is doing its job.",
+              "Attendance figures also support funding.",
+              "Some critics suggest that visitors may come only for entertainment or for the cafe."
+            ],
+            "suggestions": [
+              "Tighten the thesis to specify whether visitor count is sufficient, strong, or merely one indicator of educational success.",
+              "Reorganize the funding paragraph to explain how attendance evidence supports educational programming, or remove it to keep the argument focused.",
+              "Expand the counterargument paragraph by acknowledging entertainment and then explaining why attendance alone does or does not settle the claim."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.7,\n  \"rationale\": \"The essay has a clear introduction, body, and conclusion, and the thesis is focused on visitor count as evidence of educational success. Paragraph roles are generally identifiable: one links attendance to educational exposure, another connects attendance to funding and visibility, and a third addresses a counterargument. Transitions are present and the conclusion restates the claim. However, the organization has limitations: the second body paragraph drifts toward funding and publicity rather than directly proving educational success, and the counterargument paragraph is structurally underdeveloped, offering a dismissal rather than a balanced analysis. The progression is logical but not tightly controlled.\",\n  \"evidence\": [\n    \"Education programs are intended to reach the public, so a high visitor count demonstrates that the museum is doing its job.\",\n    \"Attendance figures also support funding.\",\n    \"Some critics suggest that visitors may come only for entertainment or for the cafe.\"\n  ],\n  \"suggestions\": [\n    \"Tighten the thesis to specify whether visitor count is sufficient, strong, or merely one indicator of educational success.\",\n    \"Reorganize the funding paragraph to explain how attendance evidence supports educational programming, or remove it to keep the argument focused.\",\n    \"Expand the counterargument paragraph by acknowledging entertainment and then explaining why attendance alone does or does not settle the claim.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+          "dimension": "depth",
+          "status": "parse_error",
+          "judgment": null,
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "parse_error",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.3,\n  \"rationale\": \"The essay engages with the question but provides only a shallow causal argument. It assumes that more visitors automatically means more education and learning, without explaining how attendance translates into understanding, retention, or educational impact. The task-level specificity is weak: it does not distinguish total museum visitors from participants in formal education programs, nor does it identify relevant audiences, program types, or measurable outcomes. Supporting examples are absent, and the reasoning relies on unsupported assertions such as the claim that every visit is educational. The counterargument about entertainment is acknowledged but dismissed rather than analyzed, and limitations of visitor counts are treated as minor rather than examined. Overall, the essay has some structure and recognizes opposing views, but it lacks the depth needed to evaluate the causal link between attendance and educational success.\",\n  \"evidence\": [\n    \"Every visit is therefore an educational experience.\",\n    \"A high visitor count is sufficient evidence of educational success.\",\n    \"This concern is difficult to measure and should not outweigh a large positive total.\"\n  ],\n  \"suggestions\": [\n    \"Explain the causal mechanism more precisely, such as how visitor attendance leads to exposure, engagement, comprehension, and measurable learning outcomes.\",\n    \"Add task-specific examples or evidence, such as pre- and post-visit assessments, program participation data, or comparisons between general visitors and education-program attendees.\",\n    \"Analyze limitations more deeply, including the possibility that high attendance reflects entertainment, marketing, or accessibility rather than educational effectiveness, and propose multiple indicators for success.\"\n  ]\n}",
+              "error": "Invalid judgment schema or evidence",
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": "Check JSON fields, score range, dimension and exact source quotes."
+            }
+          ]
+        }
+      ],
+      "final_score": null,
+      "feedback": "",
+      "exit_reason": "evaluation_failed"
+    }
+  ],
+  "generation_attempts": [],
+  "generation_history": [],
+  "rewrites_completed": 0,
+  "relevance_result": {
+    "round_id": 1,
+    "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.75,
+      "rationale": "The essay remains closely focused on the topic, repeatedly connecting high visitor counts to museum education success. It directly answers the question by arguing that attendance is sufficient evidence of educational impact. However, its coverage is limited because it does not fully engage with the essential question of whether visitor count can “prove” educational success, especially by distinguishing attendance from actual learning outcomes or by considering cases where high numbers may reflect entertainment rather than education.",
+      "evidence": [
+        "a high visitor count is sufficient evidence of educational success",
+        "Every visit is therefore an educational experience",
+        "If people choose to spend time there, they must find it useful"
+      ],
+      "suggestions": [
+        "Preserve the clear stance that visitor counts are useful, but add a paragraph explaining what would be needed for them to count as proof of educational success.",
+        "Distinguish between attendance, engagement, and learning outcomes to show when high visitor numbers may or may not indicate program success.",
+        "Acknowledge and analyze the entertainment/cafe counterpoint more directly rather than dismissing it as difficult to measure."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.75,\n  \"rationale\": \"The essay remains closely focused on the topic, repeatedly connecting high visitor counts to museum education success. It directly answers the question by arguing that attendance is sufficient evidence of educational impact. However, its coverage is limited because it does not fully engage with the essential question of whether visitor count can “prove” educational success, especially by distinguishing attendance from actual learning outcomes or by considering cases where high numbers may reflect entertainment rather than education.\",\n  \"evidence\": [\n    \"a high visitor count is sufficient evidence of educational success\",\n    \"Every visit is therefore an educational experience\",\n    \"If people choose to spend time there, they must find it useful\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear stance that visitor counts are useful, but add a paragraph explaining what would be needed for them to count as proof of educational success.\",\n    \"Distinguish between attendance, engagement, and learning outcomes to show when high visitor numbers may or may not indicate program success.\",\n    \"Acknowledge and analyze the entertainment/cafe counterpoint more directly rather than dismissing it as difficult to measure.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 1,
+    "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+    "dimension": "grammar",
+    "status": "ok",
+    "judgment": {
+      "dimension": "grammar",
+      "score": 0.85,
+      "rationale": "The essay is grammatically fluent, with clear syntax and generally appropriate word choice. There are no major errors, but a few expressions are slightly awkward or stylistically imprecise. 'Large positive total' is not incorrect, but it is less natural than 'high attendance figure.' The comparison 'decision ... than answers' is grammatically acceptable but slightly unbalanced. 'Cafe' is acceptable without an accent, though 'café' is more standard in formal writing.",
+      "evidence": [
+        "should not outweigh a large positive total",
+        "Their decision to attend is a more honest response than answers to a questionnaire",
+        "come only for entertainment or for the cafe"
+      ],
+      "suggestions": [
+        "Replace 'a large positive total' with 'a high attendance figure' for more natural wording.",
+        "Revise to 'Their decision to attend is a more honest indicator than questionnaire responses' for clearer parallelism.",
+        "Use 'café' if a more formal spelling is preferred."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay is grammatically fluent, with clear syntax and generally appropriate word choice. There are no major errors, but a few expressions are slightly awkward or stylistically imprecise. 'Large positive total' is not incorrect, but it is less natural than 'high attendance figure.' The comparison 'decision ... than answers' is grammatically acceptable but slightly unbalanced. 'Cafe' is acceptable without an accent, though 'café' is more standard in formal writing.\",\n  \"evidence\": [\n    \"should not outweigh a large positive total\",\n    \"Their decision to attend is a more honest response than answers to a questionnaire\",\n    \"come only for entertainment or for the cafe\"\n  ],\n  \"suggestions\": [\n    \"Replace 'a large positive total' with 'a high attendance figure' for more natural wording.\",\n    \"Revise to 'Their decision to attend is a more honest indicator than questionnaire responses' for clearer parallelism.\",\n    \"Use 'café' if a more formal spelling is preferred.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 1,
+    "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.7,
+      "rationale": "The essay has a clear introduction, body, and conclusion, and the thesis is focused on visitor count as evidence of educational success. Paragraph roles are generally identifiable: one links attendance to educational exposure, another connects attendance to funding and visibility, and a third addresses a counterargument. Transitions are present and the conclusion restates the claim. However, the organization has limitations: the second body paragraph drifts toward funding and publicity rather than directly proving educational success, and the counterargument paragraph is structurally underdeveloped, offering a dismissal rather than a balanced analysis. The progression is logical but not tightly controlled.",
+      "evidence": [
+        "Education programs are intended to reach the public, so a high visitor count demonstrates that the museum is doing its job.",
+        "Attendance figures also support funding.",
+        "Some critics suggest that visitors may come only for entertainment or for the cafe."
+      ],
+      "suggestions": [
+        "Tighten the thesis to specify whether visitor count is sufficient, strong, or merely one indicator of educational success.",
+        "Reorganize the funding paragraph to explain how attendance evidence supports educational programming, or remove it to keep the argument focused.",
+        "Expand the counterargument paragraph by acknowledging entertainment and then explaining why attendance alone does or does not settle the claim."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.7,\n  \"rationale\": \"The essay has a clear introduction, body, and conclusion, and the thesis is focused on visitor count as evidence of educational success. Paragraph roles are generally identifiable: one links attendance to educational exposure, another connects attendance to funding and visibility, and a third addresses a counterargument. Transitions are present and the conclusion restates the claim. However, the organization has limitations: the second body paragraph drifts toward funding and publicity rather than directly proving educational success, and the counterargument paragraph is structurally underdeveloped, offering a dismissal rather than a balanced analysis. The progression is logical but not tightly controlled.\",\n  \"evidence\": [\n    \"Education programs are intended to reach the public, so a high visitor count demonstrates that the museum is doing its job.\",\n    \"Attendance figures also support funding.\",\n    \"Some critics suggest that visitors may come only for entertainment or for the cafe.\"\n  ],\n  \"suggestions\": [\n    \"Tighten the thesis to specify whether visitor count is sufficient, strong, or merely one indicator of educational success.\",\n    \"Reorganize the funding paragraph to explain how attendance evidence supports educational programming, or remove it to keep the argument focused.\",\n    \"Expand the counterargument paragraph by acknowledging entertainment and then explaining why attendance alone does or does not settle the claim.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 1,
+    "essay_hash": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+    "dimension": "depth",
+    "status": "parse_error",
+    "judgment": null,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "parse_error",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.3,\n  \"rationale\": \"The essay engages with the question but provides only a shallow causal argument. It assumes that more visitors automatically means more education and learning, without explaining how attendance translates into understanding, retention, or educational impact. The task-level specificity is weak: it does not distinguish total museum visitors from participants in formal education programs, nor does it identify relevant audiences, program types, or measurable outcomes. Supporting examples are absent, and the reasoning relies on unsupported assertions such as the claim that every visit is educational. The counterargument about entertainment is acknowledged but dismissed rather than analyzed, and limitations of visitor counts are treated as minor rather than examined. Overall, the essay has some structure and recognizes opposing views, but it lacks the depth needed to evaluate the causal link between attendance and educational success.\",\n  \"evidence\": [\n    \"Every visit is therefore an educational experience.\",\n    \"A high visitor count is sufficient evidence of educational success.\",\n    \"This concern is difficult to measure and should not outweigh a large positive total.\"\n  ],\n  \"suggestions\": [\n    \"Explain the causal mechanism more precisely, such as how visitor attendance leads to exposure, engagement, comprehension, and measurable learning outcomes.\",\n    \"Add task-specific examples or evidence, such as pre- and post-visit assessments, program participation data, or comparisons between general visitors and education-program attendees.\",\n    \"Analyze limitations more deeply, including the possibility that high attendance reflects entertainment, marketing, or accessibility rather than educational effectiveness, and propose multiple indicators for success.\"\n  ]\n}",
+        "error": "Invalid judgment schema or evidence",
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": "Check JSON fields, score range, dimension and exact source quotes."
+      }
+    ]
+  },
+  "mode": "optimize",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "relevance",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T083338-2cde9af146ff",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "46c2624aea624616b533ca773293ba00",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 5472.3805157,
+      "started_unix": 1794817988.5461485,
+      "prompt_sha256": "433fc29f954f7693fa12f28230b10353855ff24f36ead44e6481c22336bd23f6",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 24.66327200000069,
+      "ended_monotonic": 5497.0437896,
+      "input_tokens": 633,
+      "output_tokens": 1047,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "7dcef630ad7c4dfe961a1739ff72bac3",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 5472.4735817,
+      "started_unix": 1794817988.639201,
+      "prompt_sha256": "d738e686ddd913ae02b0e6ee0f0a36e3f04e9512a38c09f922242f617072ccae",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 28.350531299999602,
+      "ended_monotonic": 5500.8241167,
+      "input_tokens": 622,
+      "output_tokens": 1659,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "ff4cbaaf54af42938b835c2737a69a81",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 5472.5866389,
+      "started_unix": 1794817988.7522385,
+      "prompt_sha256": "b7a2087f64f593c7c9d9c80f645af55ed76b5c7c4c12ebe9b39c4c0b9d5366a4",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 18.881828300000052,
+      "ended_monotonic": 5491.4684726,
+      "input_tokens": 622,
+      "output_tokens": 784,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "c0260dc6d6c94bbb9461a77741f57069",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 5472.6274643,
+      "started_unix": 1794817988.7930663,
+      "prompt_sha256": "7d6c9e6e87d6814bd25c26cd1e8ec05f6ae27c44afbd812cb78d2a2286a9cf8e",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 29.430735500000083,
+      "ended_monotonic": 5502.0582021,
+      "input_tokens": 623,
+      "output_tokens": 1029,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 4,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 2500,
+    "observed_output_tokens": 4519,
+    "total_tokens": 7019,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 29.84572130000015,
+    "parse_failures": 1
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000010",
+    "sample_id": "explore-09",
+    "repeat": 0,
+    "variant": "relevance_feedback"
+  }
+}

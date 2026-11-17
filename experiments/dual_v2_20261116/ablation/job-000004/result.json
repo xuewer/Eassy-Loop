@@ -1,0 +1,746 @@
+{
+  "topic": "Should cities prioritize buses over additional urban roads?",
+  "essay": "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed. The central question is whether residents can reach work, school, healthcare, and other essential services reliably and affordably. In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.\n\nConsider a worker whose shift begins before the morning rush. A bus route that appears on a map offers little practical access if its first departure is too late. More frequent service and longer operating hours may help this worker more than an extra lane that only speeds a short segment. Bus lanes can make travel times more predictable, but their value depends on enforcement, maintenance, and connections. A quick ride on one corridor does not compensate for a long, uncertain transfer or an unsafe walk to the stop.\n\nThis argument does not mean roads are unnecessary. Deliveries, emergency vehicles, and residents with mobility limitations also need reliable access. In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere. A city might therefore combine strong bus services on busy corridors with accessible feeder options, while preserving essential roads. The appropriate mix depends on local settlement patterns, land use, and actual travel needs.\n\nEvaluation should include waiting time, reliability, wheelchair access, fare affordability, and the distribution of benefits across neighborhoods. A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets. Costs and trade-offs should be reported alongside passenger use rather than hidden behind a single favorable measure.\n\nPrioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding. It becomes weaker when treated as a universal answer. By defining the people and journeys an investment should serve, a city can explain both its choice and the circumstances that would justify changing it.",
+  "current_round": 2,
+  "feedback": "",
+  "final_score": 0.8500000000000001,
+  "exit_reason": "max_rounds",
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "A city deciding between a more frequent bus network and an additional traffic lane should compare access, not simply vehicle speed. The relevant question is how reliably residents can reach work, education, and essential services. For dense corridors with limited street space, improving buses can be a defensible priority, provided the service is useful throughout the journey.\n\nConsider a worker whose shift starts before the morning rush. A bus route shown on a map offers little access if its first departure is too late. More frequent service and longer operating hours may help this worker more than a faster trip for motorists. Bus lanes can also make travel times more predictable, but their value depends on enforcement and connections. A quick journey on one segment does not compensate for a long, uncertain transfer or an unsafe walk to the stop.\n\nThis argument does not establish that roads are unnecessary. Deliveries, emergency vehicles, and residents with mobility limitations also need reliable access. In low-density districts, a frequent fixed route may carry few passengers while consuming resources needed elsewhere. A city could combine strong services on busy corridors with accessible feeder options, while maintaining essential roads. The appropriate mix depends on local settlement patterns and actual travel needs.\n\nEvaluation should therefore include waiting time, reliability, wheelchair access, and the distribution of benefits across neighborhoods. A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets. Costs and trade-offs should be reported alongside passenger use rather than hidden behind a single favorable measure.\n\nPrioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding. It becomes weaker when treated as a universal answer. By defining the people and journeys an investment should serve, a city can explain both its choice and the circumstances that would justify changing it.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "055de25fba1b49d76a1b2bb952754efbb4386018623cd8ec9f5ceffc2f212e68",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.9,
+            "rationale": "The essay remains closely aligned with the topic, directly addressing whether cities should prioritize buses over additional urban roads. It frames the issue as a choice between bus frequency and added road capacity, then evaluates when bus priority is justified and when it is not. The discussion stays focused on the essential question rather than drifting into generic transit or road policy. A minor limitation is that the comparison with additional roads is not developed in explicit cost/capacity terms, but the relevance to the prompt is strong and sustained.",
+            "evidence": [
+              "A city deciding between a more frequent bus network and an additional traffic lane should compare access, not simply vehicle speed.",
+              "For dense corridors with limited street space, improving buses can be a defensible priority",
+              "Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding."
+            ],
+            "suggestions": [
+              "Add one sentence explicitly comparing the expected outcomes of an added road lane versus bus priority, such as capacity, cost, or congestion effects.",
+              "Clarify the threshold at which additional roads become the more relevant priority, for example in low-density areas with poor transit coverage.",
+              "Preserve the conditional framing, which keeps the essay directly responsive to the topic."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay remains closely aligned with the topic, directly addressing whether cities should prioritize buses over additional urban roads. It frames the issue as a choice between bus frequency and added road capacity, then evaluates when bus priority is justified and when it is not. The discussion stays focused on the essential question rather than drifting into generic transit or road policy. A minor limitation is that the comparison with additional roads is not developed in explicit cost/capacity terms, but the relevance to the prompt is strong and sustained.\",\n  \"evidence\": [\n    \"A city deciding between a more frequent bus network and an additional traffic lane should compare access, not simply vehicle speed.\",\n    \"For dense corridors with limited street space, improving buses can be a defensible priority\",\n    \"Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding.\"\n  ],\n  \"suggestions\": [\n    \"Add one sentence explicitly comparing the expected outcomes of an added road lane versus bus priority, such as capacity, cost, or congestion effects.\",\n    \"Clarify the threshold at which additional roads become the more relevant priority, for example in low-density areas with poor transit coverage.\",\n    \"Preserve the conditional framing, which keeps the essay directly responsive to the topic.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "055de25fba1b49d76a1b2bb952754efbb4386018623cd8ec9f5ceffc2f212e68",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.9,
+            "rationale": "The essay is grammatically strong, with clear syntax, precise word choice, and high clarity. Sentences are mostly well controlled and logically connected. Minor limitations include a slightly awkward predicate in “Prioritizing buses is strongest” and the vague phrase “strong services,” which weakens precision without constituting a major grammatical error.",
+            "evidence": [
+              "Prioritizing buses is strongest as a conditional strategy",
+              "A city could combine strong services on busy corridors",
+              "A city deciding between a more frequent bus network and an additional traffic lane"
+            ],
+            "suggestions": [
+              "Revise “Prioritizing buses is strongest” to “The case for prioritizing buses is strongest” for clearer subject-predicate structure.",
+              "Replace “strong services” with “robust, high-frequency services” to improve lexical precision.",
+              "Preserve the concise conditional framing and balanced syntax, which are major strengths of the essay."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay is grammatically strong, with clear syntax, precise word choice, and high clarity. Sentences are mostly well controlled and logically connected. Minor limitations include a slightly awkward predicate in “Prioritizing buses is strongest” and the vague phrase “strong services,” which weakens precision without constituting a major grammatical error.\",\n  \"evidence\": [\n    \"Prioritizing buses is strongest as a conditional strategy\",\n    \"A city could combine strong services on busy corridors\",\n    \"A city deciding between a more frequent bus network and an additional traffic lane\"\n  ],\n  \"suggestions\": [\n    \"Revise “Prioritizing buses is strongest” to “The case for prioritizing buses is strongest” for clearer subject-predicate structure.\",\n    \"Replace “strong services” with “robust, high-frequency services” to improve lexical precision.\",\n    \"Preserve the concise conditional framing and balanced syntax, which are major strengths of the essay.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "055de25fba1b49d76a1b2bb952754efbb4386018623cd8ec9f5ceffc2f212e68",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.88,
+            "rationale": "The essay has a clear, conditional thesis and a coherent sequence: it frames the issue around access, develops an example, acknowledges limitations, specifies evaluation criteria, and closes by restating the conditional claim. Paragraph roles are mostly distinct and logical progression is effective. The main limitation is that some transitions and role markers are implicit rather than explicit, especially between the example paragraph and the counterargument paragraph, and between evaluation criteria and the conclusion.",
+            "evidence": [
+              "For dense corridors with limited street space, improving buses can be a defensible priority, provided the service is useful throughout the journey.",
+              "This argument does not establish that roads are unnecessary.",
+              "Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding."
+            ],
+            "suggestions": [
+              "Add a sentence in the second paragraph explicitly connecting the worker example back to the dense-corridor thesis, such as showing why this case illustrates the thesis rather than merely illustrating bus access.",
+              "Make the third paragraph’s counterargument role clearer by opening with a concession and then pivoting, e.g., “While roads remain necessary, the bus-priority case is strongest where...”.",
+              "Use a brief transition from the evaluation paragraph to the conclusion to show why those criteria support the final conditional judgment."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.88,\n  \"rationale\": \"The essay has a clear, conditional thesis and a coherent sequence: it frames the issue around access, develops an example, acknowledges limitations, specifies evaluation criteria, and closes by restating the conditional claim. Paragraph roles are mostly distinct and logical progression is effective. The main limitation is that some transitions and role markers are implicit rather than explicit, especially between the example paragraph and the counterargument paragraph, and between evaluation criteria and the conclusion.\",\n  \"evidence\": [\n    \"For dense corridors with limited street space, improving buses can be a defensible priority, provided the service is useful throughout the journey.\",\n    \"This argument does not establish that roads are unnecessary.\",\n    \"Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding.\"\n  ],\n  \"suggestions\": [\n    \"Add a sentence in the second paragraph explicitly connecting the worker example back to the dense-corridor thesis, such as showing why this case illustrates the thesis rather than merely illustrating bus access.\",\n    \"Make the third paragraph’s counterargument role clearer by opening with a concession and then pivoting, e.g., “While roads remain necessary, the bus-priority case is strongest where...”.\",\n    \"Use a brief transition from the evaluation paragraph to the conclusion to show why those criteria support the final conditional judgment.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "055de25fba1b49d76a1b2bb952754efbb4386018623cd8ec9f5ceffc2f212e68",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.7,
+            "rationale": "The essay develops a conditional argument with some causal reasoning: bus frequency, operating hours, bus-lane enforcement, transfers, and walking conditions affect access. It also recognizes limits, such as low-density ridership, emergency access, and construction or displacement effects. However, depth is constrained by the absence of concrete examples, data, or a detailed comparison of how added roads would change travel behavior. The worker example is illustrative but not task-specific enough, and the causal chain for road investment remains underdeveloped.",
+            "evidence": [
+              "A bus route shown on a map offers little access if its first departure is too late.",
+              "Bus lanes can also make travel times more predictable, but their value depends on enforcement and connections.",
+              "In low-density districts, a frequent fixed route may carry few passengers while consuming resources needed elsewhere."
+            ],
+            "suggestions": [
+              "Add a specific corridor scenario with measurable details, such as current headways, operating hours, transfer distance, and expected ridership, to ground the causal argument.",
+              "Develop the road-side mechanism more fully by explaining how an added lane might affect congestion, mode choice, safety, land use, or freight access.",
+              "Strengthen the evaluation section by specifying how displaced traffic, construction disruption, and equity impacts would be measured during a trial."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.7,\n  \"rationale\": \"The essay develops a conditional argument with some causal reasoning: bus frequency, operating hours, bus-lane enforcement, transfers, and walking conditions affect access. It also recognizes limits, such as low-density ridership, emergency access, and construction or displacement effects. However, depth is constrained by the absence of concrete examples, data, or a detailed comparison of how added roads would change travel behavior. The worker example is illustrative but not task-specific enough, and the causal chain for road investment remains underdeveloped.\",\n  \"evidence\": [\n    \"A bus route shown on a map offers little access if its first departure is too late.\",\n    \"Bus lanes can also make travel times more predictable, but their value depends on enforcement and connections.\",\n    \"In low-density districts, a frequent fixed route may carry few passengers while consuming resources needed elsewhere.\"\n  ],\n  \"suggestions\": [\n    \"Add a specific corridor scenario with measurable details, such as current headways, operating hours, transfer distance, and expected ridership, to ground the causal argument.\",\n    \"Develop the road-side mechanism more fully by explaining how an added lane might affect congestion, mode choice, safety, land use, or freight access.\",\n    \"Strengthen the evaluation section by specifying how displaced traffic, construction disruption, and equity impacts would be measured during a trial.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.8360000000000001,
+      "feedback": "",
+      "exit_reason": null
+    },
+    {
+      "round_id": 2,
+      "essay": "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed. The central question is whether residents can reach work, school, healthcare, and other essential services reliably and affordably. In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.\n\nConsider a worker whose shift begins before the morning rush. A bus route that appears on a map offers little practical access if its first departure is too late. More frequent service and longer operating hours may help this worker more than an extra lane that only speeds a short segment. Bus lanes can make travel times more predictable, but their value depends on enforcement, maintenance, and connections. A quick ride on one corridor does not compensate for a long, uncertain transfer or an unsafe walk to the stop.\n\nThis argument does not mean roads are unnecessary. Deliveries, emergency vehicles, and residents with mobility limitations also need reliable access. In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere. A city might therefore combine strong bus services on busy corridors with accessible feeder options, while preserving essential roads. The appropriate mix depends on local settlement patterns, land use, and actual travel needs.\n\nEvaluation should include waiting time, reliability, wheelchair access, fare affordability, and the distribution of benefits across neighborhoods. A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets. Costs and trade-offs should be reported alongside passenger use rather than hidden behind a single favorable measure.\n\nPrioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding. It becomes weaker when treated as a universal answer. By defining the people and journeys an investment should serve, a city can explain both its choice and the circumstances that would justify changing it.",
+      "results": [
+        {
+          "round_id": 2,
+          "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.9,
+            "rationale": "The essay remains tightly aligned with the topic and directly addresses whether cities should prioritize buses over additional urban roads. It frames the issue as access rather than speed, evaluates conditions under which bus priority is justified, and acknowledges cases where roads remain necessary. The discussion covers dense corridors, low-density areas, service frequency, reliability, affordability, and trade-offs, showing sustained engagement with the essential question. A minor limitation is that it could more explicitly connect the conditional argument to concrete policy prioritization, such as budget allocation or planning decisions.",
+            "evidence": [
+              "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.",
+              "In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.",
+              "Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding."
+            ],
+            "suggestions": [
+              "Add one sentence explicitly linking the conditional strategy to policy choices, such as allocating capital budgets or land-use planning before new road projects.",
+              "Include a brief example of how a city might rank bus priority against road expansion when both compete for the same funds.",
+              "Preserve the balanced structure that distinguishes dense corridors from low-density districts, as it directly supports the topic's essential question."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay remains tightly aligned with the topic and directly addresses whether cities should prioritize buses over additional urban roads. It frames the issue as access rather than speed, evaluates conditions under which bus priority is justified, and acknowledges cases where roads remain necessary. The discussion covers dense corridors, low-density areas, service frequency, reliability, affordability, and trade-offs, showing sustained engagement with the essential question. A minor limitation is that it could more explicitly connect the conditional argument to concrete policy prioritization, such as budget allocation or planning decisions.\",\n  \"evidence\": [\n    \"A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.\",\n    \"In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.\",\n    \"Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding.\"\n  ],\n  \"suggestions\": [\n    \"Add one sentence explicitly linking the conditional strategy to policy choices, such as allocating capital budgets or land-use planning before new road projects.\",\n    \"Include a brief example of how a city might rank bus priority against road expansion when both compete for the same funds.\",\n    \"Preserve the balanced structure that distinguishes dense corridors from low-density districts, as it directly supports the topic's essential question.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 1.0,
+            "rationale": "The writing is grammatically clean and syntactically controlled, with precise word choice and clear sentence structure. There are no actual errors; any changes would be optional style preferences rather than material defects.",
+            "evidence": [
+              "provided the service is useful across the whole journey",
+              "A quick ride on one corridor does not compensate",
+              "Costs and trade-offs should be reported alongside passenger use"
+            ],
+            "suggestions": [
+              "Preserve the balanced conditional phrasing, such as 'provided the service is useful across the whole journey.'",
+              "Maintain the concise nominal phrases like 'waiting time, reliability, wheelchair access, fare affordability,' which are grammatically parallel and clear."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 1,\n  \"rationale\": \"The writing is grammatically clean and syntactically controlled, with precise word choice and clear sentence structure. There are no actual errors; any changes would be optional style preferences rather than material defects.\",\n  \"evidence\": [\n    \"provided the service is useful across the whole journey\",\n    \"A quick ride on one corridor does not compensate\",\n    \"Costs and trade-offs should be reported alongside passenger use\"\n  ],\n  \"suggestions\": [\n    \"Preserve the balanced conditional phrasing, such as 'provided the service is useful across the whole journey.'\",\n    \"Maintain the concise nominal phrases like 'waiting time, reliability, wheelchair access, fare affordability,' which are grammatically parallel and clear.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.85,
+            "rationale": "The essay has a clear, focused thesis and a logical progression: it defines the issue, develops a concrete example, acknowledges limits, adds evaluation criteria, and concludes with a conditional judgment. Paragraph roles are generally distinct and transitions are functional. The main limitation is that the fourth paragraph feels somewhat detached from the argument’s flow; it introduces assessment criteria without explicitly tying them back to the earlier bus-versus-road decision, making the structure slightly less integrated.",
+            "evidence": [
+              "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.",
+              "This argument does not mean roads are unnecessary.",
+              "Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding."
+            ],
+            "suggestions": [
+              "Add a brief transition before the evaluation paragraph, such as “To decide which option better serves access, a city should measure...”, to connect it directly to the thesis.",
+              "End the evaluation paragraph by linking the criteria back to the bus/road choice, for example: “These measures show whether buses or roads better meet local access needs.”",
+              "Preserve the strong conditional conclusion and the balanced paragraph order, which effectively support the thesis."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay has a clear, focused thesis and a logical progression: it defines the issue, develops a concrete example, acknowledges limits, adds evaluation criteria, and concludes with a conditional judgment. Paragraph roles are generally distinct and transitions are functional. The main limitation is that the fourth paragraph feels somewhat detached from the argument’s flow; it introduces assessment criteria without explicitly tying them back to the earlier bus-versus-road decision, making the structure slightly less integrated.\",\n  \"evidence\": [\n    \"A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.\",\n    \"This argument does not mean roads are unnecessary.\",\n    \"Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding.\"\n  ],\n  \"suggestions\": [\n    \"Add a brief transition before the evaluation paragraph, such as “To decide which option better serves access, a city should measure...”, to connect it directly to the thesis.\",\n    \"End the evaluation paragraph by linking the criteria back to the bus/road choice, for example: “These measures show whether buses or roads better meet local access needs.”\",\n    \"Preserve the strong conditional conclusion and the balanced paragraph order, which effectively support the thesis.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.7,
+            "rationale": "The essay develops a meaningful causal framework: bus priority can improve access through frequency, operating hours, reliability, connections, and predictable travel times, while roads remain important for deliveries, emergency access, and mobility-limited residents. It also includes useful limitations, such as low-density ridership risk, construction disruption, and displaced traffic. However, the analysis remains largely hypothetical and generic. It lacks concrete task-level specificity, such as a named corridor, ridership pattern, capacity threshold, or measurable trade-off between bus lanes and road space. The examples are illustrative rather than evidentiary, and the causal mechanisms are not fully traced from policy choice to access outcomes.",
+            "evidence": [
+              "A bus route that appears on a map offers little practical access if its first departure is too late.",
+              "In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere.",
+              "A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets."
+            ],
+            "suggestions": [
+              "Add a specific corridor example, such as a high-density employment route, and explain how bus frequency, capacity, and headway would change access relative to adding a lane.",
+              "Make the causal chain more explicit: scarce street space -> bus lane/frequency -> reduced waiting time and improved reliability -> more viable trips for early-shift workers.",
+              "Include measurable criteria for when the strategy changes, such as ridership thresholds, average waiting times, transfer penalties, or displacement of traffic to nearby streets."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.7,\n  \"rationale\": \"The essay develops a meaningful causal framework: bus priority can improve access through frequency, operating hours, reliability, connections, and predictable travel times, while roads remain important for deliveries, emergency access, and mobility-limited residents. It also includes useful limitations, such as low-density ridership risk, construction disruption, and displaced traffic. However, the analysis remains largely hypothetical and generic. It lacks concrete task-level specificity, such as a named corridor, ridership pattern, capacity threshold, or measurable trade-off between bus lanes and road space. The examples are illustrative rather than evidentiary, and the causal mechanisms are not fully traced from policy choice to access outcomes.\",\n  \"evidence\": [\n    \"A bus route that appears on a map offers little practical access if its first departure is too late.\",\n    \"In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere.\",\n    \"A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets.\"\n  ],\n  \"suggestions\": [\n    \"Add a specific corridor example, such as a high-density employment route, and explain how bus frequency, capacity, and headway would change access relative to adding a lane.\",\n    \"Make the causal chain more explicit: scarce street space -> bus lane/frequency -> reduced waiting time and improved reliability -> more viable trips for early-shift workers.\",\n    \"Include measurable criteria for when the strategy changes, such as ridership thresholds, average waiting times, transfer penalties, or displacement of traffic to nearby streets.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.8500000000000001,
+      "feedback": "",
+      "exit_reason": "max_rounds"
+    }
+  ],
+  "generation_attempts": [
+    {
+      "attempt": 1,
+      "status": "ok",
+      "raw_response": "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed. The central question is whether residents can reach work, school, healthcare, and other essential services reliably and affordably. In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.\n\nConsider a worker whose shift begins before the morning rush. A bus route that appears on a map offers little practical access if its first departure is too late. More frequent service and longer operating hours may help this worker more than an extra lane that only speeds a short segment. Bus lanes can make travel times more predictable, but their value depends on enforcement, maintenance, and connections. A quick ride on one corridor does not compensate for a long, uncertain transfer or an unsafe walk to the stop.\n\nThis argument does not mean roads are unnecessary. Deliveries, emergency vehicles, and residents with mobility limitations also need reliable access. In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere. A city might therefore combine strong bus services on busy corridors with accessible feeder options, while preserving essential roads. The appropriate mix depends on local settlement patterns, land use, and actual travel needs.\n\nEvaluation should include waiting time, reliability, wheelchair access, fare affordability, and the distribution of benefits across neighborhoods. A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets. Costs and trade-offs should be reported alongside passenger use rather than hidden behind a single favorable measure.\n\nPrioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding. It becomes weaker when treated as a universal answer. By defining the people and journeys an investment should serve, a city can explain both its choice and the circumstances that would justify changing it.",
+      "error": null,
+      "http_status": null,
+      "timeout_phase": null,
+      "connection_cause": null,
+      "provider_code": null,
+      "provider_reason": null,
+      "response_format": null,
+      "retryable": null,
+      "hint": null
+    }
+  ],
+  "generation_history": [
+    {
+      "round_id": 2,
+      "is_rewrite": true,
+      "feedback_used": "",
+      "input_essay_hash": "055de25fba1b49d76a1b2bb952754efbb4386018623cd8ec9f5ceffc2f212e68",
+      "output_essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "ok",
+          "raw_response": "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed. The central question is whether residents can reach work, school, healthcare, and other essential services reliably and affordably. In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.\n\nConsider a worker whose shift begins before the morning rush. A bus route that appears on a map offers little practical access if its first departure is too late. More frequent service and longer operating hours may help this worker more than an extra lane that only speeds a short segment. Bus lanes can make travel times more predictable, but their value depends on enforcement, maintenance, and connections. A quick ride on one corridor does not compensate for a long, uncertain transfer or an unsafe walk to the stop.\n\nThis argument does not mean roads are unnecessary. Deliveries, emergency vehicles, and residents with mobility limitations also need reliable access. In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere. A city might therefore combine strong bus services on busy corridors with accessible feeder options, while preserving essential roads. The appropriate mix depends on local settlement patterns, land use, and actual travel needs.\n\nEvaluation should include waiting time, reliability, wheelchair access, fare affordability, and the distribution of benefits across neighborhoods. A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets. Costs and trade-offs should be reported alongside passenger use rather than hidden behind a single favorable measure.\n\nPrioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding. It becomes weaker when treated as a universal answer. By defining the people and journeys an investment should serve, a city can explain both its choice and the circumstances that would justify changing it.",
+          "error": null,
+          "http_status": null,
+          "timeout_phase": null,
+          "connection_cause": null,
+          "provider_code": null,
+          "provider_reason": null,
+          "response_format": null,
+          "retryable": null,
+          "hint": null
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "rewrites_completed": 1,
+  "relevance_result": {
+    "round_id": 2,
+    "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.9,
+      "rationale": "The essay remains tightly aligned with the topic and directly addresses whether cities should prioritize buses over additional urban roads. It frames the issue as access rather than speed, evaluates conditions under which bus priority is justified, and acknowledges cases where roads remain necessary. The discussion covers dense corridors, low-density areas, service frequency, reliability, affordability, and trade-offs, showing sustained engagement with the essential question. A minor limitation is that it could more explicitly connect the conditional argument to concrete policy prioritization, such as budget allocation or planning decisions.",
+      "evidence": [
+        "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.",
+        "In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.",
+        "Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding."
+      ],
+      "suggestions": [
+        "Add one sentence explicitly linking the conditional strategy to policy choices, such as allocating capital budgets or land-use planning before new road projects.",
+        "Include a brief example of how a city might rank bus priority against road expansion when both compete for the same funds.",
+        "Preserve the balanced structure that distinguishes dense corridors from low-density districts, as it directly supports the topic's essential question."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay remains tightly aligned with the topic and directly addresses whether cities should prioritize buses over additional urban roads. It frames the issue as access rather than speed, evaluates conditions under which bus priority is justified, and acknowledges cases where roads remain necessary. The discussion covers dense corridors, low-density areas, service frequency, reliability, affordability, and trade-offs, showing sustained engagement with the essential question. A minor limitation is that it could more explicitly connect the conditional argument to concrete policy prioritization, such as budget allocation or planning decisions.\",\n  \"evidence\": [\n    \"A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.\",\n    \"In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.\",\n    \"Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding.\"\n  ],\n  \"suggestions\": [\n    \"Add one sentence explicitly linking the conditional strategy to policy choices, such as allocating capital budgets or land-use planning before new road projects.\",\n    \"Include a brief example of how a city might rank bus priority against road expansion when both compete for the same funds.\",\n    \"Preserve the balanced structure that distinguishes dense corridors from low-density districts, as it directly supports the topic's essential question.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 2,
+    "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+    "dimension": "grammar",
+    "status": "ok",
+    "judgment": {
+      "dimension": "grammar",
+      "score": 1.0,
+      "rationale": "The writing is grammatically clean and syntactically controlled, with precise word choice and clear sentence structure. There are no actual errors; any changes would be optional style preferences rather than material defects.",
+      "evidence": [
+        "provided the service is useful across the whole journey",
+        "A quick ride on one corridor does not compensate",
+        "Costs and trade-offs should be reported alongside passenger use"
+      ],
+      "suggestions": [
+        "Preserve the balanced conditional phrasing, such as 'provided the service is useful across the whole journey.'",
+        "Maintain the concise nominal phrases like 'waiting time, reliability, wheelchair access, fare affordability,' which are grammatically parallel and clear."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 1,\n  \"rationale\": \"The writing is grammatically clean and syntactically controlled, with precise word choice and clear sentence structure. There are no actual errors; any changes would be optional style preferences rather than material defects.\",\n  \"evidence\": [\n    \"provided the service is useful across the whole journey\",\n    \"A quick ride on one corridor does not compensate\",\n    \"Costs and trade-offs should be reported alongside passenger use\"\n  ],\n  \"suggestions\": [\n    \"Preserve the balanced conditional phrasing, such as 'provided the service is useful across the whole journey.'\",\n    \"Maintain the concise nominal phrases like 'waiting time, reliability, wheelchair access, fare affordability,' which are grammatically parallel and clear.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 2,
+    "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.85,
+      "rationale": "The essay has a clear, focused thesis and a logical progression: it defines the issue, develops a concrete example, acknowledges limits, adds evaluation criteria, and concludes with a conditional judgment. Paragraph roles are generally distinct and transitions are functional. The main limitation is that the fourth paragraph feels somewhat detached from the argument’s flow; it introduces assessment criteria without explicitly tying them back to the earlier bus-versus-road decision, making the structure slightly less integrated.",
+      "evidence": [
+        "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.",
+        "This argument does not mean roads are unnecessary.",
+        "Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding."
+      ],
+      "suggestions": [
+        "Add a brief transition before the evaluation paragraph, such as “To decide which option better serves access, a city should measure...”, to connect it directly to the thesis.",
+        "End the evaluation paragraph by linking the criteria back to the bus/road choice, for example: “These measures show whether buses or roads better meet local access needs.”",
+        "Preserve the strong conditional conclusion and the balanced paragraph order, which effectively support the thesis."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay has a clear, focused thesis and a logical progression: it defines the issue, develops a concrete example, acknowledges limits, adds evaluation criteria, and concludes with a conditional judgment. Paragraph roles are generally distinct and transitions are functional. The main limitation is that the fourth paragraph feels somewhat detached from the argument’s flow; it introduces assessment criteria without explicitly tying them back to the earlier bus-versus-road decision, making the structure slightly less integrated.\",\n  \"evidence\": [\n    \"A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed.\",\n    \"This argument does not mean roads are unnecessary.\",\n    \"Prioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding.\"\n  ],\n  \"suggestions\": [\n    \"Add a brief transition before the evaluation paragraph, such as “To decide which option better serves access, a city should measure...”, to connect it directly to the thesis.\",\n    \"End the evaluation paragraph by linking the criteria back to the bus/road choice, for example: “These measures show whether buses or roads better meet local access needs.”\",\n    \"Preserve the strong conditional conclusion and the balanced paragraph order, which effectively support the thesis.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 2,
+    "essay_hash": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+    "dimension": "depth",
+    "status": "ok",
+    "judgment": {
+      "dimension": "depth",
+      "score": 0.7,
+      "rationale": "The essay develops a meaningful causal framework: bus priority can improve access through frequency, operating hours, reliability, connections, and predictable travel times, while roads remain important for deliveries, emergency access, and mobility-limited residents. It also includes useful limitations, such as low-density ridership risk, construction disruption, and displaced traffic. However, the analysis remains largely hypothetical and generic. It lacks concrete task-level specificity, such as a named corridor, ridership pattern, capacity threshold, or measurable trade-off between bus lanes and road space. The examples are illustrative rather than evidentiary, and the causal mechanisms are not fully traced from policy choice to access outcomes.",
+      "evidence": [
+        "A bus route that appears on a map offers little practical access if its first departure is too late.",
+        "In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere.",
+        "A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets."
+      ],
+      "suggestions": [
+        "Add a specific corridor example, such as a high-density employment route, and explain how bus frequency, capacity, and headway would change access relative to adding a lane.",
+        "Make the causal chain more explicit: scarce street space -> bus lane/frequency -> reduced waiting time and improved reliability -> more viable trips for early-shift workers.",
+        "Include measurable criteria for when the strategy changes, such as ridership thresholds, average waiting times, transfer penalties, or displacement of traffic to nearby streets."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.7,\n  \"rationale\": \"The essay develops a meaningful causal framework: bus priority can improve access through frequency, operating hours, reliability, connections, and predictable travel times, while roads remain important for deliveries, emergency access, and mobility-limited residents. It also includes useful limitations, such as low-density ridership risk, construction disruption, and displaced traffic. However, the analysis remains largely hypothetical and generic. It lacks concrete task-level specificity, such as a named corridor, ridership pattern, capacity threshold, or measurable trade-off between bus lanes and road space. The examples are illustrative rather than evidentiary, and the causal mechanisms are not fully traced from policy choice to access outcomes.\",\n  \"evidence\": [\n    \"A bus route that appears on a map offers little practical access if its first departure is too late.\",\n    \"In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere.\",\n    \"A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets.\"\n  ],\n  \"suggestions\": [\n    \"Add a specific corridor example, such as a high-density employment route, and explain how bus frequency, capacity, and headway would change access relative to adding a lane.\",\n    \"Make the causal chain more explicit: scarce street space -> bus lane/frequency -> reduced waiting time and improved reliability -> more viable trips for early-shift workers.\",\n    \"Include measurable criteria for when the strategy changes, such as ridership thresholds, average waiting times, transfer penalties, or displacement of traffic to nearby streets.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "mode": "optimize",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "none",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T082453-d6588113c27b",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "0ae2b454e37747fc91c1a3dfcb48d73c",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4828.39947,
+      "started_unix": 1794817344.5650826,
+      "prompt_sha256": "050838d2a98956844d992982754aca8b376f8029a68d7b5af037a0c8e03cf6d7",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 36.853222599999754,
+      "ended_monotonic": 4865.2526951,
+      "input_tokens": 618,
+      "output_tokens": 908,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "eee780c1750746e9ab13435c75af42b3",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4828.4045703,
+      "started_unix": 1794817344.5701916,
+      "prompt_sha256": "37f796bf77189a5ab3b7102c00e1ec789df46e434c65fa887b46297381cd1744",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 32.92014599999948,
+      "ended_monotonic": 4861.324719,
+      "input_tokens": 607,
+      "output_tokens": 1506,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "649e19f6fcdf45ffa41d6322a1b638f7",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4828.4482683,
+      "started_unix": 1794817344.6139398,
+      "prompt_sha256": "29fb8a231c0fe5bdd66b7d4dc31375d19eae8d7f009b41329e58700813e37979",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 25.131729499999892,
+      "ended_monotonic": 4853.58,
+      "input_tokens": 607,
+      "output_tokens": 903,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "b34daefd9dd545209d2790d91df92fa6",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4828.4779077,
+      "started_unix": 1794817344.643517,
+      "prompt_sha256": "d5a9e13af164d241ad164325993e14121f7f74b484425b47be838369670e2618",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 25.317107099999703,
+      "ended_monotonic": 4853.7950175,
+      "input_tokens": 608,
+      "output_tokens": 773,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "ee56afd08f9f441cb00f561c8a174cc7",
+      "role": "generator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4865.2694671,
+      "started_unix": 1794817381.435069,
+      "prompt_sha256": "07dc61155eb02f7f0252322ef34c8fa18e106ae8894a37fe2baf49f5a1046198",
+      "round_id": 2,
+      "stage": "rewrite",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 56.90032979999978,
+      "ended_monotonic": 4922.1698037,
+      "input_tokens": 497,
+      "output_tokens": 2318,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "1076c89af82c4b3ab2e92eb0ad553a93",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4922.2455886,
+      "started_unix": 1794817438.4112172,
+      "prompt_sha256": "5cc3735092047cd543fe0b2576db0551c98a92139d72f30c362c864f3cd36215",
+      "round_id": 2,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 19.966728800000055,
+      "ended_monotonic": 4942.2123197,
+      "input_tokens": 642,
+      "output_tokens": 870,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "22cb4eb52621424eade45fe0e43cdae2",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4922.247348,
+      "started_unix": 1794817438.412947,
+      "prompt_sha256": "53fd223b009082d41cf6a5e7a6db330696020ad37840ae7af2416028eefe6831",
+      "round_id": 2,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 54.844528900000114,
+      "ended_monotonic": 4977.0918815,
+      "input_tokens": 631,
+      "output_tokens": 2007,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "cae73d04940d4a9fa114a53d0d22f814",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4922.2484381,
+      "started_unix": 1794817438.4140365,
+      "prompt_sha256": "89579af7d2ee341680b195ddbde7af58e36cade124de5d4b1b4f357969415ee5",
+      "round_id": 2,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 20.20240029999968,
+      "ended_monotonic": 4942.4508415,
+      "input_tokens": 632,
+      "output_tokens": 942,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "c49c48f0447d4100b81aab2e0e9b2d90",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4922.2504097,
+      "started_unix": 1794817438.416053,
+      "prompt_sha256": "55cf1974acda899fb77b5aeedfa1cbb124221b51c20b48fe35339b6790d73b55",
+      "round_id": 2,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 16.420753200000036,
+      "ended_monotonic": 4938.6711649,
+      "input_tokens": 631,
+      "output_tokens": 527,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 9,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 5473,
+    "observed_output_tokens": 10754,
+    "total_tokens": 16227,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 148.77656219999972,
+    "parse_failures": 0
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000004",
+    "sample_id": "explore-01",
+    "repeat": 0,
+    "variant": "no_feedback"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "blind_id": "ai-271c8978ed08489f",
+  "rater_type": "ai",
+  "model_requested": "kimi-k3",
+  "essay_sha256": "dd7235b0aadb8799b6b4c2fa27c510a58369b4d6d48034ddb0a063dd3a9b5d5d",
+  "human_attested": false,
+  "status": "ok",
+  "judgments": {
+    "relevance": {
+      "dimension": "relevance",
+      "score": 1.0,
+      "rationale": "Every paragraph directly answers what makes a review trustworthy: test conditions, usage duration, disclosure, conflicts of interest, and platform signals. The bag example ties abstract criteria to the question. No drift into generic discussion of reviews or online shopping occurs.",
+      "evidence": [
+        "what the writer tested, under what conditions, and what the writer cannot know",
+        "Trust should therefore not depend on one simple label."
+      ],
+      "suggestions": [
+        "Add a short passage on detecting coordinated fake reviews, a common trust threat the essay leaves unaddressed."
+      ]
+    },
+    "grammar": {
+      "dimension": "grammar",
+      "score": 1.0,
+      "rationale": "Sentences are grammatically correct with precise word choice and consistent punctuation. No agreement, tense, or syntax errors found. Phrasing like 'different kinds of claim' is deliberate and clear. Only repeated sentence openings appear, a style preference rather than an error.",
+      "evidence": [
+        "it cannot establish how durable a product will be after several years",
+        "These are different kinds of claim."
+      ],
+      "suggestions": [
+        "Vary sentence openings; many sentences begin with 'A' ('A first impression', 'A picture', 'A verified-purchase label')."
+      ]
+    },
+    "structure": {
+      "dimension": "structure",
+      "score": 0.9,
+      "rationale": "Focused thesis in paragraph one; each body paragraph has a distinct role: reviewer conduct, evidence limits, conflicts of interest, platform signals. Progression moves logically from writer to platform to reader, and the conclusion synthesizes. Transitions are functional but sometimes plain.",
+      "evidence": [
+        "The relationship between the writer and the seller also matters.",
+        "Readers should look for specific observations, relevant conditions, honest limitations, and clear disclosures."
+      ],
+      "suggestions": [
+        "Sharpen the transition between paragraphs two and three to signal the shift from reviewer behavior to evidence quality.",
+        "Add a brief roadmap clause to the thesis forecasting the essay's main criteria."
+      ]
+    },
+    "depth": {
+      "dimension": "depth",
+      "score": 0.9,
+      "rationale": "Explains mechanisms: why first impressions cannot show durability, why photos can mislead, why timestamps matter. Weighs counterarguments, noting shared faults are not proof and unpaid reviewers may be unlucky. Examples remain hypothetical; a worked evaluation of a sample review would add specificity.",
+      "evidence": [
+        "not automatic proof that every item is defective",
+        "an unpaid buyer can also have unusual expectations or receive an unlucky faulty item"
+      ],
+      "suggestions": [
+        "Apply the criteria to one concrete sample review to show how the standard works in practice.",
+        "Address the counterargument that disclosure alone may not eliminate bias."
+      ]
+    }
+  },
+  "raw_response": "{\"judgments\":[{\"dimension\":\"relevance\",\"score\":1,\"rationale\":\"Every paragraph directly answers what makes a review trustworthy: test conditions, usage duration, disclosure, conflicts of interest, and platform signals. The bag example ties abstract criteria to the question. No drift into generic discussion of reviews or online shopping occurs.\",\"evidence\":[\"what the writer tested, under what conditions, and what the writer cannot know\",\"Trust should therefore not depend on one simple label.\"],\"suggestions\":[\"Add a short passage on detecting coordinated fake reviews, a common trust threat the essay leaves unaddressed.\"]},{\"dimension\":\"grammar\",\"score\":1,\"rationale\":\"Sentences are grammatically correct with precise word choice and consistent punctuation. No agreement, tense, or syntax errors found. Phrasing like 'different kinds of claim' is deliberate and clear. Only repeated sentence openings appear, a style preference rather than an error.\",\"evidence\":[\"it cannot establish how durable a product will be after several years\",\"These are different kinds of claim.\"],\"suggestions\":[\"Vary sentence openings; many sentences begin with 'A' ('A first impression', 'A picture', 'A verified-purchase label').\"]},{\"dimension\":\"structure\",\"score\":0.9,\"rationale\":\"Focused thesis in paragraph one; each body paragraph has a distinct role: reviewer conduct, evidence limits, conflicts of interest, platform signals. Progression moves logically from writer to platform to reader, and the conclusion synthesizes. Transitions are functional but sometimes plain.\",\"evidence\":[\"The relationship between the writer and the seller also matters.\",\"Readers should look for specific observations, relevant conditions, honest limitations, and clear disclosures.\"],\"suggestions\":[\"Sharpen the transition between paragraphs two and three to signal the shift from reviewer behavior to evidence quality.\",\"Add a brief roadmap clause to the thesis forecasting the essay's main criteria.\"]},{\"dimension\":\"depth\",\"score\":0.9,\"rationale\":\"Explains mechanisms: why first impressions cannot show durability, why photos can mislead, why timestamps matter. Weighs counterarguments, noting shared faults are not proof and unpaid reviewers may be unlucky. Examples remain hypothetical; a worked evaluation of a sample review would add specificity.\",\"evidence\":[\"not automatic proof that every item is defective\",\"an unpaid buyer can also have unusual expectations or receive an unlucky faulty item\"],\"suggestions\":[\"Apply the criteria to one concrete sample review to show how the standard works in practice.\",\"Address the counterargument that disclosure alone may not eliminate bias.\"]}]}"
+}

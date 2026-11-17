@@ -1,0 +1,465 @@
+{
+  "topic": "Should schools allow generative AI for homework?",
+  "essay": "Generative AI is becoming part of education, and schools need a balanced approach to homework. It can explain difficult ideas and help students begin assignments, but students also need to think for themselves. A complete ban seems unrealistic because technology is available outside school. Unrestricted use would be unfair as well. Schools should allow AI in some circumstances while maintaining clear expectations.\n\nOne advantage is that students can ask questions without feeling embarrassed. A learner who does not understand a science explanation can request a simpler version. AI may also suggest an essay outline or help a student notice a grammatical problem. These uses can save time and make learning more interesting. However, a clear explanation may still be wrong, so students should check it against reliable classroom materials. Teachers remain important because they understand the course and know their students.\n\nThere are also concerns about cheating. Some students might submit a complete answer without understanding it. This means homework would no longer show what they can do. Schools could ask students to describe how they used AI and to provide examples of their own thinking. Teachers could sometimes ask follow-up questions in class. This would encourage responsibility, although it would also require additional work from teachers.\n\nFairness is another issue. Students do not all have the same devices or subscriptions, and some families can offer more guidance than others. Schools should provide equal access where possible. They should also teach digital literacy so that everyone understands the benefits and risks. Technology is changing rapidly, and education needs to keep up with these changes.\n\nIn conclusion, AI can be a useful homework assistant if students use it honestly and carefully. Schools should create sensible rules, support teachers, and help students become independent learners. A balanced approach can protect academic integrity while preparing students for a future in which technology will play an important role.",
+  "current_round": 1,
+  "feedback": "[{\"dimension\": \"depth\", \"score\": 0.5, \"rationale\": \"The essay identifies relevant causal mechanisms and limitations, such as AI enabling explanations, increasing cheating risk, and creating fairness problems. It also offers counterarguments to both a complete ban and unrestricted use. However, the analysis remains broad and task-level specificity is weak: it does not distinguish homework types, grade levels, stages of assignment completion, or subject-specific risks. Examples are illustrative rather than evidential, and claims about student learning, cheating, and fairness are asserted without support. The policy proposals are reasonable but underdeveloped, especially regarding verification, teacher workload, and implementation.\", \"evidence\": [\"A learner who does not understand a science explanation can request a simpler version.\", \"Some students might submit a complete answer without understanding it.\", \"Students do not all have the same devices or subscriptions, and some families can offer more guidance than others.\"], \"suggestions\": [\"Specify which homework tasks should allow AI, such as brainstorming, drafting, or feedback, and which should not, such as timed problem-solving or personal reflection.\", \"Add concrete examples or evidence of how AI use affects learning or integrity, while distinguishing observed effects from likely effects.\", \"Expand the policy proposal with specific verification methods, teacher support structures, and fairness safeguards for students with limited access.\"]}, {\"dimension\": \"structure\", \"score\": 0.75, \"rationale\": \"The essay has a clear thesis and organized body paragraphs, each addressing a distinct aspect of the issue: benefits, cheating concerns, and fairness. Transitions such as “One advantage” and “Fairness is another issue” help guide the reader, and the conclusion returns to the balanced approach. However, the thesis is somewhat general, and the progression could be strengthened by more explicitly connecting each body paragraph to the proposed “clear expectations.” The structure is effective but not exceptional.\", \"evidence\": [\"Schools should allow AI in some circumstances while maintaining clear expectations.\", \"One advantage is that students can ask questions without feeling embarrassed.\", \"In conclusion, AI can be a useful homework assistant if students use it honestly and carefully.\"], \"suggestions\": [\"Make the thesis more specific by naming the circumstances and expectations schools should set.\", \"Add a sentence in each body paragraph linking the point directly to the proposed policy or rules.\", \"Strengthen the conclusion by briefly restating how the suggested rules address cheating and fairness.\"]}, {\"dimension\": \"relevance\", \"score\": 0.8, \"rationale\": \"The essay stays closely aligned with the topic and directly addresses whether schools should allow generative AI for homework by advocating a conditional, balanced approach. It covers the essential question through benefits, risks, fairness, and policy recommendations. Its main limitation is that it remains somewhat general, without specifying particular homework contexts or grade levels where AI use should be permitted or restricted.\", \"evidence\": [\"Schools should allow AI in some circumstances while maintaining clear expectations.\", \"One advantage is that students can ask questions without feeling embarrassed.\", \"There are also concerns about cheating.\"], \"suggestions\": [\"Add a specific sentence distinguishing homework types, such as allowing AI for brainstorming but not for final submission.\", \"Clarify the position for different school levels, such as middle school versus high school.\", \"Preserve the direct thesis and expand it with one concrete classroom policy example.\"]}, {\"dimension\": \"grammar\", \"score\": 0.9, \"rationale\": \"The essay is grammatically clean, with correct sentence structure, punctuation, and agreement. Word choice is generally clear and appropriate. The main limitations are minor imprecisions in expression rather than errors: the phrase “balanced approach to homework” slightly misplaces the object, “a clear explanation may still be wrong” is logically less precise than “an AI explanation may still be inaccurate,” and “homework would no longer show what they can do” could be more specific. These are optional style/clarity issues, not material grammar defects.\", \"evidence\": [\"balanced approach to homework\", \"a clear explanation may still be wrong\", \"homework would no longer show what they can do\"], \"suggestions\": [\"Change “balanced approach to homework” to “balanced approach to AI use in homework” for clearer reference.\", \"Replace “a clear explanation may still be wrong” with “an AI explanation may still be inaccurate.”\", \"Revise “homework would no longer show what they can do” to “homework would no longer demonstrate their understanding.”\"]}]",
+  "final_score": 0.72,
+  "exit_reason": null,
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "Generative AI is becoming part of education, and schools need a balanced approach to homework. It can explain difficult ideas and help students begin assignments, but students also need to think for themselves. A complete ban seems unrealistic because technology is available outside school. Unrestricted use would be unfair as well. Schools should allow AI in some circumstances while maintaining clear expectations.\n\nOne advantage is that students can ask questions without feeling embarrassed. A learner who does not understand a science explanation can request a simpler version. AI may also suggest an essay outline or help a student notice a grammatical problem. These uses can save time and make learning more interesting. However, a clear explanation may still be wrong, so students should check it against reliable classroom materials. Teachers remain important because they understand the course and know their students.\n\nThere are also concerns about cheating. Some students might submit a complete answer without understanding it. This means homework would no longer show what they can do. Schools could ask students to describe how they used AI and to provide examples of their own thinking. Teachers could sometimes ask follow-up questions in class. This would encourage responsibility, although it would also require additional work from teachers.\n\nFairness is another issue. Students do not all have the same devices or subscriptions, and some families can offer more guidance than others. Schools should provide equal access where possible. They should also teach digital literacy so that everyone understands the benefits and risks. Technology is changing rapidly, and education needs to keep up with these changes.\n\nIn conclusion, AI can be a useful homework assistant if students use it honestly and carefully. Schools should create sensible rules, support teachers, and help students become independent learners. A balanced approach can protect academic integrity while preparing students for a future in which technology will play an important role.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.8,
+            "rationale": "The essay stays closely aligned with the topic and directly addresses whether schools should allow generative AI for homework by advocating a conditional, balanced approach. It covers the essential question through benefits, risks, fairness, and policy recommendations. Its main limitation is that it remains somewhat general, without specifying particular homework contexts or grade levels where AI use should be permitted or restricted.",
+            "evidence": [
+              "Schools should allow AI in some circumstances while maintaining clear expectations.",
+              "One advantage is that students can ask questions without feeling embarrassed.",
+              "There are also concerns about cheating."
+            ],
+            "suggestions": [
+              "Add a specific sentence distinguishing homework types, such as allowing AI for brainstorming but not for final submission.",
+              "Clarify the position for different school levels, such as middle school versus high school.",
+              "Preserve the direct thesis and expand it with one concrete classroom policy example."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.8,\n  \"rationale\": \"The essay stays closely aligned with the topic and directly addresses whether schools should allow generative AI for homework by advocating a conditional, balanced approach. It covers the essential question through benefits, risks, fairness, and policy recommendations. Its main limitation is that it remains somewhat general, without specifying particular homework contexts or grade levels where AI use should be permitted or restricted.\",\n  \"evidence\": [\n    \"Schools should allow AI in some circumstances while maintaining clear expectations.\",\n    \"One advantage is that students can ask questions without feeling embarrassed.\",\n    \"There are also concerns about cheating.\"\n  ],\n  \"suggestions\": [\n    \"Add a specific sentence distinguishing homework types, such as allowing AI for brainstorming but not for final submission.\",\n    \"Clarify the position for different school levels, such as middle school versus high school.\",\n    \"Preserve the direct thesis and expand it with one concrete classroom policy example.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.9,
+            "rationale": "The essay is grammatically clean, with correct sentence structure, punctuation, and agreement. Word choice is generally clear and appropriate. The main limitations are minor imprecisions in expression rather than errors: the phrase “balanced approach to homework” slightly misplaces the object, “a clear explanation may still be wrong” is logically less precise than “an AI explanation may still be inaccurate,” and “homework would no longer show what they can do” could be more specific. These are optional style/clarity issues, not material grammar defects.",
+            "evidence": [
+              "balanced approach to homework",
+              "a clear explanation may still be wrong",
+              "homework would no longer show what they can do"
+            ],
+            "suggestions": [
+              "Change “balanced approach to homework” to “balanced approach to AI use in homework” for clearer reference.",
+              "Replace “a clear explanation may still be wrong” with “an AI explanation may still be inaccurate.”",
+              "Revise “homework would no longer show what they can do” to “homework would no longer demonstrate their understanding.”"
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay is grammatically clean, with correct sentence structure, punctuation, and agreement. Word choice is generally clear and appropriate. The main limitations are minor imprecisions in expression rather than errors: the phrase “balanced approach to homework” slightly misplaces the object, “a clear explanation may still be wrong” is logically less precise than “an AI explanation may still be inaccurate,” and “homework would no longer show what they can do” could be more specific. These are optional style/clarity issues, not material grammar defects.\",\n  \"evidence\": [\n    \"balanced approach to homework\",\n    \"a clear explanation may still be wrong\",\n    \"homework would no longer show what they can do\"\n  ],\n  \"suggestions\": [\n    \"Change “balanced approach to homework” to “balanced approach to AI use in homework” for clearer reference.\",\n    \"Replace “a clear explanation may still be wrong” with “an AI explanation may still be inaccurate.”\",\n    \"Revise “homework would no longer show what they can do” to “homework would no longer demonstrate their understanding.”\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.75,
+            "rationale": "The essay has a clear thesis and organized body paragraphs, each addressing a distinct aspect of the issue: benefits, cheating concerns, and fairness. Transitions such as “One advantage” and “Fairness is another issue” help guide the reader, and the conclusion returns to the balanced approach. However, the thesis is somewhat general, and the progression could be strengthened by more explicitly connecting each body paragraph to the proposed “clear expectations.” The structure is effective but not exceptional.",
+            "evidence": [
+              "Schools should allow AI in some circumstances while maintaining clear expectations.",
+              "One advantage is that students can ask questions without feeling embarrassed.",
+              "In conclusion, AI can be a useful homework assistant if students use it honestly and carefully."
+            ],
+            "suggestions": [
+              "Make the thesis more specific by naming the circumstances and expectations schools should set.",
+              "Add a sentence in each body paragraph linking the point directly to the proposed policy or rules.",
+              "Strengthen the conclusion by briefly restating how the suggested rules address cheating and fairness."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.75,\n  \"rationale\": \"The essay has a clear thesis and organized body paragraphs, each addressing a distinct aspect of the issue: benefits, cheating concerns, and fairness. Transitions such as “One advantage” and “Fairness is another issue” help guide the reader, and the conclusion returns to the balanced approach. However, the thesis is somewhat general, and the progression could be strengthened by more explicitly connecting each body paragraph to the proposed “clear expectations.” The structure is effective but not exceptional.\",\n  \"evidence\": [\n    \"Schools should allow AI in some circumstances while maintaining clear expectations.\",\n    \"One advantage is that students can ask questions without feeling embarrassed.\",\n    \"In conclusion, AI can be a useful homework assistant if students use it honestly and carefully.\"\n  ],\n  \"suggestions\": [\n    \"Make the thesis more specific by naming the circumstances and expectations schools should set.\",\n    \"Add a sentence in each body paragraph linking the point directly to the proposed policy or rules.\",\n    \"Strengthen the conclusion by briefly restating how the suggested rules address cheating and fairness.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.5,
+            "rationale": "The essay identifies relevant causal mechanisms and limitations, such as AI enabling explanations, increasing cheating risk, and creating fairness problems. It also offers counterarguments to both a complete ban and unrestricted use. However, the analysis remains broad and task-level specificity is weak: it does not distinguish homework types, grade levels, stages of assignment completion, or subject-specific risks. Examples are illustrative rather than evidential, and claims about student learning, cheating, and fairness are asserted without support. The policy proposals are reasonable but underdeveloped, especially regarding verification, teacher workload, and implementation.",
+            "evidence": [
+              "A learner who does not understand a science explanation can request a simpler version.",
+              "Some students might submit a complete answer without understanding it.",
+              "Students do not all have the same devices or subscriptions, and some families can offer more guidance than others."
+            ],
+            "suggestions": [
+              "Specify which homework tasks should allow AI, such as brainstorming, drafting, or feedback, and which should not, such as timed problem-solving or personal reflection.",
+              "Add concrete examples or evidence of how AI use affects learning or integrity, while distinguishing observed effects from likely effects.",
+              "Expand the policy proposal with specific verification methods, teacher support structures, and fairness safeguards for students with limited access."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.5,\n  \"rationale\": \"The essay identifies relevant causal mechanisms and limitations, such as AI enabling explanations, increasing cheating risk, and creating fairness problems. It also offers counterarguments to both a complete ban and unrestricted use. However, the analysis remains broad and task-level specificity is weak: it does not distinguish homework types, grade levels, stages of assignment completion, or subject-specific risks. Examples are illustrative rather than evidential, and claims about student learning, cheating, and fairness are asserted without support. The policy proposals are reasonable but underdeveloped, especially regarding verification, teacher workload, and implementation.\",\n  \"evidence\": [\n    \"A learner who does not understand a science explanation can request a simpler version.\",\n    \"Some students might submit a complete answer without understanding it.\",\n    \"Students do not all have the same devices or subscriptions, and some families can offer more guidance than others.\"\n  ],\n  \"suggestions\": [\n    \"Specify which homework tasks should allow AI, such as brainstorming, drafting, or feedback, and which should not, such as timed problem-solving or personal reflection.\",\n    \"Add concrete examples or evidence of how AI use affects learning or integrity, while distinguishing observed effects from likely effects.\",\n    \"Expand the policy proposal with specific verification methods, teacher support structures, and fairness safeguards for students with limited access.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.72,
+      "feedback": "[{\"dimension\": \"depth\", \"score\": 0.5, \"rationale\": \"The essay identifies relevant causal mechanisms and limitations, such as AI enabling explanations, increasing cheating risk, and creating fairness problems. It also offers counterarguments to both a complete ban and unrestricted use. However, the analysis remains broad and task-level specificity is weak: it does not distinguish homework types, grade levels, stages of assignment completion, or subject-specific risks. Examples are illustrative rather than evidential, and claims about student learning, cheating, and fairness are asserted without support. The policy proposals are reasonable but underdeveloped, especially regarding verification, teacher workload, and implementation.\", \"evidence\": [\"A learner who does not understand a science explanation can request a simpler version.\", \"Some students might submit a complete answer without understanding it.\", \"Students do not all have the same devices or subscriptions, and some families can offer more guidance than others.\"], \"suggestions\": [\"Specify which homework tasks should allow AI, such as brainstorming, drafting, or feedback, and which should not, such as timed problem-solving or personal reflection.\", \"Add concrete examples or evidence of how AI use affects learning or integrity, while distinguishing observed effects from likely effects.\", \"Expand the policy proposal with specific verification methods, teacher support structures, and fairness safeguards for students with limited access.\"]}, {\"dimension\": \"structure\", \"score\": 0.75, \"rationale\": \"The essay has a clear thesis and organized body paragraphs, each addressing a distinct aspect of the issue: benefits, cheating concerns, and fairness. Transitions such as “One advantage” and “Fairness is another issue” help guide the reader, and the conclusion returns to the balanced approach. However, the thesis is somewhat general, and the progression could be strengthened by more explicitly connecting each body paragraph to the proposed “clear expectations.” The structure is effective but not exceptional.\", \"evidence\": [\"Schools should allow AI in some circumstances while maintaining clear expectations.\", \"One advantage is that students can ask questions without feeling embarrassed.\", \"In conclusion, AI can be a useful homework assistant if students use it honestly and carefully.\"], \"suggestions\": [\"Make the thesis more specific by naming the circumstances and expectations schools should set.\", \"Add a sentence in each body paragraph linking the point directly to the proposed policy or rules.\", \"Strengthen the conclusion by briefly restating how the suggested rules address cheating and fairness.\"]}, {\"dimension\": \"relevance\", \"score\": 0.8, \"rationale\": \"The essay stays closely aligned with the topic and directly addresses whether schools should allow generative AI for homework by advocating a conditional, balanced approach. It covers the essential question through benefits, risks, fairness, and policy recommendations. Its main limitation is that it remains somewhat general, without specifying particular homework contexts or grade levels where AI use should be permitted or restricted.\", \"evidence\": [\"Schools should allow AI in some circumstances while maintaining clear expectations.\", \"One advantage is that students can ask questions without feeling embarrassed.\", \"There are also concerns about cheating.\"], \"suggestions\": [\"Add a specific sentence distinguishing homework types, such as allowing AI for brainstorming but not for final submission.\", \"Clarify the position for different school levels, such as middle school versus high school.\", \"Preserve the direct thesis and expand it with one concrete classroom policy example.\"]}, {\"dimension\": \"grammar\", \"score\": 0.9, \"rationale\": \"The essay is grammatically clean, with correct sentence structure, punctuation, and agreement. Word choice is generally clear and appropriate. The main limitations are minor imprecisions in expression rather than errors: the phrase “balanced approach to homework” slightly misplaces the object, “a clear explanation may still be wrong” is logically less precise than “an AI explanation may still be inaccurate,” and “homework would no longer show what they can do” could be more specific. These are optional style/clarity issues, not material grammar defects.\", \"evidence\": [\"balanced approach to homework\", \"a clear explanation may still be wrong\", \"homework would no longer show what they can do\"], \"suggestions\": [\"Change “balanced approach to homework” to “balanced approach to AI use in homework” for clearer reference.\", \"Replace “a clear explanation may still be wrong” with “an AI explanation may still be inaccurate.”\", \"Revise “homework would no longer show what they can do” to “homework would no longer demonstrate their understanding.”\"]}]",
+      "exit_reason": null
+    }
+  ],
+  "generation_history": [],
+  "rewrites_completed": 0,
+  "relevance_result": {
+    "round_id": 1,
+    "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.8,
+      "rationale": "The essay stays closely aligned with the topic and directly addresses whether schools should allow generative AI for homework by advocating a conditional, balanced approach. It covers the essential question through benefits, risks, fairness, and policy recommendations. Its main limitation is that it remains somewhat general, without specifying particular homework contexts or grade levels where AI use should be permitted or restricted.",
+      "evidence": [
+        "Schools should allow AI in some circumstances while maintaining clear expectations.",
+        "One advantage is that students can ask questions without feeling embarrassed.",
+        "There are also concerns about cheating."
+      ],
+      "suggestions": [
+        "Add a specific sentence distinguishing homework types, such as allowing AI for brainstorming but not for final submission.",
+        "Clarify the position for different school levels, such as middle school versus high school.",
+        "Preserve the direct thesis and expand it with one concrete classroom policy example."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.8,\n  \"rationale\": \"The essay stays closely aligned with the topic and directly addresses whether schools should allow generative AI for homework by advocating a conditional, balanced approach. It covers the essential question through benefits, risks, fairness, and policy recommendations. Its main limitation is that it remains somewhat general, without specifying particular homework contexts or grade levels where AI use should be permitted or restricted.\",\n  \"evidence\": [\n    \"Schools should allow AI in some circumstances while maintaining clear expectations.\",\n    \"One advantage is that students can ask questions without feeling embarrassed.\",\n    \"There are also concerns about cheating.\"\n  ],\n  \"suggestions\": [\n    \"Add a specific sentence distinguishing homework types, such as allowing AI for brainstorming but not for final submission.\",\n    \"Clarify the position for different school levels, such as middle school versus high school.\",\n    \"Preserve the direct thesis and expand it with one concrete classroom policy example.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 1,
+    "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+    "dimension": "grammar",
+    "status": "ok",
+    "judgment": {
+      "dimension": "grammar",
+      "score": 0.9,
+      "rationale": "The essay is grammatically clean, with correct sentence structure, punctuation, and agreement. Word choice is generally clear and appropriate. The main limitations are minor imprecisions in expression rather than errors: the phrase “balanced approach to homework” slightly misplaces the object, “a clear explanation may still be wrong” is logically less precise than “an AI explanation may still be inaccurate,” and “homework would no longer show what they can do” could be more specific. These are optional style/clarity issues, not material grammar defects.",
+      "evidence": [
+        "balanced approach to homework",
+        "a clear explanation may still be wrong",
+        "homework would no longer show what they can do"
+      ],
+      "suggestions": [
+        "Change “balanced approach to homework” to “balanced approach to AI use in homework” for clearer reference.",
+        "Replace “a clear explanation may still be wrong” with “an AI explanation may still be inaccurate.”",
+        "Revise “homework would no longer show what they can do” to “homework would no longer demonstrate their understanding.”"
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay is grammatically clean, with correct sentence structure, punctuation, and agreement. Word choice is generally clear and appropriate. The main limitations are minor imprecisions in expression rather than errors: the phrase “balanced approach to homework” slightly misplaces the object, “a clear explanation may still be wrong” is logically less precise than “an AI explanation may still be inaccurate,” and “homework would no longer show what they can do” could be more specific. These are optional style/clarity issues, not material grammar defects.\",\n  \"evidence\": [\n    \"balanced approach to homework\",\n    \"a clear explanation may still be wrong\",\n    \"homework would no longer show what they can do\"\n  ],\n  \"suggestions\": [\n    \"Change “balanced approach to homework” to “balanced approach to AI use in homework” for clearer reference.\",\n    \"Replace “a clear explanation may still be wrong” with “an AI explanation may still be inaccurate.”\",\n    \"Revise “homework would no longer show what they can do” to “homework would no longer demonstrate their understanding.”\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 1,
+    "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.75,
+      "rationale": "The essay has a clear thesis and organized body paragraphs, each addressing a distinct aspect of the issue: benefits, cheating concerns, and fairness. Transitions such as “One advantage” and “Fairness is another issue” help guide the reader, and the conclusion returns to the balanced approach. However, the thesis is somewhat general, and the progression could be strengthened by more explicitly connecting each body paragraph to the proposed “clear expectations.” The structure is effective but not exceptional.",
+      "evidence": [
+        "Schools should allow AI in some circumstances while maintaining clear expectations.",
+        "One advantage is that students can ask questions without feeling embarrassed.",
+        "In conclusion, AI can be a useful homework assistant if students use it honestly and carefully."
+      ],
+      "suggestions": [
+        "Make the thesis more specific by naming the circumstances and expectations schools should set.",
+        "Add a sentence in each body paragraph linking the point directly to the proposed policy or rules.",
+        "Strengthen the conclusion by briefly restating how the suggested rules address cheating and fairness."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.75,\n  \"rationale\": \"The essay has a clear thesis and organized body paragraphs, each addressing a distinct aspect of the issue: benefits, cheating concerns, and fairness. Transitions such as “One advantage” and “Fairness is another issue” help guide the reader, and the conclusion returns to the balanced approach. However, the thesis is somewhat general, and the progression could be strengthened by more explicitly connecting each body paragraph to the proposed “clear expectations.” The structure is effective but not exceptional.\",\n  \"evidence\": [\n    \"Schools should allow AI in some circumstances while maintaining clear expectations.\",\n    \"One advantage is that students can ask questions without feeling embarrassed.\",\n    \"In conclusion, AI can be a useful homework assistant if students use it honestly and carefully.\"\n  ],\n  \"suggestions\": [\n    \"Make the thesis more specific by naming the circumstances and expectations schools should set.\",\n    \"Add a sentence in each body paragraph linking the point directly to the proposed policy or rules.\",\n    \"Strengthen the conclusion by briefly restating how the suggested rules address cheating and fairness.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 1,
+    "essay_hash": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+    "dimension": "depth",
+    "status": "ok",
+    "judgment": {
+      "dimension": "depth",
+      "score": 0.5,
+      "rationale": "The essay identifies relevant causal mechanisms and limitations, such as AI enabling explanations, increasing cheating risk, and creating fairness problems. It also offers counterarguments to both a complete ban and unrestricted use. However, the analysis remains broad and task-level specificity is weak: it does not distinguish homework types, grade levels, stages of assignment completion, or subject-specific risks. Examples are illustrative rather than evidential, and claims about student learning, cheating, and fairness are asserted without support. The policy proposals are reasonable but underdeveloped, especially regarding verification, teacher workload, and implementation.",
+      "evidence": [
+        "A learner who does not understand a science explanation can request a simpler version.",
+        "Some students might submit a complete answer without understanding it.",
+        "Students do not all have the same devices or subscriptions, and some families can offer more guidance than others."
+      ],
+      "suggestions": [
+        "Specify which homework tasks should allow AI, such as brainstorming, drafting, or feedback, and which should not, such as timed problem-solving or personal reflection.",
+        "Add concrete examples or evidence of how AI use affects learning or integrity, while distinguishing observed effects from likely effects.",
+        "Expand the policy proposal with specific verification methods, teacher support structures, and fairness safeguards for students with limited access."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.5,\n  \"rationale\": \"The essay identifies relevant causal mechanisms and limitations, such as AI enabling explanations, increasing cheating risk, and creating fairness problems. It also offers counterarguments to both a complete ban and unrestricted use. However, the analysis remains broad and task-level specificity is weak: it does not distinguish homework types, grade levels, stages of assignment completion, or subject-specific risks. Examples are illustrative rather than evidential, and claims about student learning, cheating, and fairness are asserted without support. The policy proposals are reasonable but underdeveloped, especially regarding verification, teacher workload, and implementation.\",\n  \"evidence\": [\n    \"A learner who does not understand a science explanation can request a simpler version.\",\n    \"Some students might submit a complete answer without understanding it.\",\n    \"Students do not all have the same devices or subscriptions, and some families can offer more guidance than others.\"\n  ],\n  \"suggestions\": [\n    \"Specify which homework tasks should allow AI, such as brainstorming, drafting, or feedback, and which should not, such as timed problem-solving or personal reflection.\",\n    \"Add concrete examples or evidence of how AI use affects learning or integrity, while distinguishing observed effects from likely effects.\",\n    \"Expand the policy proposal with specific verification methods, teacher support structures, and fairness safeguards for students with limited access.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "mode": "evaluate",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "all",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T081701-e64b20c82fee",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "47540f426130423696cda17508a8a0e8",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4475.8989377,
+      "started_unix": 1794816992.0645595,
+      "prompt_sha256": "ba4f4ea635edf8aecad0b704b230cb616fe2f4dfc9dad86dce8f936116060d8f",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 17.164990899999793,
+      "ended_monotonic": 4493.0639311,
+      "input_tokens": 621,
+      "output_tokens": 750,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "f153d234f063419bb9da3ea31b35ef32",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4475.9016366,
+      "started_unix": 1794816992.067248,
+      "prompt_sha256": "1956bf790e57fbf1503cf55b50da63653e679666fa33efcca8efc2656c4b511b",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 29.087837900000522,
+      "ended_monotonic": 4504.9894797,
+      "input_tokens": 610,
+      "output_tokens": 1411,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "eda0b79d4f484afc818f9d4379c3ea07",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4475.9042349,
+      "started_unix": 1794816992.0698466,
+      "prompt_sha256": "39c3b76f81773a5fe37db924880b56b2999c76706ae0024dd52d4603ff015dfc",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 15.656433600000128,
+      "ended_monotonic": 4491.5606709,
+      "input_tokens": 610,
+      "output_tokens": 655,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "8ddfc47cf4c2447498a7f54ca574e25d",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 4475.9153001,
+      "started_unix": 1794816992.080901,
+      "prompt_sha256": "2100e2c4ffd0c17baad7da599cd23615b3c50ac71d4ba51f6bc61e7b39e61ea2",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 13.78555679999954,
+      "ended_monotonic": 4489.700861,
+      "input_tokens": 611,
+      "output_tokens": 648,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 4,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 2452,
+    "observed_output_tokens": 3464,
+    "total_tokens": 5916,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 29.450170300000536,
+    "parse_failures": 0
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000001",
+    "sample_id": "explore-02",
+    "repeat": 0,
+    "variant": "no_rewrite"
+  }
+}

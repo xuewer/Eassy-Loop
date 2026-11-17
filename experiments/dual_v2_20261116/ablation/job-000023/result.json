@@ -1,0 +1,438 @@
+{
+  "topic": "Can household recycling alone solve a city waste problem?",
+  "essay": "Recycling are a very important thing in modern city. Every people use bottles, bags and paper every days, so the city have much rubbish. I think household recycling alone can solve all waste problem because recycling is good. When a bottle go in the correct bin it disappear from the waste problem, and this show the idea is right. There is no need to make the issue too complicated.\n\nFirstly the people should put everything in recycling bins. Glass, old food, broken electronics and dirty packages are all waste, therefore the same solution can work for them. If the bin have a bright color, people will know what doing. Some person says different material need different processing, but good technology can solve that. We should believe technology because technology improve and the future will be better than the past.\n\nAlso recycling make citizen responsible. A responsible citizen do not make waste, and if they make waste they recycle, so there will be no waste. This is why education is important. The council should make posters everywhere and tell families to remember the environment. People who forget should receive another poster. More awareness mean more awareness, which is the most important benefit of awareness for a modern society.\n\nThe city also needs nice parks and clean streets because tourists like visiting a beautiful place. I once seen a dirty street and it was unpleasant. If there are more flowers near the station, visitors will take pictures and the economy will grow. This proves the household recycling plan will work. Shops can sell reusable bags too, which people may buy and keep buying if they forget the old one.\n\nFinally, recycling is good and waste is bad. Since the goal is no waste, everybody should recycle everything. The council do not need other policies because one good policy is enough when everyone work together. Some problems may remain but they are not important to this conclusion. We should start now and be positive about a clean future.",
+  "current_round": 1,
+  "feedback": "",
+  "final_score": null,
+  "exit_reason": "evaluation_failed",
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "Recycling are a very important thing in modern city. Every people use bottles, bags and paper every days, so the city have much rubbish. I think household recycling alone can solve all waste problem because recycling is good. When a bottle go in the correct bin it disappear from the waste problem, and this show the idea is right. There is no need to make the issue too complicated.\n\nFirstly the people should put everything in recycling bins. Glass, old food, broken electronics and dirty packages are all waste, therefore the same solution can work for them. If the bin have a bright color, people will know what doing. Some person says different material need different processing, but good technology can solve that. We should believe technology because technology improve and the future will be better than the past.\n\nAlso recycling make citizen responsible. A responsible citizen do not make waste, and if they make waste they recycle, so there will be no waste. This is why education is important. The council should make posters everywhere and tell families to remember the environment. People who forget should receive another poster. More awareness mean more awareness, which is the most important benefit of awareness for a modern society.\n\nThe city also needs nice parks and clean streets because tourists like visiting a beautiful place. I once seen a dirty street and it was unpleasant. If there are more flowers near the station, visitors will take pictures and the economy will grow. This proves the household recycling plan will work. Shops can sell reusable bags too, which people may buy and keep buying if they forget the old one.\n\nFinally, recycling is good and waste is bad. Since the goal is no waste, everybody should recycle everything. The council do not need other policies because one good policy is enough when everyone work together. Some problems may remain but they are not important to this conclusion. We should start now and be positive about a clean future.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.25,
+            "rationale": "The essay names the topic and gives a direct claim that household recycling alone can solve the city waste problem, but its alignment is weak and not sustained. It relies on vague assertions rather than examining the essential question, such as whether recycling can handle all waste types, contamination, scale, or the need for other policies. Several passages drift into unrelated topics, including parks, tourists, and economic growth, which weakens relevance.",
+            "evidence": [
+              "I think household recycling alone can solve all waste problem because recycling is good.",
+              "The city also needs nice parks and clean streets because tourists like visiting a beautiful place.",
+              "The council do not need other policies because one good policy is enough when everyone work together."
+            ],
+            "suggestions": [
+              "Revise the thesis to directly evaluate the limits of household recycling as the only solution to a city waste problem.",
+              "Add relevant discussion of non-recyclable waste, contamination, collection capacity, and the need for reduction, composting, or other policies.",
+              "Remove or tightly connect the parks, tourism, and economy details to the specific question of household recycling."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay names the topic and gives a direct claim that household recycling alone can solve the city waste problem, but its alignment is weak and not sustained. It relies on vague assertions rather than examining the essential question, such as whether recycling can handle all waste types, contamination, scale, or the need for other policies. Several passages drift into unrelated topics, including parks, tourists, and economic growth, which weakens relevance.\",\n  \"evidence\": [\n    \"I think household recycling alone can solve all waste problem because recycling is good.\",\n    \"The city also needs nice parks and clean streets because tourists like visiting a beautiful place.\",\n    \"The council do not need other policies because one good policy is enough when everyone work together.\"\n  ],\n  \"suggestions\": [\n    \"Revise the thesis to directly evaluate the limits of household recycling as the only solution to a city waste problem.\",\n    \"Add relevant discussion of non-recyclable waste, contamination, collection capacity, and the need for reduction, composting, or other policies.\",\n    \"Remove or tightly connect the parks, tourism, and economy details to the specific question of household recycling.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+          "dimension": "grammar",
+          "status": "parse_error",
+          "judgment": null,
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "parse_error",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay contains frequent and pervasive grammar errors, especially subject–verb agreement, plural nouns, articles, verb tense, and word form. These defects often interfere with clarity and make the writing sound nonstandard. While the general meaning is usually understandable, the errors are too numerous to be treated as minor style issues.\",\n  \"evidence\": [\n    \"Recycling are a very important thing in modern city.\",\n    \"Every people use bottles, bags and paper every days\",\n    \"the city have much rubbish\"\n  ],\n  \"suggestions\": [\n    \"Correct subject–verb agreement: 'Recycling is', 'the city has', 'the council does not need', 'everyone works'.\"\n  ],\n  \"suggestions_note\": \"Also fix plural/article errors: 'every person', 'every day', 'a modern city', 'all waste problems'; and use correct verb forms: 'goes', 'shows', 'makes', 'improves', 'mean'.\"\n}",
+              "error": "Invalid judgment schema or evidence",
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": "Check JSON fields, score range, dimension and exact source quotes."
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.25,
+            "rationale": "The essay has a basic introduction, body paragraphs, and conclusion, but its organization is weak. The thesis is present but underdeveloped, and paragraph roles are unclear. The fourth paragraph shifts to parks, tourists, and the economy, which breaks the logical focus on household recycling. Transitions are present but do not create a coherent argument, and the conclusion relies on vague restatement rather than summarizing structured reasons.",
+            "evidence": [
+              "I think household recycling alone can solve all waste problem because recycling is good.",
+              "The city also needs nice parks and clean streets because tourists like visiting a beautiful place.",
+              "Finally, recycling is good and waste is bad."
+            ],
+            "suggestions": [
+              "Replace the parks and tourists paragraph with a focused body paragraph on why household recycling alone is insufficient, such as industrial waste, contamination, or limited material recovery.",
+              "Give each paragraph a clear topic sentence that directly supports the thesis and maintain a logical order: claim, evidence/reason, implication.",
+              "Revise the conclusion to summarize the main structural points rather than ending with a vague positive statement."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay has a basic introduction, body paragraphs, and conclusion, but its organization is weak. The thesis is present but underdeveloped, and paragraph roles are unclear. The fourth paragraph shifts to parks, tourists, and the economy, which breaks the logical focus on household recycling. Transitions are present but do not create a coherent argument, and the conclusion relies on vague restatement rather than summarizing structured reasons.\",\n  \"evidence\": [\n    \"I think household recycling alone can solve all waste problem because recycling is good.\",\n    \"The city also needs nice parks and clean streets because tourists like visiting a beautiful place.\",\n    \"Finally, recycling is good and waste is bad.\"\n  ],\n  \"suggestions\": [\n    \"Replace the parks and tourists paragraph with a focused body paragraph on why household recycling alone is insufficient, such as industrial waste, contamination, or limited material recovery.\",\n    \"Give each paragraph a clear topic sentence that directly supports the thesis and maintain a logical order: claim, evidence/reason, implication.\",\n    \"Revise the conclusion to summarize the main structural points rather than ending with a vague positive statement.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.25,
+            "rationale": "The essay attempts causal reasoning but remains largely superficial and unsupported. It asserts that putting items in recycling bins removes them from the waste problem, but does not explain collection, sorting, contamination, material recovery, energy use, or residual waste. Task-level specificity is weak: the answer to whether household recycling alone can solve a city’s waste problem is not developed with measurable mechanisms or city-level constraints. Examples are vague or irrelevant, such as parks and tourists, and do not support the central claim. Counterarguments are acknowledged only to be dismissed without analysis, and limitations such as non-recyclable waste, infrastructure costs, and behavioral inconsistency are ignored. The conclusion relies on unsupported optimism rather than evidence-based reasoning.",
+            "evidence": [
+              "When a bottle go in the correct bin it disappear from the waste problem",
+              "Some person says different material need different processing, but good technology can solve that",
+              "Some problems may remain but they are not important to this conclusion"
+            ],
+            "suggestions": [
+              "Explain specific mechanisms: how household recycling reduces landfill volume, what materials can be recovered, and what happens to contaminated or non-recyclable items.",
+              "Add a city-level limitation, such as contamination rates, processing capacity, or the share of waste that cannot be handled by household recycling alone.",
+              "Develop the counterargument by explaining why different materials require different processing and why technology alone does not guarantee a solution."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay attempts causal reasoning but remains largely superficial and unsupported. It asserts that putting items in recycling bins removes them from the waste problem, but does not explain collection, sorting, contamination, material recovery, energy use, or residual waste. Task-level specificity is weak: the answer to whether household recycling alone can solve a city’s waste problem is not developed with measurable mechanisms or city-level constraints. Examples are vague or irrelevant, such as parks and tourists, and do not support the central claim. Counterarguments are acknowledged only to be dismissed without analysis, and limitations such as non-recyclable waste, infrastructure costs, and behavioral inconsistency are ignored. The conclusion relies on unsupported optimism rather than evidence-based reasoning.\",\n  \"evidence\": [\n    \"When a bottle go in the correct bin it disappear from the waste problem\",\n    \"Some person says different material need different processing, but good technology can solve that\",\n    \"Some problems may remain but they are not important to this conclusion\"\n  ],\n  \"suggestions\": [\n    \"Explain specific mechanisms: how household recycling reduces landfill volume, what materials can be recovered, and what happens to contaminated or non-recyclable items.\",\n    \"Add a city-level limitation, such as contamination rates, processing capacity, or the share of waste that cannot be handled by household recycling alone.\",\n    \"Develop the counterargument by explaining why different materials require different processing and why technology alone does not guarantee a solution.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": null,
+      "feedback": "",
+      "exit_reason": "evaluation_failed"
+    }
+  ],
+  "generation_attempts": [],
+  "generation_history": [],
+  "rewrites_completed": 0,
+  "relevance_result": {
+    "round_id": 1,
+    "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.25,
+      "rationale": "The essay names the topic and gives a direct claim that household recycling alone can solve the city waste problem, but its alignment is weak and not sustained. It relies on vague assertions rather than examining the essential question, such as whether recycling can handle all waste types, contamination, scale, or the need for other policies. Several passages drift into unrelated topics, including parks, tourists, and economic growth, which weakens relevance.",
+      "evidence": [
+        "I think household recycling alone can solve all waste problem because recycling is good.",
+        "The city also needs nice parks and clean streets because tourists like visiting a beautiful place.",
+        "The council do not need other policies because one good policy is enough when everyone work together."
+      ],
+      "suggestions": [
+        "Revise the thesis to directly evaluate the limits of household recycling as the only solution to a city waste problem.",
+        "Add relevant discussion of non-recyclable waste, contamination, collection capacity, and the need for reduction, composting, or other policies.",
+        "Remove or tightly connect the parks, tourism, and economy details to the specific question of household recycling."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay names the topic and gives a direct claim that household recycling alone can solve the city waste problem, but its alignment is weak and not sustained. It relies on vague assertions rather than examining the essential question, such as whether recycling can handle all waste types, contamination, scale, or the need for other policies. Several passages drift into unrelated topics, including parks, tourists, and economic growth, which weakens relevance.\",\n  \"evidence\": [\n    \"I think household recycling alone can solve all waste problem because recycling is good.\",\n    \"The city also needs nice parks and clean streets because tourists like visiting a beautiful place.\",\n    \"The council do not need other policies because one good policy is enough when everyone work together.\"\n  ],\n  \"suggestions\": [\n    \"Revise the thesis to directly evaluate the limits of household recycling as the only solution to a city waste problem.\",\n    \"Add relevant discussion of non-recyclable waste, contamination, collection capacity, and the need for reduction, composting, or other policies.\",\n    \"Remove or tightly connect the parks, tourism, and economy details to the specific question of household recycling.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 1,
+    "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+    "dimension": "grammar",
+    "status": "parse_error",
+    "judgment": null,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "parse_error",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay contains frequent and pervasive grammar errors, especially subject–verb agreement, plural nouns, articles, verb tense, and word form. These defects often interfere with clarity and make the writing sound nonstandard. While the general meaning is usually understandable, the errors are too numerous to be treated as minor style issues.\",\n  \"evidence\": [\n    \"Recycling are a very important thing in modern city.\",\n    \"Every people use bottles, bags and paper every days\",\n    \"the city have much rubbish\"\n  ],\n  \"suggestions\": [\n    \"Correct subject–verb agreement: 'Recycling is', 'the city has', 'the council does not need', 'everyone works'.\"\n  ],\n  \"suggestions_note\": \"Also fix plural/article errors: 'every person', 'every day', 'a modern city', 'all waste problems'; and use correct verb forms: 'goes', 'shows', 'makes', 'improves', 'mean'.\"\n}",
+        "error": "Invalid judgment schema or evidence",
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": "Check JSON fields, score range, dimension and exact source quotes."
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 1,
+    "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.25,
+      "rationale": "The essay has a basic introduction, body paragraphs, and conclusion, but its organization is weak. The thesis is present but underdeveloped, and paragraph roles are unclear. The fourth paragraph shifts to parks, tourists, and the economy, which breaks the logical focus on household recycling. Transitions are present but do not create a coherent argument, and the conclusion relies on vague restatement rather than summarizing structured reasons.",
+      "evidence": [
+        "I think household recycling alone can solve all waste problem because recycling is good.",
+        "The city also needs nice parks and clean streets because tourists like visiting a beautiful place.",
+        "Finally, recycling is good and waste is bad."
+      ],
+      "suggestions": [
+        "Replace the parks and tourists paragraph with a focused body paragraph on why household recycling alone is insufficient, such as industrial waste, contamination, or limited material recovery.",
+        "Give each paragraph a clear topic sentence that directly supports the thesis and maintain a logical order: claim, evidence/reason, implication.",
+        "Revise the conclusion to summarize the main structural points rather than ending with a vague positive statement."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay has a basic introduction, body paragraphs, and conclusion, but its organization is weak. The thesis is present but underdeveloped, and paragraph roles are unclear. The fourth paragraph shifts to parks, tourists, and the economy, which breaks the logical focus on household recycling. Transitions are present but do not create a coherent argument, and the conclusion relies on vague restatement rather than summarizing structured reasons.\",\n  \"evidence\": [\n    \"I think household recycling alone can solve all waste problem because recycling is good.\",\n    \"The city also needs nice parks and clean streets because tourists like visiting a beautiful place.\",\n    \"Finally, recycling is good and waste is bad.\"\n  ],\n  \"suggestions\": [\n    \"Replace the parks and tourists paragraph with a focused body paragraph on why household recycling alone is insufficient, such as industrial waste, contamination, or limited material recovery.\",\n    \"Give each paragraph a clear topic sentence that directly supports the thesis and maintain a logical order: claim, evidence/reason, implication.\",\n    \"Revise the conclusion to summarize the main structural points rather than ending with a vague positive statement.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 1,
+    "essay_hash": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+    "dimension": "depth",
+    "status": "ok",
+    "judgment": {
+      "dimension": "depth",
+      "score": 0.25,
+      "rationale": "The essay attempts causal reasoning but remains largely superficial and unsupported. It asserts that putting items in recycling bins removes them from the waste problem, but does not explain collection, sorting, contamination, material recovery, energy use, or residual waste. Task-level specificity is weak: the answer to whether household recycling alone can solve a city’s waste problem is not developed with measurable mechanisms or city-level constraints. Examples are vague or irrelevant, such as parks and tourists, and do not support the central claim. Counterarguments are acknowledged only to be dismissed without analysis, and limitations such as non-recyclable waste, infrastructure costs, and behavioral inconsistency are ignored. The conclusion relies on unsupported optimism rather than evidence-based reasoning.",
+      "evidence": [
+        "When a bottle go in the correct bin it disappear from the waste problem",
+        "Some person says different material need different processing, but good technology can solve that",
+        "Some problems may remain but they are not important to this conclusion"
+      ],
+      "suggestions": [
+        "Explain specific mechanisms: how household recycling reduces landfill volume, what materials can be recovered, and what happens to contaminated or non-recyclable items.",
+        "Add a city-level limitation, such as contamination rates, processing capacity, or the share of waste that cannot be handled by household recycling alone.",
+        "Develop the counterargument by explaining why different materials require different processing and why technology alone does not guarantee a solution."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.25,\n  \"rationale\": \"The essay attempts causal reasoning but remains largely superficial and unsupported. It asserts that putting items in recycling bins removes them from the waste problem, but does not explain collection, sorting, contamination, material recovery, energy use, or residual waste. Task-level specificity is weak: the answer to whether household recycling alone can solve a city’s waste problem is not developed with measurable mechanisms or city-level constraints. Examples are vague or irrelevant, such as parks and tourists, and do not support the central claim. Counterarguments are acknowledged only to be dismissed without analysis, and limitations such as non-recyclable waste, infrastructure costs, and behavioral inconsistency are ignored. The conclusion relies on unsupported optimism rather than evidence-based reasoning.\",\n  \"evidence\": [\n    \"When a bottle go in the correct bin it disappear from the waste problem\",\n    \"Some person says different material need different processing, but good technology can solve that\",\n    \"Some problems may remain but they are not important to this conclusion\"\n  ],\n  \"suggestions\": [\n    \"Explain specific mechanisms: how household recycling reduces landfill volume, what materials can be recovered, and what happens to contaminated or non-recyclable items.\",\n    \"Add a city-level limitation, such as contamination rates, processing capacity, or the share of waste that cannot be handled by household recycling alone.\",\n    \"Develop the counterargument by explaining why different materials require different processing and why technology alone does not guarantee a solution.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "mode": "optimize",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "all",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T085621-0f245ff939d7",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "bcca76ee41354b5ea20d71058548b1e4",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 6837.3409402,
+      "started_unix": 1794819353.506525,
+      "prompt_sha256": "473f71c07c1d40a8df9437e0025f4d5430a3cec503a91467a803a2557aed8b78",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 13.364537200000086,
+      "ended_monotonic": 6850.7054782,
+      "input_tokens": 646,
+      "output_tokens": 572,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "a4fba83a42714eeb917dbbd2d14820d7",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 6837.3417285,
+      "started_unix": 1794819353.5073152,
+      "prompt_sha256": "5192d1abcf9cfc334e77eedac26b06ef744aa21a5c94747f08c70050b6b5e20d",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 10.51029440000002,
+      "ended_monotonic": 6847.8520245,
+      "input_tokens": 635,
+      "output_tokens": 445,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "45f6af22a01b483682e3b0f71292b8e7",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 6837.34297,
+      "started_unix": 1794819353.5085514,
+      "prompt_sha256": "90adad30d9e6970af91405902c8ed119b2b8198913d2acf04abb2cbcb3769ade",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 27.594889500000136,
+      "ended_monotonic": 6864.9378607,
+      "input_tokens": 635,
+      "output_tokens": 1156,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "4d877dde255043709fe729a83615a7b2",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 6837.3444839,
+      "started_unix": 1794819353.5100663,
+      "prompt_sha256": "0180f25785931f7129d025c4c33515bcde80914ccefabcb58edcc214a6fbafeb",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 17.593399399999726,
+      "ended_monotonic": 6854.9378845,
+      "input_tokens": 636,
+      "output_tokens": 659,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 4,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 2552,
+    "observed_output_tokens": 2832,
+    "total_tokens": 5384,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 27.61296029999994,
+    "parse_failures": 1
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000023",
+    "sample_id": "explore-03",
+    "repeat": 0,
+    "variant": "all_feedback"
+  }
+}

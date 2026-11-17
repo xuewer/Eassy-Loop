@@ -1,0 +1,598 @@
+{
+  "items": [
+    {
+      "blind_id": "ai-55bf669166744856",
+      "topic": "Can household recycling alone solve a city waste problem?",
+      "essay": "Recycling are a very important thing in modern city. Every people use bottles, bags and paper every days, so the city have much rubbish. I think household recycling alone can solve all waste problem because recycling is good. When a bottle go in the correct bin it disappear from the waste problem, and this show the idea is right. There is no need to make the issue too complicated.\n\nFirstly the people should put everything in recycling bins. Glass, old food, broken electronics and dirty packages are all waste, therefore the same solution can work for them. If the bin have a bright color, people will know what doing. Some person says different material need different processing, but good technology can solve that. We should believe technology because technology improve and the future will be better than the past.\n\nAlso recycling make citizen responsible. A responsible citizen do not make waste, and if they make waste they recycle, so there will be no waste. This is why education is important. The council should make posters everywhere and tell families to remember the environment. People who forget should receive another poster. More awareness mean more awareness, which is the most important benefit of awareness for a modern society.\n\nThe city also needs nice parks and clean streets because tourists like visiting a beautiful place. I once seen a dirty street and it was unpleasant. If there are more flowers near the station, visitors will take pictures and the economy will grow. This proves the household recycling plan will work. Shops can sell reusable bags too, which people may buy and keep buying if they forget the old one.\n\nFinally, recycling is good and waste is bad. Since the goal is no waste, everybody should recycle everything. The council do not need other policies because one good policy is enough when everyone work together. Some problems may remain but they are not important to this conclusion. We should start now and be positive about a clean future.",
+      "essay_sha256": "11ed62dd89bf62bb4d0696b6ca2c5b67cef480f1a6016b03e80317f86aa029f5",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-03"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000021",
+          "sample_id": "explore-03",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000023",
+          "sample_id": "explore-03",
+          "variant": "all_feedback",
+          "workflow_success": false
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-341c99780a234ae7",
+      "topic": "Does a high museum visitor count prove that its education program is successful?",
+      "essay": "A high museum visitor count is an important sign that an institution is attracting public attention, but it does not by itself prove that its education program is successful. Visitor numbers can show reach, popularity, and public interest, yet they do not reveal what people learned, how deeply they engaged, or whether the museum’s educational goals were met. A crowded gallery may be full of people who came for a special exhibition, a free event, or simply a place to spend an afternoon, without participating in the museum’s formal educational activities.\n\nThis limitation matters because education is not the same as attendance. A museum may welcome thousands of visitors while its workshops, tours, and learning resources remain underused or misunderstood. Some visitors may enjoy the atmosphere but leave without understanding the themes presented. Others may be inspired by a single object or label, while others may not engage at all. Because learning is internal and often personal, counting entries provides only an indirect measure of educational impact. A successful education program should be judged by whether it helps visitors develop knowledge, curiosity, skills, or a stronger connection to the subject, not merely by how many people pass through the doors.\n\nNevertheless, visitor count should not be ignored. High attendance can indicate that the museum is visible, accessible, and relevant to the community. It may also reflect effective communication, appealing displays, and public trust, all of which can support educational work. A museum that no one visits cannot fulfill its educational mission, regardless of how well-designed its programs may be. For this reason, attendance figures are useful for planning, funding, and public accountability. They can show whether the institution is reaching a broad audience and whether its outreach efforts are generating interest.\n\nThe best approach is to treat visitor numbers as one part of a wider evaluation. Museums can complement attendance data with questions about visitor experience, participation in programs, changes in understanding, and satisfaction with educational materials. These measures do not need to be complicated or expensive; even simple feedback can help distinguish between popularity and learning. When combined with visitor counts, such information gives a clearer picture of success.\n\nIn conclusion, a high visitor count suggests that a museum is attracting people, but it does not prove that its education program is effective. It is a useful indicator of reach, not a complete measure of learning. Museums should value attendance while also seeking evidence that their educational activities are meaningful, accessible, and capable of engaging visitors beyond the threshold.",
+      "essay_sha256": "9a9489268e37916643b5c05057c4cbe9b73c1a384c01ca7302ac54af7491f0e4",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000009",
+          "sample_id": "explore-09",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-0a38423b43d24fb8",
+      "topic": "Should cities prioritize buses over additional urban roads?",
+      "essay": "A city choosing between more frequent buses and additional urban roads should compare access, not merely vehicle speed. The central question is whether residents can reach work, school, healthcare, and other essential services reliably and affordably. In dense corridors where street space is limited, improving buses can be a defensible priority, provided the service is useful across the whole journey.\n\nConsider a worker whose shift begins before the morning rush. A bus route that appears on a map offers little practical access if its first departure is too late. More frequent service and longer operating hours may help this worker more than an extra lane that only speeds a short segment. Bus lanes can make travel times more predictable, but their value depends on enforcement, maintenance, and connections. A quick ride on one corridor does not compensate for a long, uncertain transfer or an unsafe walk to the stop.\n\nThis argument does not mean roads are unnecessary. Deliveries, emergency vehicles, and residents with mobility limitations also need reliable access. In low-density districts, a frequent fixed bus route may carry few passengers while consuming resources that could be used elsewhere. A city might therefore combine strong bus services on busy corridors with accessible feeder options, while preserving essential roads. The appropriate mix depends on local settlement patterns, land use, and actual travel needs.\n\nEvaluation should include waiting time, reliability, wheelchair access, fare affordability, and the distribution of benefits across neighborhoods. A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets. Costs and trade-offs should be reported alongside passenger use rather than hidden behind a single favorable measure.\n\nPrioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding. It becomes weaker when treated as a universal answer. By defining the people and journeys an investment should serve, a city can explain both its choice and the circumstances that would justify changing it.",
+      "essay_sha256": "94dab7625b06fa896a9b76cdc177308421789ab27af62f93f72f6761ea10d1ed",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000004",
+          "sample_id": "explore-01",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-0a5e8ddfc2024d3e",
+      "topic": "What makes an online product review trustworthy?",
+      "essay": "An online product review is trustworthy when a reader can understand what the writer tested, under what conditions, and what the writer cannot know. A review that simply calls a product excellent or terrible offers little help because it hides the situation that shaped the judgment. A person carrying a bag on a short train journey may need a compact, easy-to-open design, while a person using it all day outside may care about strap comfort, weather protection, and weight. A trustworthy review makes those conditions visible, so the reader can judge whether the experience applies to their own needs.\n\nSpecificity matters most when the product’s performance depends on use. For example, one laptop review might say only that the battery life is great, while another might explain that the writer ran video calls, edited documents, and kept the screen at medium brightness for six hours before charging. The second review does not prove that the laptop will last years, but it gives the reader a concrete basis for comparison. It also shows the difference between a first impression and a tested claim. A reviewer who states the limits of the test, rather than presenting a vague verdict, helps the reader separate useful information from confidence alone.\n\nSupporting evidence can strengthen a review, but it must be weighed carefully. Photos, videos, and detailed descriptions can make claims easier to check, yet they can also be selected to hide a problem. A long review may repeat advertising language, and a polished picture may show only the best angle. Because of this, readers should not rely on one review or one positive rating. They should compare independent accounts, especially when several reviewers mention the same fault or the same strength. In online marketplaces, such patterns can suggest a real issue, but they do not prove that every unit is defective. Readers can also check verified purchase badges, reviewer history, and product specifications, and they can look for recent reviews if the product has been updated. These signals do not guarantee honesty, but they help readers assess whether a report is likely to be based on actual use.\n\nDisclosure of relationships is another important test. Free samples, discounts, or payment may influence a reviewer, so they should be stated clearly. Still, disclosure does not make a review automatically untrustworthy, and an unpaid buyer can still have unusual expectations or receive a faulty item. The strongest reviews show the writer’s willingness to acknowledge uncertainty and explain how the writer reached a conclusion.\n\nIn the end, a trustworthy online review helps a reader ask better questions and understand trade-offs. It does not remove every risk before purchase, but it makes the evidence clearer: what was tested, what was observed, what might be missing, and how the review fits with other reports. By focusing on these details, readers can move beyond a simple star rating and make a more informed decision.",
+      "essay_sha256": "4c0e1c65b03ecd865f5b270619f99586d7e237a0016b4ec81af5bd14ff063098",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000034",
+          "sample_id": "explore-10",
+          "variant": "all_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-14c6c2bfb81d42b4",
+      "topic": "When is remote work suitable for a team?",
+      "essay": "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs, rather than as a reward or a universal productivity strategy. A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool. A team handling rapidly changing physical operations may face quite different constraints. The useful question is which work can move, and what support makes that move effective.\n\nFor example, an experienced analyst may complete a defined report from home while collaborating through written comments. A newly hired analyst doing the same nominal job may need frequent guidance to understand undocumented assumptions. Requiring both employees to follow an identical schedule can overlook this difference. Structured onboarding, examples of good work, and a dependable way to ask questions may matter more than the location policy alone.\n\nRemote arrangements also change who bears costs. An employer may save office space while an employee pays for heating, equipment, or a quieter room. Others may gain access because commuting is difficult. These effects cannot be summarized by asking whether employees prefer working from home. A fair evaluation should consider accessibility, home conditions, promotion opportunities, and whether people feel pressure to remain constantly available.\n\nThere are limits to flexibility. Some discussions benefit from shared context, and poor written communication can turn a small misunderstanding into repeated rework. But requiring office attendance does not automatically fix those problems. Teams should identify the decisions that need synchronous discussion and reserve shared time for them, while protecting time for focused work.\n\nA sensible pilot would define expected outcomes, compare similar tasks over time, and examine delays, quality, staff retention, and uneven effects across roles. It should allow revision when conditions change. Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees. That conditional conclusion is more useful than treating either home or office attendance as proof of commitment.",
+      "essay_sha256": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-04"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000037",
+          "sample_id": "explore-04",
+          "variant": "no_rewrite",
+          "workflow_success": false
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000038",
+          "sample_id": "explore-04",
+          "variant": "relevance_feedback",
+          "workflow_success": false
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-4e7a648f141c45e5",
+      "topic": "Should cities prioritize buses over additional urban roads?",
+      "essay": "When a city chooses between a more frequent bus network and an additional urban road, it should compare access, not merely vehicle speed. The central question is whether residents can reach work, schools, health care, and essential services reliably, affordably, and safely. In dense corridors with limited street space, buses can be the stronger priority, but that judgment is conditional.\n\nA bus system is most valuable when it serves enough people across enough hours to make waiting short and transfers manageable. A worker whose shift begins before the morning rush gains little from a route that appears on a map but starts too late. More frequent service, longer operating hours, protected lanes, and clear connections can improve access more than a faster trip for drivers. Bus lanes also make travel times more predictable, but only if they are enforced and integrated with safe stops. A quick journey on one segment does not offset an unsafe walk, a long transfer, or a route that avoids the neighborhoods people actually live in.\n\nAdditional roads are not automatically wasteful. They may be the better priority where a network has a real gap, where freight and emergency vehicles need dependable routes, or where existing streets are unsafe because of narrow widths, poor drainage, or inadequate separation of fast traffic from pedestrians and cyclists. In low-density areas, a fixed high-frequency bus route may carry few passengers while consuming resources that could support on-demand shuttles, better sidewalks, or essential road maintenance. In such places, a road improvement may serve more people than a bus lane that cannot attract riders.\n\nThe difference is that road widening often produces only temporary relief. New capacity can invite more driving, especially when it makes car trips seem easier than alternatives. If the goal is to move more people, not more vehicles, a lane may add capacity for cars while doing little for access for those who do not drive. A bus, by contrast, can carry many passengers in the space that would serve a few cars, but it must be well planned. A useful comparison is not simply cost per lane versus cost per bus, but cost per additional person who can reach a destination more reliably. That measure should include waiting time, frequency, wheelchair access, safety, and how benefits are distributed across neighborhoods.\n\nTherefore, cities should prioritize buses over additional roads when space is scarce, demand is concentrated, and service can be made frequent, accessible, and connected. They should prioritize roads when the problem is a missing link, freight access, emergency response, or safety that cannot be solved by transit alone. The best decision is not a slogan for buses or roads, but a local judgment based on the journeys people need and the evidence from trials, including construction disruption and traffic displaced onto nearby streets.",
+      "essay_sha256": "61d5d4125a3c713c1462e882fc3109a332e9795fca27e7456268be2a0c9b89f0",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000007",
+          "sample_id": "explore-01",
+          "variant": "relevance_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-c9642d89cabc4bb0",
+      "topic": "Should schools allow generative AI for homework?",
+      "essay": "Generative AI is becoming part of education, and schools need a balanced approach to homework. It can explain difficult ideas and help students begin assignments, but students also need to think for themselves. A complete ban seems unrealistic because technology is available outside school. Unrestricted use would be unfair as well. Schools should allow AI in some circumstances while maintaining clear expectations.\n\nOne advantage is that students can ask questions without feeling embarrassed. A learner who does not understand a science explanation can request a simpler version. AI may also suggest an essay outline or help a student notice a grammatical problem. These uses can save time and make learning more interesting. However, a clear explanation may still be wrong, so students should check it against reliable classroom materials. Teachers remain important because they understand the course and know their students.\n\nThere are also concerns about cheating. Some students might submit a complete answer without understanding it. This means homework would no longer show what they can do. Schools could ask students to describe how they used AI and to provide examples of their own thinking. Teachers could sometimes ask follow-up questions in class. This would encourage responsibility, although it would also require additional work from teachers.\n\nFairness is another issue. Students do not all have the same devices or subscriptions, and some families can offer more guidance than others. Schools should provide equal access where possible. They should also teach digital literacy so that everyone understands the benefits and risks. Technology is changing rapidly, and education needs to keep up with these changes.\n\nIn conclusion, AI can be a useful homework assistant if students use it honestly and carefully. Schools should create sensible rules, support teachers, and help students become independent learners. A balanced approach can protect academic integrity while preparing students for a future in which technology will play an important role.",
+      "essay_sha256": "62e244b38afd3254a134e327f919172c65848178adc167365c73471caf72a7a8",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-02"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000000",
+          "sample_id": "explore-02",
+          "variant": "all_feedback",
+          "workflow_success": false
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000001",
+          "sample_id": "explore-02",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-8964dcbba71c43c1",
+      "topic": "How should residents discuss a proposal for wind turbines near their town?",
+      "essay": "When a town considers wind turbines, the most important question is not whether residents should immediately agree, but how they should discuss the proposal. A good discussion should be calm, evidence-based, and open to different viewpoints. Residents should review independent information, identify the main concerns, compare possible arrangements, and decide using clear criteria. This process helps the town make a responsible choice rather than a rushed one.\n\nThe first step is to establish a common set of facts. Residents should ask the project planners to explain the proposed turbine locations, heights, number of machines, expected output, construction schedule, and financial arrangements. They should also request independent assessments of noise, shadows, wildlife, and grid connections. Planners may have strong reasons to present the project favorably, so residents need to understand what the evidence says and where assumptions are made. A simple public meeting can be useful, but it should be organized so that questions are answered clearly and no one is dismissed as negative.\n\nThe second step is to examine the specific concerns that matter to the town. Noise is not only a question of loudness; residents should ask how sound levels might affect homes at night, especially for people who work early or sleep lightly. Wildlife concerns require looking at bird and bat movements, nesting seasons, and whether proposed turbines are close to sensitive habitats. Electricity connections need practical questions: can the local grid handle the output, who pays for upgrades, and what happens if the turbines produce more power than the town can use? Income is also important. Residents should ask who receives payments, whether the town gets a share, and whether local businesses or farms could benefit from the project. These questions do not mean opposition; they show that residents are trying to understand the real effects.\n\nThe third step is to compare alternatives. Instead of asking only whether turbines should be built, residents should ask where they should be placed, how tall they should be, and whether fewer or different machines might reduce harm while still providing benefits. The town could also consider different agreements, such as community ownership, local employment commitments, or funds for environmental protection. By comparing options, residents can see trade-offs more clearly. A decision should be made after the town has agreed on what matters most, such as noise limits, environmental safeguards, and financial benefits.\n\nIn the end, residents should discuss wind turbines by gathering reliable information, asking direct questions, and weighing alternatives together. This approach respects both the possibility of renewable energy and the right of the community to understand what the project means for its future.",
+      "essay_sha256": "57169207d0800a69bca9278d7a49482fa1773295c3edbbfb6fafd316e3bf00fc",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000028",
+          "sample_id": "explore-07",
+          "variant": "all_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-4f5814c7a84a4e79",
+      "topic": "Should a town fund a library makerspace before extending opening hours?",
+      "essay": "A town library has to respond to modern needs, so funding a makerspace can be an exciting investment. People can use shared tools to learn practical skills and work on creative projects. At the same time, opening hours remain important because residents have different schedules. I believe a makerspace should come first, although the town must listen carefully to the community before making a final decision.\n\nThe main reason is that a makerspace gives the library a new purpose. Libraries are already places for books, computers and quiet study, but they can also encourage hands-on learning. A teenager could try a design project without buying equipment, while an adult could develop a hobby. Shared activities might bring people together and make the library more visible. These are valuable possibilities, especially when private classes are expensive.\n\nHowever, equipment requires maintenance and trained supervision. A room full of tools is not useful if nobody knows how to operate them safely. The town should consider staff training and recurring costs rather than only the purchase price. It should also make sure that quieter library users are not disturbed. A separate room and a booking system could help organize the service. Clear rules would make the project easier to manage.\n\nLonger opening hours would benefit people who work during the day. This is a serious argument, because a service cannot help residents who cannot enter the building. Nevertheless, modern facilities are also important, and the town needs to look to the future. The council could explore whether volunteers might help with opening hours later, although this would depend on local availability and appropriate support.\n\nOverall, a makerspace could make the library more useful and attractive. The council should survey residents, prepare a careful budget, and review participation after the service opens. If it is well planned, the investment can support creativity while keeping the library relevant in a changing community.",
+      "essay_sha256": "c9dfc5d3313cf29deed2ea117b608538d61fa3958ff9cc15a173e090bb8f32d8",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-05"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000016",
+          "sample_id": "explore-05",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000017",
+          "sample_id": "explore-05",
+          "variant": "all_feedback",
+          "workflow_success": false
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-ace937472b3843da",
+      "topic": "Should a small shop collect detailed customer data for personalized offers?",
+      "essay": "A small shop may benefit from understanding what its customers want, but collecting detailed personal data is not automatically the best way to learn. The business question should determine whether identifiable information is required and whether the shop can manage the resulting obligations. Personalization is a means to serve customers, not a reason to gather everything that is technically available.\n\nSuppose a bakery wants to reduce unsold bread. Counts of sales by product and time of day may reveal useful patterns without recording who bought each item. If the question instead concerns whether customers want reminders for recurring orders, an optional subscription may be relevant. Detailed data can change offer design, timing, and inventory decisions in ways aggregate data cannot: it can show which regular customers usually buy sourdough on Saturdays, when they are likely to order again, and whether a reminder reduces skipped pickups. Starting with the business question narrows the data required. It also makes the proposed benefit easier to explain than a vague promise of a better experience.\n\nConsent matters, but a checkbox alone does not settle the issue. A customer may accept broad terms simply to obtain a discount, without understanding how long information will be retained. Staff need practical rules for access, correction, deletion, and security. A small business with limited technical support should consider whether it can consistently meet those responsibilities before adopting a complex tracking service. Because these obligations can affect both privacy and day-to-day operations, the shop should test whether it can meet them before deciding whether detailed collection is worthwhile.\n\nThere are reasonable arguments for personalized offers. Relevant messages may be more useful than repeated generic advertising, and a loyalty program can reward regular customers. Yet personalization can also feel intrusive or create unexplained differences in price. A shop should provide a standard, non-personalized purchase option and avoid collecting sensitive information that is unnecessary for the service. An optional subscription also has limitations: participation may be low, staff may struggle to explain what is collected, and customers who opt in may differ from those who decline, making results hard to generalize.\n\nA limited trial could compare an aggregate-data approach with a genuinely optional subscription. The bakery could record baseline waste, set a target reduction, define how long customer records are retained, and measure waste, repeat visits, complaints, and staff effort. These outcomes would not establish every long-term privacy effect, but they would clarify whether more detailed collection has a meaningful benefit. A small shop should collect detailed customer data only when a specific business question requires it, the expected benefit is clear, and the shop can operate the system reliably with limited staff, storage, or technical support. Otherwise, it should use aggregate data or a simple, genuinely optional method.",
+      "essay_sha256": "ae30d15256e5bd01f75e59f516a045cd78c761cf9a96f3469995464e84ec5ab4",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000014",
+          "sample_id": "explore-06",
+          "variant": "all_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-71b700a149c44af2",
+      "topic": "Should a small shop collect detailed customer data for personalized offers?",
+      "essay": "A small shop may benefit from understanding what its customers want, but collecting detailed personal data is not automatically the best way to learn. The decision should depend on whether a specific improvement requires identifiable information and whether the shop can manage the resulting obligations. Personalization is a means to serve customers, not a reason to gather everything that is technically available.\n\nSuppose a bakery wants to reduce unsold bread. Counts of sales by product and time of day may reveal useful patterns without recording who bought each item. If its question instead concerns whether customers want reminders for recurring orders, an optional subscription may be relevant. Starting with the decision narrows the data required. It also makes the proposed benefit easier to explain than a vague promise of a better experience.\n\nConsent matters, but a checkbox alone does not settle the issue. A customer may accept broad terms simply to obtain a discount, without understanding how long information will be retained. Staff need practical rules for access, correction, deletion, and security. A small business with limited technical support should consider whether it can consistently meet those responsibilities before adopting a complex tracking service.\n\nThere are reasonable arguments for personalized offers. Relevant messages may be more useful than repeated generic advertising, and a loyalty program can reward regular customers. Yet personalization can also feel intrusive or create unexplained differences in price. A shop should provide an ordinary purchasing option and avoid collecting sensitive information that is unnecessary for the service.\n\nA limited trial could compare an aggregate-data approach with a genuinely optional subscription, measuring waste, repeat visits, complaints, and staff effort. These outcomes would not establish every long-term privacy effect, but they would clarify whether more detailed collection has a meaningful benefit. The responsible choice is the least intrusive system that answers a worthwhile business question and can be operated reliably, including when a customer chooses not to participate.",
+      "essay_sha256": "599a8f84caa471ef83a5a470a1bf89e40262494a78b2135068e3d44e2096b1c3",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-06"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000012",
+          "sample_id": "explore-06",
+          "variant": "no_feedback",
+          "workflow_success": true
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000013",
+          "sample_id": "explore-06",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-b0db871975174e76",
+      "topic": "When is remote work suitable for a team?",
+      "essay": "Remote work should be evaluated as an arrangement shaped by tasks, people, and coordination needs, rather than as a reward or a universal productivity strategy. A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool. A team handling rapidly changing physical operations may face quite different constraints. The useful question is not whether remote work is good in the abstract, but which work can move, and what support makes that move effective.\n\nFor example, an experienced analyst may complete a defined report from home while collaborating through written comments. A newly hired analyst doing the same nominal job may need frequent guidance to understand undocumented assumptions. Requiring both employees to follow an identical schedule can overlook this difference. Structured onboarding, examples of good work, and a dependable way to ask questions may matter more than the location policy alone.\n\nRemote arrangements also change who bears costs. An employer may save office space while an employee pays for heating, equipment, or a quieter room. Others may gain access because commuting is difficult. These effects cannot be summarized by asking whether employees prefer working from home. A fair evaluation should consider accessibility, home conditions, promotion opportunities, and whether people feel pressure to remain constantly available.\n\nThere are limits to flexibility. Some discussions benefit from shared context, and poor written communication can turn a small misunderstanding into repeated rework. But requiring office attendance does not automatically fix those problems. Teams should identify the decisions that need synchronous discussion and reserve shared time for them, while protecting time for focused work.\n\nA sensible pilot would define expected outcomes, compare similar tasks over time, and examine delays, quality, staff retention, and uneven effects across roles. It should allow revision when conditions change. Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees. That conditional conclusion is more useful than treating either home or office attendance as proof of commitment.",
+      "essay_sha256": "c120c67c229d4ee714a95d7b536839f609b686d14b3a21baab6402155e083cd4",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000036",
+          "sample_id": "explore-04",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-af20d908808042dc",
+      "topic": "Can household recycling alone solve a city waste problem?",
+      "essay": "Household recycling is an important part of managing city waste, but it cannot solve the problem alone. A city produces waste from homes, shops, offices, construction sites, and public services. Even if every household sorted its rubbish perfectly, a large amount of waste would still remain. Therefore, recycling must be combined with waste reduction, composting, better collection, and policies that address waste outside the home.\n\nThe first limit is contamination. When food, dirty packaging, or non-recyclable items are placed in recycling bins, the whole load may become harder or impossible to process. Many materials also need to be kept separate because paper, glass, plastic, and metal require different treatment. A bright bin may help people sort waste, but it cannot fix mixed materials once they are collected. In addition, not all household items are recyclable. Some plastics, electronics, and mixed packaging may need special facilities, and many cities do not have them.\n\nThe second limit is that household recycling does not cover all city waste. Restaurants, supermarkets, offices, and factories create much larger quantities of waste than homes. Construction and demolition waste, street litter, and commercial packaging can make up a major share of a city’s total waste. If a city focuses only on household bins, it may ignore these sources and still face overflowing landfills or illegal dumping.\n\nFor these reasons, household recycling should be supported by other measures. Education can help, but it must be practical: clear instructions, regular reminders, and easy access to the right bins. Composting can reduce food waste, which is often a large part of household rubbish. Waste reduction is even more important because the best waste is the waste that is never created. Cities can encourage reusable containers, repair services, and less packaging. They can also work with businesses to manage commercial waste responsibly.\n\nIn conclusion, household recycling is useful and can reduce the amount of waste going to landfill. However, it cannot solve a city’s waste problem by itself. A successful waste plan needs a combination of household recycling, better sorting, composting, waste reduction, and management of non-household waste. Only by treating the problem as a whole can a city move toward a cleaner and more sustainable future.",
+      "essay_sha256": "42e08b6b9da6bd05597a8f5e5d9089413f6759320c07e34ca8eb874ce761a26f",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000020",
+          "sample_id": "explore-03",
+          "variant": "relevance_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-d93ab6e01b7c46db",
+      "topic": "Does a high museum visitor count prove that its education program is successful?",
+      "essay": "A successful museum should attract people, and visitor numbers provide a clear way to show that it is making an impact. Education programs are intended to reach the public, so a high visitor count demonstrates that the museum is doing its job. While other factors may be interesting, attendance is the most practical indicator because it is easy to collect, compare, and explain.\n\nLarge numbers create a lively atmosphere. When people enter a museum, they encounter objects, labels, and stories that they might not otherwise see. Every visit is therefore an educational experience. The more visits there are, the more education takes place. It would be unnecessarily complicated to ask whether visitors understood particular ideas, because learning happens in many ways and cannot always be expressed in words.\n\nAttendance figures also support funding. A museum that welcomes many people can demonstrate value to sponsors and the local authority. Strong publicity may increase visits, and this is another sign that the education team is communicating effectively. Special events, attractive displays, and popular subjects all help bring people through the door. These activities should be encouraged because visibility is essential in a competitive leisure environment.\n\nSome critics suggest that visitors may come only for entertainment or for the cafe. This concern is difficult to measure and should not outweigh a large positive total. A busy museum is clearly preferable to an empty one. If people choose to spend time there, they must find it useful. Their decision to attend is a more honest response than answers to a questionnaire, which could be influenced by the wording of questions.\n\nIn conclusion, a high visitor count is sufficient evidence of educational success. Museums should focus on expanding attendance and making their programs appealing. Detailed assessments could consume money that would be better spent attracting additional visitors. By concentrating on a straightforward measure, museum leaders can make confident decisions and show the community that their institution matters.",
+      "essay_sha256": "7d8f1689ed1246ac424f80d69307a14d086c810492e974c2d381c969d19cc511",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-09"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000008",
+          "sample_id": "explore-09",
+          "variant": "no_rewrite",
+          "workflow_success": false
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000010",
+          "sample_id": "explore-09",
+          "variant": "relevance_feedback",
+          "workflow_success": false
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-860f61d85f5042a7",
+      "topic": "What makes an online product review trustworthy?",
+      "essay": "An online review is trustworthy when the reader can understand what the writer tested and what they cannot know. Many review says a product is excellent or terrible without describing the use. A clear account of a particular situation is more useful. For example, a person buying a bag for a short train journey may needs different things from a person carrying it all day outside.\n\nThe writer should explain how long they used the item and what happen during that time. A first impression can describe the shape or the controls, but it cannot establish how durable a product will be after several years. These are different kinds of claim. A reviewer who makes the limits visible give the reader a better chance to decide whether the experience applies to them.\n\nPhotos and detailed descriptions can help, although neither proves honesty on its own. A picture might be selected to hide a problem, and a long review can repeat information from an advertisement. It is useful to compare accounts that describe different uses rather than counting only the positive stars. If several independent writers mention the same fault, that may be a reason to investigate, not an automatic proof that every item are defective.\n\nThe relationship between the writer and seller also matter. Free samples or payment could influence the review, so they should be disclosed clearly. However, an unpaid buyer can also have unusual expectations or receive an unlucky faulty item. Trust should therefore not depend on one simple label. The evidence in the review and the writer willingness to acknowledge uncertainty remain important.\n\nReaders should look for specific observations, relevant conditions and honest limitations. No review can remove every uncertainty before purchase. A trustworthy review helps a reader ask better questions and understand trade-offs, rather than promising a perfect answer for everybody. This standard is harder than accepting a confident recommendation, but it is also more useful when products and people differs.",
+      "essay_sha256": "662cde3d6d83934c1d2c888517578522e872bbfd090a049c276cafaa2a78e5c4",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-10"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000035",
+          "sample_id": "explore-10",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-e7f6a54bf7974448",
+      "topic": "Should a municipality provide more community sports facilities?",
+      "essay": "Community sports facilities can make exercise more convenient and help residents meet one another. A municipality should consider providing more facilities, especially in neighborhoods where there are few safe and affordable places to be active. However, building a new center is a major commitment, so the council needs to understand local needs before it spends public money.\n\nOne benefit is accessibility. Private gyms can be expensive, while a public facility may offer lower prices and activities for different age groups. A sports hall can be used for several purposes, and outdoor courts may give young people somewhere to spend time together. Good lighting, accessible entrances, and reliable transport would make these spaces easier to use. Facilities should be welcoming to beginners rather than designed only for experienced athletes.\n\nThe main concern is cost. Construction is only the beginning, since maintenance, staffing, cleaning, and repairs continue for many years. A council that ignores these expenses may open an attractive building and then reduce its hours. It should prepare a long-term budget and avoid promising services that it cannot maintain. Partnerships with local groups might help, although responsibilities would need to be clear.\n\nThere are other ways to support activity. Parks, walking routes, school partnerships, and small local programs may reach people who would not attend a formal sports center. The best choice will depend on demand and the spaces already available. A community survey could provide useful information, but people who answer surveys may not represent everybody, so the council should also speak directly with less visible groups.\n\nMore facilities can be worthwhile if they address a real gap and can be maintained fairly. The municipality should begin with a clear account of existing provision, consult residents, and compare realistic alternatives. A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+      "essay_sha256": "4c9e57e703e3679fa876eb6907025e7b649ba2a24535b8aa0561113452f3f792",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-08"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000026",
+          "sample_id": "explore-08",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-40f5d030bd26475e",
+      "topic": "Should a municipality provide more community sports facilities?",
+      "essay": "Yes, a municipality should provide more community sports facilities where there is a clear local gap and a sustainable funding plan. Community facilities can make exercise more convenient, lower the cost of participation, and help residents meet one another, especially in neighborhoods where safe and affordable places to be active are scarce. However, “more” should not mean simply building larger centers. The council must first decide whether existing spaces are underused, poorly connected, or unsuitable, because improving them may be a better use of public money than adding new ones.\n\nThe strongest reason for more facilities is accessibility. Private gyms can be expensive, while a public facility may offer lower prices, beginner-friendly classes, and activities for different age groups. A sports hall can serve several purposes, and outdoor courts can give young people a safe place to spend time together. Good lighting, accessible entrances, and reliable transport would make these spaces easier to use. A well-designed facility should welcome people who have never trained in a sports setting, not only experienced athletes.\n\nThe main concern is cost. Construction is only the beginning; maintenance, staffing, cleaning, and repairs continue for many years. A council that ignores these expenses may open an attractive building and then reduce its hours, making the promise of access meaningless. Therefore, a new facility is justified only when the municipality can show a long-term budget and a realistic operating plan. If existing facilities are already maintained but underused, the better choice may be to repair them, extend opening hours, or improve transport links rather than build anew. Partnerships with local groups might help, although responsibilities would need to be clear.\n\nThere are also alternatives to large facilities. Parks, walking routes, school partnerships, and small local programs may reach people who would not attend a formal sports center. These options can be especially useful in areas with limited space or where residents prefer informal activity. The best choice will depend on demand and the spaces already available. A community survey could provide useful information, but people who answer surveys may not represent everybody, so the council should also speak directly with less visible groups, such as older residents, people with disabilities, and families with young children.\n\nIn conclusion, a municipality should provide more community sports facilities when they address a real gap and can be maintained fairly. The process should begin with a clear account of existing provision, honest consultation with residents, and a comparison of realistic alternatives. A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+      "essay_sha256": "d4a93008ee555d717d467be25e1e82e804d10c82f7d1fc23720d5516950cfd97",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000025",
+          "sample_id": "explore-08",
+          "variant": "relevance_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-75149c8156e34f1e",
+      "topic": "Should schools allow generative AI for homework?",
+      "essay": "Generative AI is already part of students’ lives, so schools should not simply ignore it. The question is not whether homework can be done with AI, but how schools can allow it in ways that support learning rather than replace it. A complete ban would be difficult to enforce and might discourage students from using a tool they will encounter in many careers. At the same time, unrestricted use could weaken the purpose of homework, which is to help students practice thinking, writing, and problem-solving. Schools should therefore allow generative AI for homework under clear, consistent rules that protect academic integrity and promote independent learning.\n\nOne reason to allow AI is that it can make learning more accessible. A student who is confused by a math problem can ask for a different explanation, and a writer can ask for feedback on a rough draft. These uses can reduce frustration and help students get started when they feel stuck. In this sense, AI can function like a patient tutor that is available after class. However, that convenience comes with a risk: AI can sound confident while giving inaccurate information. Students should be taught to compare AI responses with class materials, ask teachers for clarification, and recognize when a generated answer is too easy or too vague to be useful.\n\nThe main concern is cheating. If a student submits a fully generated essay or worksheet, the teacher cannot know what the student actually understands. Homework would then become a performance of technology rather than evidence of learning. To prevent this, schools can require students to disclose how they used AI and to show their own thinking. For example, a student might submit a draft, explain what changes AI suggested, and answer follow-up questions in class. These steps would not eliminate dishonesty, but they would make it harder to hide it and would encourage students to take responsibility for their work.\n\nFairness also matters. Not all students have the same devices, internet access, or paid subscriptions, and some families can guide technology use more than others. Schools should provide equal access to approved tools and teach digital literacy so that all students can evaluate AI output. Teachers also need support, because setting expectations and checking work can take extra time.\n\nIn the end, schools should allow generative AI for homework when it is used as a learning tool, not as a shortcut. Sensible rules, teacher guidance, and student accountability can help preserve the value of homework while preparing students for a world where technology will be part of everyday work.",
+      "essay_sha256": "d8970faef3fc0d16cdbebb7f0552110258cbd6d33bdd16a1b0f234aa49955b43",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000003",
+          "sample_id": "explore-02",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-ce0c6b141bc147a3",
+      "topic": "Should a town fund a library makerspace before extending opening hours?",
+      "essay": "A town library must choose between funding a makerspace and extending opening hours. Both options can improve access, but they do so in different ways. A makerspace adds new tools and programs, while longer hours make existing services available to people who cannot visit during the day. I believe the town should fund the makerspace first, unless a survey shows that current hours prevent a large share of residents from using the library at all. This decision rule keeps the focus on access while still allowing the library to develop a distinctive public role.\n\nThe strongest case for a makerspace is that it can serve needs that books and computers alone do not meet. A shared space with tools, software, or materials could let a teenager test a design project, an adult learn repair skills, or a small business owner make a prototype. These activities might attract users who have not visited the library before and create a reason to come back. If private courses are expensive, the makerspace can offer a low-cost alternative. It can also make the library more visible as a place for learning, not only borrowing.\n\nHowever, a makerspace is not cheap to run. Equipment needs maintenance, safety rules, and trained staff or reliable volunteers. The town should compare the purchase price with ongoing costs, including repairs, insurance, cleaning, and staff time. It should also protect quieter users by using a separate room, booking system, and clear rules. If the council cannot support these responsibilities, the makerspace may become underused or unsafe.\n\nExtended hours are a serious alternative. If many residents work daytime jobs, care for family members, or depend on public transport, the library may be closed exactly when they need it. In that case, longer hours may solve a more urgent access problem than a new facility. The town should measure current usage by time of day and ask residents whether they would actually visit during extended hours. Staffing costs are the main trade-off: paid staff may be expensive, while volunteers may be helpful but less reliable. If the library already has strong daytime use and limited evening demand, adding hours may produce little benefit for the money.\n\nA balanced approach is possible. The council could fund the makerspace first and use part of the budget to extend hours on one or two evenings, perhaps with volunteer support. It should then review attendance, maintenance costs, and resident feedback before deciding whether to expand hours further. This would let the town test both options without committing to a large permanent change.\n\nIn conclusion, the makerspace should come first because it can broaden the library’s purpose and attract new users. Still, the decision should depend on evidence. If residents say that current hours are the main barrier to using the library, then extending hours should take priority. A careful survey, a realistic budget, and a review after one year would help the town choose the option that gives the community the greatest benefit.",
+      "essay_sha256": "5a3771b0853e822501d30d688ed48ea2b9c104ab7c7d78067927f4238827ca35",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000018",
+          "sample_id": "explore-05",
+          "variant": "relevance_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-59bcf6fb418c4260",
+      "topic": "Can household recycling alone solve a city waste problem?",
+      "essay": "Household recycling is an important part of a city’s waste strategy, but it cannot solve a city’s waste problem by itself. Recycling helps reduce the amount of material sent to landfill and gives useful materials a second life. However, it is only one piece of a larger system. A city’s waste problem also involves how much people produce, what materials are collected, how waste is sorted and processed, and whether the recycling infrastructure can handle the materials safely and economically.\n\nFirst, recycling depends on correct separation. If glass, food waste, electronics, and dirty packaging are all thrown into the same bin, the result is often contamination. Contaminated loads may not be recyclable at all, and they can damage sorting equipment. Even when items are placed in the right bin, they still need to be collected, transported, cleaned, and processed. That requires facilities, energy, and funding. In many cities, some materials are recycled well, while others are not, because markets for recycled materials can be unstable.\n\nSecond, recycling does not address the source of waste. A city can collect large amounts of paper, plastic, and glass, but if households continue to buy excessive packaging and single-use products, the total volume of waste may remain high. The most effective waste strategy is usually to reduce consumption first. Reusing containers, choosing durable products, repairing items, and designing packaging that is easier to recycle can prevent waste before it is created. Recycling should support these habits, not replace them.\n\nThird, many common household items are not easily recyclable. Food waste, for example, is often better suited to composting than to ordinary recycling. Some plastics, mixed materials, and small items are difficult or expensive to process. Electronics and batteries need special handling because they contain valuable materials as well as harmful substances. A city that relies only on household recycling may miss these important streams.\n\nFinally, public awareness is useful, but it is not enough on its own. Posters and campaigns can help people understand what to recycle, but clear rules, convenient collection services, and fair pricing also matter. If recycling is too complicated or too expensive, participation falls. Cities need a balanced approach: reduce unnecessary waste, reuse what can be reused, recycle appropriate materials, compost organic waste, and manage the remaining waste responsibly.\n\nIn conclusion, household recycling is valuable, but it is not a complete solution. A city can make real progress by combining recycling with waste reduction, better design, public education, and proper processing. The goal should not be to recycle everything, but to create a waste system that is practical, clean, and sustainable.",
+      "essay_sha256": "7e16e9b51bea4a8159b2b04692b8a6ad4804f69310ab6a19bf0f29fdadd4e686",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000022",
+          "sample_id": "explore-03",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-44d9956c20a949d2",
+      "topic": "Should a municipality provide more community sports facilities?",
+      "essay": "Community sports facilities can make physical activity more convenient and give residents a place to meet. A municipality should consider providing more facilities, especially in neighborhoods where safe, affordable, and accessible options are limited. However, because new centers require significant public investment, the council should first identify whether a real need exists and whether the proposed facility can be maintained over time.\n\nOne major benefit is accessibility. Private gyms and sports clubs can be expensive, while public facilities may offer lower-cost entry, drop-in classes, and programs for children, adults, and older residents. A sports hall can host basketball, badminton, dance, or fitness classes, while outdoor courts and multipurpose fields can give young people a supervised place to play. Good lighting, step-free entrances, clear signage, and reliable public transport would make these spaces easier to use. Facilities should also feel welcoming to beginners, not only to experienced athletes, because the goal is to encourage broader participation, not merely to serve a small group of regular users.\n\nThe main concern is cost. Construction is only the first expense. Maintenance, staffing, cleaning, heating, insurance, and repairs continue for many years. If a council ignores these long-term costs, it may open an attractive building and later reduce its opening hours or close it altogether. To avoid this, the municipality should prepare a realistic budget, identify sustainable funding, and set clear service levels. Partnerships with schools, community groups, or private operators could help share responsibility, but the council would need to define roles, standards, and accountability carefully.\n\nThere are also alternatives to building a new facility. Improving parks, adding walking routes, repairing existing pitches, and supporting small local programs may be cheaper and more effective. The best choice depends on current provision, population needs, and the kinds of activity residents actually want. A community survey can provide useful information, but surveys may not reach everyone equally. The council should also speak directly with less visible groups, such as older residents, people with disabilities, and families with limited transport, to understand their barriers.\n\nIn conclusion, more community sports facilities can be worthwhile if they address a genuine gap and can be maintained fairly. The municipality should begin with a clear account of existing spaces, consult residents, and compare realistic options. A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+      "essay_sha256": "786c002566a447cecd22a43d7abfc8be3d5932d933a7ae0d0622ceca9458d05c",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000024",
+          "sample_id": "explore-08",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-081b9b203d2f4a08",
+      "topic": "How should residents discuss a proposal for wind turbines near their town?",
+      "essay": "Wind turbines are modern and modern things usually make places successful. Our town should have the turbines because they are tall and show that people are looking forward. Anyone who disagrees is probably afraid of change. Public discussion should therefore begin by explaining that the decision is already the right one. Spending too long listening to objections will only make the town seem uncertain.\n\nThe turbines would look impressive on the hills. A visitor might see them from the road and think the town is active and interesting. People often take photographs of large structures, so this would certainly bring many tourists. When tourists arrive, every local business will do well. There is no reason to calculate how many visitors might come because being optimistic is more important than worrying about numbers.\n\nSome residents mention noise, wildlife, electricity connections, or who receives the income. These are different subjects and should not distract from the fact that renewable energy is a good idea. If something is good in general, it must be good in this particular location. The people planning the project are experts, and experts would not make a mistake. This means independent information would be an unnecessary expense.\n\nThe town also needs a better football pitch and a new sign outside the station. These improvements would make everyone proud of living here. The wind project is a chance to talk about all the things that could be better, including shops staying open later and more flowers near the square. Good discussion means keeping everyone positive about the town. Complaints should be saved for another meeting.\n\nIn conclusion, residents should support the turbines and finish the discussion quickly. A confident town makes confident decisions. If any problems appear afterward, somebody can deal with them then. There is no need to compare alternative locations or arrangements now because that might weaken support for an exciting project. The future belongs to places that say yes.",
+      "essay_sha256": "5fe5c7740b26d3e9ce512e649ab879ac8984559ad225e13ae2def41f3dd36dc7",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-07"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000029",
+          "sample_id": "explore-07",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-197695d71e1d4852",
+      "topic": "What makes an online product review trustworthy?",
+      "essay": "An online product review is trustworthy when a reader can understand what the writer actually tested, under what conditions, and what remains unknown. Many reviews simply call a product excellent or terrible without describing how it was used. Such judgments are less useful than a clear account of a particular situation. For example, a person buying a bag for a short train journey may need different features from a person who carries it all day outside. The first person might care about a light design and easy access, while the second may care about padding, weather resistance, and how the straps feel over time.\n\nA trustworthy review should explain how long the writer used the item and what happened during that period. A first impression can describe the shape, controls, or packaging, but it cannot establish how durable a product will be after months or years. These are different kinds of claims, and readers should notice the difference. A reviewer who makes the limits of their experience visible gives the reader a better chance to decide whether that experience applies to their own needs.\n\nPhotos and detailed descriptions can help, although neither proves honesty by itself. A picture may be chosen to hide a scratch, a loose seam, or a weak feature. A long review may repeat information from an advertisement or focus only on what the writer liked. It is often more useful to compare several accounts that describe different uses than to count only the positive stars. If multiple independent writers mention the same fault, that may be a reason to investigate further, not automatic proof that every item is defective.\n\nThe relationship between the writer and the seller also matters. Free samples, discounts, or payment could influence a review, so they should be disclosed clearly. However, an unpaid buyer can also have unusual expectations, unrealistic standards, or an unlucky faulty item. Trust should therefore not depend on one simple label, such as “verified purchase” or a high star rating. The evidence in the review and the writer’s willingness to acknowledge uncertainty remain important.\n\nReaders should look for specific observations, relevant conditions, and honest limitations. They should ask whether the reviewer’s use matches their own, whether the review mentions problems, and whether the writer distinguishes between personal preference and a practical defect. No review can remove every uncertainty before a purchase. A trustworthy review helps a reader ask better questions and understand trade-offs, rather than promising a perfect answer for everybody. This standard is harder than accepting a confident recommendation, but it is more useful when products, needs, and people differ.",
+      "essay_sha256": "adf8bcee6c16a6cd21c4e928b2fe6783a9a8e7b74b25ceb80071b989ca1f99c7",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000033",
+          "sample_id": "explore-10",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-03dd62a3152e4f27",
+      "topic": "Should cities prioritize buses over additional urban roads?",
+      "essay": "A city deciding between a more frequent bus network and an additional traffic lane should compare access, not simply vehicle speed. The relevant question is how reliably residents can reach work, education, and essential services. For dense corridors with limited street space, improving buses can be a defensible priority, provided the service is useful throughout the journey.\n\nConsider a worker whose shift starts before the morning rush. A bus route shown on a map offers little access if its first departure is too late. More frequent service and longer operating hours may help this worker more than a faster trip for motorists. Bus lanes can also make travel times more predictable, but their value depends on enforcement and connections. A quick journey on one segment does not compensate for a long, uncertain transfer or an unsafe walk to the stop.\n\nThis argument does not establish that roads are unnecessary. Deliveries, emergency vehicles, and residents with mobility limitations also need reliable access. In low-density districts, a frequent fixed route may carry few passengers while consuming resources needed elsewhere. A city could combine strong services on busy corridors with accessible feeder options, while maintaining essential roads. The appropriate mix depends on local settlement patterns and actual travel needs.\n\nEvaluation should therefore include waiting time, reliability, wheelchair access, and the distribution of benefits across neighborhoods. A trial bus lane should be assessed over comparable periods, with attention to construction disruption and traffic displaced onto nearby streets. Costs and trade-offs should be reported alongside passenger use rather than hidden behind a single favorable measure.\n\nPrioritizing buses is strongest as a conditional strategy for improving access under scarce space and funding. It becomes weaker when treated as a universal answer. By defining the people and journeys an investment should serve, a city can explain both its choice and the circumstances that would justify changing it.",
+      "essay_sha256": "055de25fba1b49d76a1b2bb952754efbb4386018623cd8ec9f5ceffc2f212e68",
+      "targets": [
+        {
+          "kind": "original",
+          "sample_id": "explore-01"
+        },
+        {
+          "kind": "final",
+          "job_id": "job-000005",
+          "sample_id": "explore-01",
+          "variant": "no_rewrite",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-fab2d9c9be044098",
+      "topic": "Should a small shop collect detailed customer data for personalized offers?",
+      "essay": "A small shop should collect detailed customer data only when it is necessary for a specific benefit and can be managed responsibly. Personalized offers may help a business serve regular customers better, but the question is not whether detailed data can be gathered; it is whether identifiable information is needed at all. In many cases, aggregate data—such as total sales by product, time of day, or season—can reveal useful patterns without exposing individual customers.\n\nSuppose a bakery wants to reduce unsold bread. Counts of loaves sold by type and hour may show that certain items are overproduced in the afternoon. That insight can guide baking schedules without recording who bought each loaf. If the bakery’s question is different—whether customers want reminders for recurring orders, for example—an optional subscription may be relevant. Starting with the decision narrows the data required and makes the proposed benefit easier to explain than a vague promise of a better experience.\n\nConsent matters, but a checkbox alone does not settle the issue. A customer may accept broad terms simply to obtain a discount, without understanding how long information will be retained or how it will be used. Staff need practical rules for access, correction, deletion, and security. A small business with limited technical support should consider whether it can consistently meet those responsibilities before adopting a complex tracking service.\n\nThere are reasonable arguments for personalized offers. Relevant messages may be more useful than repeated generic advertising, and a loyalty program can reward regular customers. Yet personalization can also feel intrusive or create unexplained differences in price. A shop should provide an ordinary purchasing option and avoid collecting sensitive information that is unnecessary for the service.\n\nA limited trial could compare an aggregate-data approach with a genuinely optional subscription, measuring waste, repeat visits, complaints, and staff effort. These outcomes would not establish every long-term privacy effect, but they would clarify whether more detailed collection has a meaningful benefit. The responsible choice is the least intrusive system that answers a worthwhile business question and can be operated reliably, including when a customer chooses not to participate.",
+      "essay_sha256": "d894595427ec5d5bee3a0afb73e3e4662a095c279dad15e92e2242d6ed538aa3",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000015",
+          "sample_id": "explore-06",
+          "variant": "relevance_feedback",
+          "workflow_success": false
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-c5c802c3f923409d",
+      "topic": "How should residents discuss a proposal for wind turbines near their town?",
+      "essay": "When a proposal for wind turbines near a town is announced, residents should discuss it openly, respectfully, and with a focus on evidence and shared values. The goal is not simply to say yes or no, but to understand what the project could mean for the community, how concerns might be addressed, and what choices are available.\n\nA good discussion should begin by clarifying the facts. Residents need to know where the turbines would be placed, how tall they would be, how much electricity they would generate, and who would own or operate them. They should also understand the expected noise levels, possible effects on wildlife, changes to land use, and the local benefits or costs. Asking these questions is not opposition; it is responsible participation. If the proposal is explained clearly, residents can make a more informed judgment instead of reacting to fear or enthusiasm alone.\n\nAt the same time, the conversation should include the values that matter to different people. Some residents may support renewable energy and see the turbines as a way to reduce carbon emissions. Others may care deeply about the landscape, quiet enjoyment of the countryside, or the long-term health of local ecosystems. These concerns are legitimate and deserve to be heard. A productive discussion avoids dismissing anyone as “against progress” or treating disagreement as a sign of selfishness. Instead, it should ask how the project can be designed to respect both environmental goals and community life.\n\nResidents should also consider practical alternatives and conditions. Could the turbines be placed farther from homes? Could certain trees or habitats be protected? Would the town receive a share of the income, or would local jobs and services be supported? Could there be a process for monitoring noise or other impacts after construction? By asking these questions, residents can move from a simple vote to a more thoughtful decision. If problems are likely, they should be identified early rather than ignored until after the project is built.\n\nFinally, the discussion should remain fair and organized. Meetings should give time to all speakers, not only the loudest voices, and information should be shared in advance so people can prepare. Disagreement is normal in a community, but it does not have to become division. A town can be confident without pretending that every concern is trivial. The best outcome is a decision that is understood, reasonably supported, and open to correction if new information appears. In that way, residents can decide together whether wind turbines would truly benefit their town.",
+      "essay_sha256": "b351483d9f7a9b1304dc71479f7300123afc21f4b3cc99916d53059c66adb922",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000031",
+          "sample_id": "explore-07",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-6a0b18c1cc774bb5",
+      "topic": "Should a town fund a library makerspace before extending opening hours?",
+      "essay": "A town library must respond to changing community needs, but limited funds force difficult choices. If a town must choose between funding a makerspace and extending opening hours, I believe the makerspace should be funded first, provided the council carefully tests demand, manages safety, and keeps the quieter library experience intact.\n\nThe strongest reason to prioritize a makerspace is that it can give the library a new and visible role. Libraries already provide books, computers, and study space, but they can also become places where residents learn practical skills. A teenager might try basic design, coding, or repair without buying expensive equipment; an adult might explore woodworking, 3D printing, or electronics. These opportunities can attract people who rarely use a library and help the institution remain relevant. In a community where private classes are costly, a shared makerspace can offer a low-cost way to experiment with new tools and projects.\n\nHowever, a makerspace is not simply a room with equipment. Tools require maintenance, safety training, and supervision. The town should estimate recurring costs, not only the initial purchase price, and should train staff or hire qualified support. It should also protect quiet users by separating the makerspace from reading areas, using booking systems, and setting clear rules. If the space becomes noisy or poorly managed, it could create more problems than it solves.\n\nExtending opening hours is also a serious consideration. Many residents work during the day and cannot visit the library in the afternoon or evening. Longer hours would make basic services more accessible. Yet opening hours can sometimes be improved through lower-cost measures, such as adjusting staff shifts, using volunteers, or extending access to specific areas like the computer room. A makerspace, by contrast, may require a larger one-time investment, but it can create a stronger long-term identity for the library.\n\nTherefore, the town should not decide without listening to residents. A short survey, a pilot program, and a clear budget would help determine whether a makerspace is likely to be used. If demand is strong and the project is well planned, funding it before extending hours is a reasonable choice. The goal is not simply to add equipment, but to make the library a more useful public space for the community.",
+      "essay_sha256": "a2d4ba740a4fa49722ff691b7f51c45fcc082fdaf26574e9f2eb45f49a194166",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000019",
+          "sample_id": "explore-05",
+          "variant": "no_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-a316142ff6054d11",
+      "topic": "Does a high museum visitor count prove that its education program is successful?",
+      "essay": "A museum education program can be called successful when it helps visitors understand ideas, encourages participation, and makes knowledge accessible to a wide public. A high visitor count does not by itself prove that these outcomes have occurred, but it can be a useful indicator of educational reach. Attendance shows how many people had the opportunity to encounter the museum’s learning resources, even if it does not show what they learned.\n\nThe first value of visitor numbers is exposure. When more people enter a museum, more people see objects, labels, interactive stations, and guided stories that they might not otherwise experience. This exposure can lead to engagement, and engagement can lead to comprehension or curiosity. However, the chain is not automatic. A visitor may glance at a display, move quickly through a gallery, or spend time mainly in a cafe. Therefore, attendance is best understood as a measure of opportunity, not a direct measure of learning.\n\nA second value is accessibility. A large and varied audience suggests that the museum’s programs are reaching beyond a small group of specialists. If attendance includes families, students, older adults, and first-time visitors, the institution may be fulfilling a public educational role. This evidence can also support funding, because sponsors and local authorities often look for signs that public resources are serving many people. Yet funding arguments should remain connected to educational outcomes. A museum can explain that high attendance created the conditions for more workshops, tours, and classroom partnerships, and then show how those activities affected participants.\n\nThe main limitation is that visitor count can include non-educational motives. Some people may attend for entertainment, socializing, weather shelter, or a popular exhibition rather than for learning. Attendance data may also repeat the same visitors, omit people who cannot afford admission, or fail to reveal whether particular groups are included. For this reason, a high attendance figure is not enough to prove success. Stronger evidence would include program-specific participation rates, observation of visitor interaction, pre- and post-visit comprehension checks, or follow-up surveys. For example, a science museum might record how many visitors attend a workshop and then compare short understanding checks before and after the session.\n\nIn conclusion, a high museum visitor count does not prove that an education program is successful, but it can indicate that the program is reaching a large audience and creating opportunities for learning. Museums should continue to increase attendance, but they should also pair visitor numbers with clearer measures of understanding and participation. With both reach and outcome evidence, museum leaders can make more confident decisions and show the community that their educational work matters.",
+      "essay_sha256": "e52fa02a1fe30868a16493d0d1fafc36c8b8fbe7f06a72382b84ad8ef7ef508d",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000011",
+          "sample_id": "explore-09",
+          "variant": "all_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-cf6c75d6e3904a5b",
+      "topic": "Should schools allow generative AI for homework?",
+      "essay": "Should schools allow generative AI for homework? The question is not whether students can access these tools, but how schools can use them without weakening learning. Schools should allow generative AI for homework in limited, clearly defined circumstances, while prohibiting it when the assignment is meant to measure independent skill.\n\nFor many homework tasks, AI can be a useful support tool. When a student is drafting an essay, for example, they might use AI to generate possible outlines, explain a confusing paragraph, or suggest clearer word choices. For language practice, AI could help check grammar or offer alternative sentence structures. In lower grades or introductory courses, where homework often aims to build understanding, such use may be appropriate if the student still does the core thinking. A student should not simply paste an AI answer into an assignment; instead, the tool should function like a tutor, prompting questions and helping the learner revise their own work.\n\nHowever, not all homework should permit AI. When an assignment is designed to assess independent skill, such as solving a math problem, writing a final argumentative essay, or completing a science lab analysis, schools should prohibit generative AI. In these cases, the purpose of the homework is to show what the student can do without assistance. If a student submits a complete AI-generated response, the teacher cannot tell whether the student understands the material. This is especially important in assessments that prepare students for exams, certifications, or future work where independent judgment is required.\n\nGrade level also matters. Younger students may need stricter limits because they are still developing basic reading, writing, and reasoning skills. Older students, especially in high school or college, can be given more responsibility if teachers explain how to use AI ethically. The key distinction is assignment purpose: if homework is meant to support learning, limited AI use may be allowed; if it is meant to evaluate independent ability, it should not.\n\nFairness is another reason for clear rules. Not all students have the same devices, internet access, or paid AI subscriptions. Schools should provide equal access where possible and avoid rules that depend on a family’s ability to pay. Teachers should also teach digital literacy so students can evaluate AI output, recognize errors, and understand privacy risks.\n\nIn conclusion, schools should not ban generative AI from homework entirely, but they should not allow it without limits. A balanced policy can permit AI for drafting, clarifying, and revising in appropriate assignments, while banning it for final problem-solving or independent assessments. With clear expectations, teacher guidance, and student responsibility, schools can protect academic integrity and prepare students for a world where technology will be part of everyday work.",
+      "essay_sha256": "c051a199198a0ae3c77f5d54e13aeb05a9ad7f0f0c3c9bb9920bcc996c4defba",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000002",
+          "sample_id": "explore-02",
+          "variant": "relevance_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-271c8978ed08489f",
+      "topic": "What makes an online product review trustworthy?",
+      "essay": "An online review is trustworthy when the reader can understand what the writer tested, under what conditions, and what the writer cannot know. Many reviews call a product excellent or terrible without describing its use. A clear account of a particular situation is more useful. For example, a person buying a bag for a short train journey may need different things from a person carrying it all day outside.\n\nThe writer should explain how long they used the item and what happened during that time. A first impression can describe the shape, materials, or controls, but it cannot establish how durable a product will be after several years. These are different kinds of claim. A reviewer who makes the limits of their experience visible gives the reader a better chance to decide whether that experience applies to them.\n\nPhotos and detailed descriptions can help, although neither proves honesty on its own. A picture might be selected to hide a problem, and a long review can repeat information from an advertisement. It is useful to compare accounts that describe different uses rather than counting only positive stars. If several independent writers mention the same fault, that may be a reason to investigate further, not automatic proof that every item is defective.\n\nThe relationship between the writer and the seller also matters. Free samples or payment could influence a review, so they should be disclosed clearly. However, an unpaid buyer can also have unusual expectations or receive an unlucky faulty item. Trust should therefore not depend on one simple label. The evidence in the review and the writer’s willingness to acknowledge uncertainty remain important.\n\nOnline platforms add their own trust signals. A verified-purchase label can show that the reviewer bought the item through that store, while a reviewer history can reveal whether their comments are consistent over time. Timestamps and product versions also matter because a phone, software update, or manufacturing change may make an old review less relevant. These signals should not replace careful reading, but they help readers separate a current, relevant experience from an outdated or unverified one.\n\nReaders should look for specific observations, relevant conditions, honest limitations, and clear disclosures. No review can remove every uncertainty before purchase. A trustworthy review helps a reader ask better questions and understand trade-offs, rather than promising a perfect answer for everybody. This standard is harder than accepting a confident recommendation, but it is also more useful when products and people differ.",
+      "essay_sha256": "dd7235b0aadb8799b6b4c2fa27c510a58369b4d6d48034ddb0a063dd3a9b5d5d",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000032",
+          "sample_id": "explore-10",
+          "variant": "relevance_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-531e10f8ebfd4f73",
+      "topic": "How should residents discuss a proposal for wind turbines near their town?",
+      "essay": "When a proposal for wind turbines near a town is put forward, residents should discuss it as a practical question rather than as a contest between optimism and fear. The first step is to define what is being decided: where the turbines would be placed, how tall they would be, how many there would be, who would own them, how much electricity would be generated, and what effects might be expected on noise, wildlife, traffic, views, and local income. Without a shared understanding of these details, conversation easily becomes a debate about symbols instead of a discussion about the proposal itself.\n\nResidents should then gather the evidence available from the planning documents, environmental assessments, and technical summaries. This does not mean accepting every claim uncritically; it means asking what the experts base their conclusions on, what uncertainties remain, and what independent checks have been done. A useful public meeting might begin with a plain explanation of the project, followed by a list of resident concerns. Questions about noise levels, bird and bat movements, construction traffic, grid connections, and maintenance access are legitimate parts of the discussion, not distractions. If residents do not understand a technical point, they should ask for a simpler explanation rather than assuming that the answer is either obviously good or obviously bad.\n\nThe discussion should also compare realistic options. The town is not choosing only between “turbines” and “no turbines.” There may be different sites, layouts, numbers of turbines, or arrangements for sharing income with the community. Setting decision criteria in advance can help residents judge these options fairly. Criteria might include environmental impact, visual effect, noise, local benefits, reliability of the energy supply, and the strength of the evidence behind each claim. If one option causes more harm to wildlife or one location creates more noise, that difference should be weighed openly rather than ignored because it makes the project less attractive.\n\nFinally, residents should separate the wind turbine proposal from other local needs. A better pitch, a new sign, longer shop hours, or more public spaces may be important, but they should not be used to avoid the specific questions raised by the turbines. A fair discussion does not require everyone to agree at the start; it requires people to listen, ask questions, and judge the proposal on evidence and shared values. If the process is careful, the town can make a decision that is both practical and defensible, whether that decision is to support the turbines, modify them, or reject them.",
+      "essay_sha256": "36cb3819ad210909d1c93ce64e29b33ae6da09324de30530635b5377de28069b",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000030",
+          "sample_id": "explore-07",
+          "variant": "relevance_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-3160181987b34e97",
+      "topic": "Should a municipality provide more community sports facilities?",
+      "essay": "Community sports facilities can make exercise more convenient and help residents meet one another. A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents. In neighborhoods with few safe outdoor spaces, a public facility can fill that gap, but the council must also compare realistic alternatives before spending public money.\n\nOne benefit is accessibility. Private gyms may be expensive, while a public facility can offer lower-cost classes, open hours, and activities for different age groups. For example, in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs, giving young people a supervised place to spend time. Good lighting, accessible entrances, and reliable transport would make the space usable for families, older residents, and beginners rather than only experienced athletes.\n\nThe main concern is cost. Construction is only the beginning, because maintenance, staffing, cleaning, utilities, and repairs continue for many years. If annual operating costs exceed the budget the council can reliably fund, the building may open with reduced hours or closed rooms. A new sports hall may therefore be justified only if the municipality can show that long-term funding is available and that the facility will serve enough users to make it worthwhile. Partnerships with local clubs or schools might help, but responsibilities for upkeep, insurance, and scheduling would need to be clear.\n\nThere are alternatives that may be more appropriate in some areas. Upgraded parks with courts, walking routes, and seating can provide informal activity at lower cost, but they may lack weather protection and supervision. School partnerships can extend use of existing facilities after hours, yet they depend on school availability and may not serve adults as well. A council should compare these options against a new hall by asking whether current provision is adequate, whether affordability is a barrier, and whether projected usage supports a larger commitment.\n\nA community survey can help identify demand, but survey respondents may not represent harder-to-reach groups, so the council should also speak directly with residents, local businesses, and youth leaders. More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost. Under those conditions, a well-planned facility is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+      "essay_sha256": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000027",
+          "sample_id": "explore-08",
+          "variant": "all_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-165daee324724497",
+      "topic": "When is remote work suitable for a team?",
+      "essay": "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs, not as a reward or a universal productivity strategy. The useful question is which work can move and what support makes that move effective. A practical checklist asks whether tasks are independent, whether outputs can be reviewed as artifacts, whether communication norms are written and explicit, whether onboarding support exists, and whether managers can monitor outcomes without micromanaging.\n\nTask reviewability is the first criterion. A software team that ships small, testable features may work well remotely because pull requests, tickets, and deployment logs create a shared record. A sales team that relies on live negotiation may be more borderline, because deals often depend on tone, timing, and relationship cues. An operations team that must respond to equipment failures is often unsuitable for fully remote work, because physical access and immediate hands-on coordination are essential. These examples show that the same title can mean different suitability when the actual tasks differ.\n\nEmployee experience changes the answer. An experienced analyst may complete a defined report from home using written comments and shared documents. A newly hired analyst in the same role may need frequent guidance to understand undocumented assumptions. Structured onboarding, examples of good work, and a dependable way to ask questions may matter more than the location policy alone. A team should not treat remote work as equally easy for every member.\n\nCost distribution also matters. An employer may save office space while an employee pays for heating, equipment, or a quieter room. Others may gain access because commuting is difficult. These effects cannot be reduced to preference. A fair evaluation should consider accessibility, home conditions, promotion opportunities, and pressure to remain constantly available.\n\nThese fairness concerns lead to the limits of flexibility. Some discussions benefit from shared context, and poor written communication can turn a small misunderstanding into repeated rework. But requiring office attendance does not automatically fix those problems. Teams should identify decisions that need synchronous discussion, reserve shared time for them, and protect time for focused work.\n\nA rigorous pilot would specify the test. It should compare similar tasks before and after the change, or compare a remote group with a comparable group doing similar work under similar staffing and workload conditions. Metrics should include delivery time, rework, response delays, quality defects, staff retention, and whether burdens fall unevenly across roles. The pilot should also note management changes, new tools, and staffing shifts so that performance changes are not wrongly attributed to remote work.\n\nRemote work is suitable when a team can manage coordination costs without shifting unreasonable burdens onto employees. It is suitable when tasks are reviewable, communication is explicit, onboarding is supported, and synchronous needs can be scheduled. It is borderline when the work is collaborative but can be documented. It is unsuitable when physical presence, rapid hands-on response, or unstructured trust-building are central. Managers should use that decision rule rather than treating home or office attendance as proof of commitment.",
+      "essay_sha256": "10b87df2c5f959bed8fc287cfe8f2fbe855cab526b113b176e1bba38d14df3ab",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000039",
+          "sample_id": "explore-04",
+          "variant": "all_feedback",
+          "workflow_success": true
+        }
+      ]
+    },
+    {
+      "blind_id": "ai-f820fdcb57ea4d4d",
+      "topic": "Should cities prioritize buses over additional urban roads?",
+      "essay": "Cities should prioritize buses over new roads in dense, high-demand corridors, but not as a universal rule; in low-density areas, roads may remain more necessary. The decision should compare access, not vehicle speed: how reliably residents can reach work, education, health care, and essential services. To assess this, a city should examine a specific corridor, the limits of bus priority, and the evaluation criteria that justify choosing buses over road expansion.\n\nConsider a mixed-use corridor with offices, schools, a transit center, and limited street space. If one lane is shared by cars, buses, deliveries, and emergency vehicles, bus service can be slow and unpredictable. A protected or enforced bus lane can improve reliability by reducing delay from congestion, allowing shorter headways, and making schedules easier to follow. Reliability matters because riders choose buses when they can plan around them. If stops are spaced sensibly, transfers connect to feeder routes, and access is safe and wheelchair-friendly, bus priority can move more people per lane than an additional car lane. In such a corridor, the causal chain is testable: better enforcement and connections reduce waiting time and transfer uncertainty, which makes bus trips more attractive and can increase ridership.\n\nThis does not mean roads are unnecessary. Additional roads may be justified where freight movement, emergency access, or long-distance connections cannot be served by buses. In low-density districts, a frequent fixed-route service may carry few passengers while consuming resources needed elsewhere. Road expansion can also create induced demand: newly added capacity may attract more driving, fill up, and consume land that could be used for housing, sidewalks, or public space. By contrast, bus priority uses existing space more intensively and can be adjusted with service changes, though it still requires operating costs, maintenance, and fair coverage.\n\nEvaluation should therefore decide which option better serves the public. A trial bus lane should be compared with a road expansion over comparable periods, measuring waiting time, reliability, wheelchair access, construction disruption, traffic displaced to nearby streets, and the distribution of benefits across neighborhoods. If bus priority lowers average waiting time and improves access for many residents without creating serious inequities, it should receive priority over a new road. If it fails to do so, or if essential freight and emergency access are compromised, a road or mixed solution may be more appropriate.\n\nIn short, cities should prioritize buses over additional urban roads where dense demand and scarce space make reliable transit the better access investment. The choice should remain conditional, based on local patterns and measured outcomes, so that the city can explain both its decision and the circumstances that would justify changing it.",
+      "essay_sha256": "db28436e17c94a36c47a29fc07b1b4db9e0d2f8e9a889fd6d91c009fac85a93e",
+      "targets": [
+        {
+          "kind": "final",
+          "job_id": "job-000006",
+          "sample_id": "explore-01",
+          "variant": "all_feedback",
+          "workflow_success": false
+        }
+      ]
+    }
+  ],
+  "prompt_layout": "joint_four_dimensions",
+  "rubric_version": "essayloop-rubric-v3"
+}

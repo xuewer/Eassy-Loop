@@ -1,0 +1,744 @@
+{
+  "topic": "Should a municipality provide more community sports facilities?",
+  "essay": "Community sports facilities can make exercise more convenient and help residents meet one another. A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents. In neighborhoods with few safe outdoor spaces, a public facility can fill that gap, but the council must also compare realistic alternatives before spending public money.\n\nOne benefit is accessibility. Private gyms may be expensive, while a public facility can offer lower-cost classes, open hours, and activities for different age groups. For example, in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs, giving young people a supervised place to spend time. Good lighting, accessible entrances, and reliable transport would make the space usable for families, older residents, and beginners rather than only experienced athletes.\n\nThe main concern is cost. Construction is only the beginning, because maintenance, staffing, cleaning, utilities, and repairs continue for many years. If annual operating costs exceed the budget the council can reliably fund, the building may open with reduced hours or closed rooms. A new sports hall may therefore be justified only if the municipality can show that long-term funding is available and that the facility will serve enough users to make it worthwhile. Partnerships with local clubs or schools might help, but responsibilities for upkeep, insurance, and scheduling would need to be clear.\n\nThere are alternatives that may be more appropriate in some areas. Upgraded parks with courts, walking routes, and seating can provide informal activity at lower cost, but they may lack weather protection and supervision. School partnerships can extend use of existing facilities after hours, yet they depend on school availability and may not serve adults as well. A council should compare these options against a new hall by asking whether current provision is adequate, whether affordability is a barrier, and whether projected usage supports a larger commitment.\n\nA community survey can help identify demand, but survey respondents may not represent harder-to-reach groups, so the council should also speak directly with residents, local businesses, and youth leaders. More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost. Under those conditions, a well-planned facility is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+  "current_round": 2,
+  "feedback": "[{\"dimension\": \"depth\", \"score\": 0.7, \"rationale\": \"The essay develops a clear conditional argument and identifies several causal mechanisms: facilities can improve accessibility and convenience, but long-term costs can reduce hours or quality. It also includes relevant counterarguments and limitations, especially around operating costs, alternatives, and survey bias. However, depth is limited by the absence of task-specific evidence: the example is hypothetical, and there is no local data on demand, affordability, safety, distance, usage projections, or maintenance budgets. The essay therefore explains the logic well but does not fully ground the claim in concrete evidence or a specific municipal context.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists\", \"in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs\", \"survey respondents may not represent harder-to-reach groups\"], \"suggestions\": [\"Add specific local indicators, such as distance to existing facilities, safety complaints, affordability barriers, or participation rates, to support the claimed gap.\", \"Include a more concrete cost comparison, such as estimated construction, operating, and maintenance costs versus projected usage or community need.\", \"Strengthen the alternatives analysis by comparing a new hall, upgraded parks, and school partnerships using explicit criteria like cost, accessibility, supervision, and year-round usability.\"]}, {\"dimension\": \"structure\", \"score\": 0.85, \"rationale\": \"The essay has a clear conditional thesis and organized paragraph roles: benefit, cost, alternatives, and conclusion. Transitions are smooth, and the conclusion restates the decision criteria. The main limitation is that the body paragraphs do not explicitly map to the thesis’s three gap categories—unsafe, unaffordable, or too far—and the survey point appears only near the end, making the progression slightly less tightly controlled.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents.\", \"The main concern is cost.\", \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"], \"suggestions\": [\"Make each body paragraph explicitly address one part of the thesis, such as unsafe provision, affordability, or distance.\", \"Move the survey and consultation point earlier, or develop it in a dedicated paragraph, so evidence-gathering supports the argument before the conclusion.\", \"Add a stronger transition from cost to alternatives, for example: 'If long-term funding is uncertain, lower-cost alternatives may be preferable.'\"]}, {\"dimension\": \"relevance\", \"score\": 0.9, \"rationale\": \"The essay remains tightly focused on the question of whether a municipality should provide more community sports facilities. It does not drift into generic discussion of exercise or community life; instead, it frames a conditional answer: more facilities are appropriate only when there is a documented gap in safety, affordability, or access. The discussion of accessibility, cost, alternatives, and evidence keeps the response aligned with the essential municipal decision-making question. The main limitation is that it could more explicitly define what “more” means relative to current provision, such as additional sites, expanded hours, or upgrades to existing facilities.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists\", \"The main concern is cost.\", \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"], \"suggestions\": [\"Preserve the conditional, evidence-based framework, as it directly answers the topic rather than giving a generic opinion.\", \"Add one sentence clarifying what “more” means in municipal terms: new facilities, expanded hours, or improved existing sites.\", \"Briefly compare the option of “more” against maintaining or upgrading current facilities to sharpen the relevance to municipal choice.\"]}, {\"dimension\": \"grammar\", \"score\": 1.0, \"rationale\": \"The essay is grammatically accurate, syntactically controlled, and clear. Word choice is precise and appropriate, with no material errors in agreement, punctuation, tense, or sentence structure. Any remaining choices are stylistic rather than defective.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists\", \"If annual operating costs exceed the budget the council can reliably fund\", \"More facilities are justified when evidence shows unmet local demand\"], \"suggestions\": [\"Preserve the clear conditional structure and parallel lists, which support grammatical clarity.\"]}]",
+  "final_score": 0.8500000000000001,
+  "exit_reason": "max_rounds",
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "Community sports facilities can make exercise more convenient and help residents meet one another. A municipality should consider providing more facilities, especially in neighborhoods where there are few safe and affordable places to be active. However, building a new center is a major commitment, so the council needs to understand local needs before it spends public money.\n\nOne benefit is accessibility. Private gyms can be expensive, while a public facility may offer lower prices and activities for different age groups. A sports hall can be used for several purposes, and outdoor courts may give young people somewhere to spend time together. Good lighting, accessible entrances, and reliable transport would make these spaces easier to use. Facilities should be welcoming to beginners rather than designed only for experienced athletes.\n\nThe main concern is cost. Construction is only the beginning, since maintenance, staffing, cleaning, and repairs continue for many years. A council that ignores these expenses may open an attractive building and then reduce its hours. It should prepare a long-term budget and avoid promising services that it cannot maintain. Partnerships with local groups might help, although responsibilities would need to be clear.\n\nThere are other ways to support activity. Parks, walking routes, school partnerships, and small local programs may reach people who would not attend a formal sports center. The best choice will depend on demand and the spaces already available. A community survey could provide useful information, but people who answer surveys may not represent everybody, so the council should also speak directly with less visible groups.\n\nMore facilities can be worthwhile if they address a real gap and can be maintained fairly. The municipality should begin with a clear account of existing provision, consult residents, and compare realistic alternatives. A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "4c9e57e703e3679fa876eb6907025e7b649ba2a24535b8aa0561113452f3f792",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.85,
+            "rationale": "The essay stays closely aligned with the topic and directly addresses whether a municipality should provide more community sports facilities. It considers the main question through accessibility benefits, public cost concerns, alternative ways to support activity, and a conditional recommendation. Its main limitation is that the answer remains cautious and general; it does not more explicitly establish when the municipality should affirmatively provide more facilities rather than merely consider them.",
+            "evidence": [
+              "A municipality should consider providing more facilities",
+              "The main concern is cost.",
+              "More facilities can be worthwhile if they address a real gap and can be maintained fairly."
+            ],
+            "suggestions": [
+              "State the position more clearly, such as recommending more facilities only where evidence shows unmet local demand.",
+              "Add a specific municipal decision test, such as comparing current provision, affordability, and projected usage before approving new facilities.",
+              "Connect the alternative options more explicitly to cases where building more facilities would not be the best response."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay stays closely aligned with the topic and directly addresses whether a municipality should provide more community sports facilities. It considers the main question through accessibility benefits, public cost concerns, alternative ways to support activity, and a conditional recommendation. Its main limitation is that the answer remains cautious and general; it does not more explicitly establish when the municipality should affirmatively provide more facilities rather than merely consider them.\",\n  \"evidence\": [\n    \"A municipality should consider providing more facilities\",\n    \"The main concern is cost.\",\n    \"More facilities can be worthwhile if they address a real gap and can be maintained fairly.\"\n  ],\n  \"suggestions\": [\n    \"State the position more clearly, such as recommending more facilities only where evidence shows unmet local demand.\",\n    \"Add a specific municipal decision test, such as comparing current provision, affordability, and projected usage before approving new facilities.\",\n    \"Connect the alternative options more explicitly to cases where building more facilities would not be the best response.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "4c9e57e703e3679fa876eb6907025e7b649ba2a24535b8aa0561113452f3f792",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.95,
+            "rationale": "The essay is grammatically clean, with accurate syntax, punctuation, and word choice. Clarity is strong throughout, and there are no material errors. The only minor limitation is slight ambiguity in the phrase “maintained fairly,” which could be read as “in a fair manner” rather than “sustainably” or “at acceptable cost.” Otherwise, sentence structure is controlled and the writing is precise.",
+            "evidence": [
+              "can be maintained fairly",
+              "less visible groups",
+              "A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use."
+            ],
+            "suggestions": [
+              "Replace “maintained fairly” with “maintained sustainably” or “maintained at acceptable cost” for clearer meaning.",
+              "Consider “harder-to-reach groups” instead of “less visible groups” if the intended meaning is groups that are underrepresented in surveys.",
+              "Preserve the concise syntax, parallel structures, and restrained word choice, which support clarity without verbosity."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.95,\n  \"rationale\": \"The essay is grammatically clean, with accurate syntax, punctuation, and word choice. Clarity is strong throughout, and there are no material errors. The only minor limitation is slight ambiguity in the phrase “maintained fairly,” which could be read as “in a fair manner” rather than “sustainably” or “at acceptable cost.” Otherwise, sentence structure is controlled and the writing is precise.\",\n  \"evidence\": [\n    \"can be maintained fairly\",\n    \"less visible groups\",\n    \"A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use.\"\n  ],\n  \"suggestions\": [\n    \"Replace “maintained fairly” with “maintained sustainably” or “maintained at acceptable cost” for clearer meaning.\",\n    \"Consider “harder-to-reach groups” instead of “less visible groups” if the intended meaning is groups that are underrepresented in surveys.\",\n    \"Preserve the concise syntax, parallel structures, and restrained word choice, which support clarity without verbosity.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "4c9e57e703e3679fa876eb6907025e7b649ba2a24535b8aa0561113452f3f792",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.8,
+            "rationale": "The essay has a clear, qualified thesis and a coherent progression: introduction, benefit, cost concern, alternatives, and conclusion. Paragraph roles are mostly distinct, and transitions such as 'One benefit' and 'The main concern' guide the reader. The structure is effective, but the thesis is somewhat hedged and the alternatives paragraph slightly broadens the focus without fully tying back to the central question of whether more facilities are needed.",
+            "evidence": [
+              "A municipality should consider providing more facilities, especially in neighborhoods where there are few safe and affordable places to be active.",
+              "The main concern is cost.",
+              "There are other ways to support activity."
+            ],
+            "suggestions": [
+              "Make the thesis more decisive, e.g., state that the municipality should provide more facilities only where a documented gap exists.",
+              "Add a sentence in the alternatives paragraph explaining how non-facility options complement or substitute for new facilities.",
+              "In the conclusion, connect the recommendation directly to the thesis by restating the conditions under which more facilities are justified."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.8,\n  \"rationale\": \"The essay has a clear, qualified thesis and a coherent progression: introduction, benefit, cost concern, alternatives, and conclusion. Paragraph roles are mostly distinct, and transitions such as 'One benefit' and 'The main concern' guide the reader. The structure is effective, but the thesis is somewhat hedged and the alternatives paragraph slightly broadens the focus without fully tying back to the central question of whether more facilities are needed.\",\n  \"evidence\": [\n    \"A municipality should consider providing more facilities, especially in neighborhoods where there are few safe and affordable places to be active.\",\n    \"The main concern is cost.\",\n    \"There are other ways to support activity.\"\n  ],\n  \"suggestions\": [\n    \"Make the thesis more decisive, e.g., state that the municipality should provide more facilities only where a documented gap exists.\",\n    \"Add a sentence in the alternatives paragraph explaining how non-facility options complement or substitute for new facilities.\",\n    \"In the conclusion, connect the recommendation directly to the thesis by restating the conditions under which more facilities are justified.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "4c9e57e703e3679fa876eb6907025e7b649ba2a24535b8aa0561113452f3f792",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.5,
+            "rationale": "The essay shows some causal reasoning: facilities may increase accessibility, reduce cost barriers, and support social interaction, while poor budgeting may lead to reduced hours. It also includes limitations, such as long-term maintenance costs and survey bias. However, the analysis remains generic and lacks task-level specificity. There are no concrete examples of neighborhoods, facility types, costs, usage patterns, or local constraints. Counterarguments are present but not deeply developed, and the causal mechanisms are asserted rather than supported with evidence or detailed explanation.",
+            "evidence": [
+              "Community sports facilities can make exercise more convenient and help residents meet one another.",
+              "Construction is only the beginning, since maintenance, staffing, cleaning, and repairs continue for many years.",
+              "A community survey could provide useful information, but people who answer surveys may not represent everybody"
+            ],
+            "suggestions": [
+              "Add a specific local example, such as a neighborhood with few safe outdoor spaces or high gym costs, to ground the causal claim.",
+              "Develop the cost argument with a realistic breakdown, such as estimated operating costs versus available budget, to show how maintenance affects service hours.",
+              "Compare at least two alternatives more concretely, such as a new sports hall versus upgraded parks or school partnerships, including likely benefits and limitations."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.5,\n  \"rationale\": \"The essay shows some causal reasoning: facilities may increase accessibility, reduce cost barriers, and support social interaction, while poor budgeting may lead to reduced hours. It also includes limitations, such as long-term maintenance costs and survey bias. However, the analysis remains generic and lacks task-level specificity. There are no concrete examples of neighborhoods, facility types, costs, usage patterns, or local constraints. Counterarguments are present but not deeply developed, and the causal mechanisms are asserted rather than supported with evidence or detailed explanation.\",\n  \"evidence\": [\n    \"Community sports facilities can make exercise more convenient and help residents meet one another.\",\n    \"Construction is only the beginning, since maintenance, staffing, cleaning, and repairs continue for many years.\",\n    \"A community survey could provide useful information, but people who answer surveys may not represent everybody\"\n  ],\n  \"suggestions\": [\n    \"Add a specific local example, such as a neighborhood with few safe outdoor spaces or high gym costs, to ground the causal claim.\",\n    \"Develop the cost argument with a realistic breakdown, such as estimated operating costs versus available budget, to show how maintenance affects service hours.\",\n    \"Compare at least two alternatives more concretely, such as a new sports hall versus upgraded parks or school partnerships, including likely benefits and limitations.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.755,
+      "feedback": "[{\"dimension\": \"depth\", \"score\": 0.5, \"rationale\": \"The essay shows some causal reasoning: facilities may increase accessibility, reduce cost barriers, and support social interaction, while poor budgeting may lead to reduced hours. It also includes limitations, such as long-term maintenance costs and survey bias. However, the analysis remains generic and lacks task-level specificity. There are no concrete examples of neighborhoods, facility types, costs, usage patterns, or local constraints. Counterarguments are present but not deeply developed, and the causal mechanisms are asserted rather than supported with evidence or detailed explanation.\", \"evidence\": [\"Community sports facilities can make exercise more convenient and help residents meet one another.\", \"Construction is only the beginning, since maintenance, staffing, cleaning, and repairs continue for many years.\", \"A community survey could provide useful information, but people who answer surveys may not represent everybody\"], \"suggestions\": [\"Add a specific local example, such as a neighborhood with few safe outdoor spaces or high gym costs, to ground the causal claim.\", \"Develop the cost argument with a realistic breakdown, such as estimated operating costs versus available budget, to show how maintenance affects service hours.\", \"Compare at least two alternatives more concretely, such as a new sports hall versus upgraded parks or school partnerships, including likely benefits and limitations.\"]}, {\"dimension\": \"structure\", \"score\": 0.8, \"rationale\": \"The essay has a clear, qualified thesis and a coherent progression: introduction, benefit, cost concern, alternatives, and conclusion. Paragraph roles are mostly distinct, and transitions such as 'One benefit' and 'The main concern' guide the reader. The structure is effective, but the thesis is somewhat hedged and the alternatives paragraph slightly broadens the focus without fully tying back to the central question of whether more facilities are needed.\", \"evidence\": [\"A municipality should consider providing more facilities, especially in neighborhoods where there are few safe and affordable places to be active.\", \"The main concern is cost.\", \"There are other ways to support activity.\"], \"suggestions\": [\"Make the thesis more decisive, e.g., state that the municipality should provide more facilities only where a documented gap exists.\", \"Add a sentence in the alternatives paragraph explaining how non-facility options complement or substitute for new facilities.\", \"In the conclusion, connect the recommendation directly to the thesis by restating the conditions under which more facilities are justified.\"]}, {\"dimension\": \"relevance\", \"score\": 0.85, \"rationale\": \"The essay stays closely aligned with the topic and directly addresses whether a municipality should provide more community sports facilities. It considers the main question through accessibility benefits, public cost concerns, alternative ways to support activity, and a conditional recommendation. Its main limitation is that the answer remains cautious and general; it does not more explicitly establish when the municipality should affirmatively provide more facilities rather than merely consider them.\", \"evidence\": [\"A municipality should consider providing more facilities\", \"The main concern is cost.\", \"More facilities can be worthwhile if they address a real gap and can be maintained fairly.\"], \"suggestions\": [\"State the position more clearly, such as recommending more facilities only where evidence shows unmet local demand.\", \"Add a specific municipal decision test, such as comparing current provision, affordability, and projected usage before approving new facilities.\", \"Connect the alternative options more explicitly to cases where building more facilities would not be the best response.\"]}, {\"dimension\": \"grammar\", \"score\": 0.95, \"rationale\": \"The essay is grammatically clean, with accurate syntax, punctuation, and word choice. Clarity is strong throughout, and there are no material errors. The only minor limitation is slight ambiguity in the phrase “maintained fairly,” which could be read as “in a fair manner” rather than “sustainably” or “at acceptable cost.” Otherwise, sentence structure is controlled and the writing is precise.\", \"evidence\": [\"can be maintained fairly\", \"less visible groups\", \"A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use.\"], \"suggestions\": [\"Replace “maintained fairly” with “maintained sustainably” or “maintained at acceptable cost” for clearer meaning.\", \"Consider “harder-to-reach groups” instead of “less visible groups” if the intended meaning is groups that are underrepresented in surveys.\", \"Preserve the concise syntax, parallel structures, and restrained word choice, which support clarity without verbosity.\"]}]",
+      "exit_reason": null
+    },
+    {
+      "round_id": 2,
+      "essay": "Community sports facilities can make exercise more convenient and help residents meet one another. A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents. In neighborhoods with few safe outdoor spaces, a public facility can fill that gap, but the council must also compare realistic alternatives before spending public money.\n\nOne benefit is accessibility. Private gyms may be expensive, while a public facility can offer lower-cost classes, open hours, and activities for different age groups. For example, in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs, giving young people a supervised place to spend time. Good lighting, accessible entrances, and reliable transport would make the space usable for families, older residents, and beginners rather than only experienced athletes.\n\nThe main concern is cost. Construction is only the beginning, because maintenance, staffing, cleaning, utilities, and repairs continue for many years. If annual operating costs exceed the budget the council can reliably fund, the building may open with reduced hours or closed rooms. A new sports hall may therefore be justified only if the municipality can show that long-term funding is available and that the facility will serve enough users to make it worthwhile. Partnerships with local clubs or schools might help, but responsibilities for upkeep, insurance, and scheduling would need to be clear.\n\nThere are alternatives that may be more appropriate in some areas. Upgraded parks with courts, walking routes, and seating can provide informal activity at lower cost, but they may lack weather protection and supervision. School partnerships can extend use of existing facilities after hours, yet they depend on school availability and may not serve adults as well. A council should compare these options against a new hall by asking whether current provision is adequate, whether affordability is a barrier, and whether projected usage supports a larger commitment.\n\nA community survey can help identify demand, but survey respondents may not represent harder-to-reach groups, so the council should also speak directly with residents, local businesses, and youth leaders. More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost. Under those conditions, a well-planned facility is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+      "results": [
+        {
+          "round_id": 2,
+          "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.9,
+            "rationale": "The essay remains tightly focused on the question of whether a municipality should provide more community sports facilities. It does not drift into generic discussion of exercise or community life; instead, it frames a conditional answer: more facilities are appropriate only when there is a documented gap in safety, affordability, or access. The discussion of accessibility, cost, alternatives, and evidence keeps the response aligned with the essential municipal decision-making question. The main limitation is that it could more explicitly define what “more” means relative to current provision, such as additional sites, expanded hours, or upgrades to existing facilities.",
+            "evidence": [
+              "A municipality should provide more such facilities only where a documented gap exists",
+              "The main concern is cost.",
+              "More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost."
+            ],
+            "suggestions": [
+              "Preserve the conditional, evidence-based framework, as it directly answers the topic rather than giving a generic opinion.",
+              "Add one sentence clarifying what “more” means in municipal terms: new facilities, expanded hours, or improved existing sites.",
+              "Briefly compare the option of “more” against maintaining or upgrading current facilities to sharpen the relevance to municipal choice."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay remains tightly focused on the question of whether a municipality should provide more community sports facilities. It does not drift into generic discussion of exercise or community life; instead, it frames a conditional answer: more facilities are appropriate only when there is a documented gap in safety, affordability, or access. The discussion of accessibility, cost, alternatives, and evidence keeps the response aligned with the essential municipal decision-making question. The main limitation is that it could more explicitly define what “more” means relative to current provision, such as additional sites, expanded hours, or upgrades to existing facilities.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists\",\n    \"The main concern is cost.\",\n    \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"\n  ],\n  \"suggestions\": [\n    \"Preserve the conditional, evidence-based framework, as it directly answers the topic rather than giving a generic opinion.\",\n    \"Add one sentence clarifying what “more” means in municipal terms: new facilities, expanded hours, or improved existing sites.\",\n    \"Briefly compare the option of “more” against maintaining or upgrading current facilities to sharpen the relevance to municipal choice.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 1.0,
+            "rationale": "The essay is grammatically accurate, syntactically controlled, and clear. Word choice is precise and appropriate, with no material errors in agreement, punctuation, tense, or sentence structure. Any remaining choices are stylistic rather than defective.",
+            "evidence": [
+              "A municipality should provide more such facilities only where a documented gap exists",
+              "If annual operating costs exceed the budget the council can reliably fund",
+              "More facilities are justified when evidence shows unmet local demand"
+            ],
+            "suggestions": [
+              "Preserve the clear conditional structure and parallel lists, which support grammatical clarity."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 1,\n  \"rationale\": \"The essay is grammatically accurate, syntactically controlled, and clear. Word choice is precise and appropriate, with no material errors in agreement, punctuation, tense, or sentence structure. Any remaining choices are stylistic rather than defective.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists\",\n    \"If annual operating costs exceed the budget the council can reliably fund\",\n    \"More facilities are justified when evidence shows unmet local demand\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear conditional structure and parallel lists, which support grammatical clarity.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.85,
+            "rationale": "The essay has a clear conditional thesis and organized paragraph roles: benefit, cost, alternatives, and conclusion. Transitions are smooth, and the conclusion restates the decision criteria. The main limitation is that the body paragraphs do not explicitly map to the thesis’s three gap categories—unsafe, unaffordable, or too far—and the survey point appears only near the end, making the progression slightly less tightly controlled.",
+            "evidence": [
+              "A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents.",
+              "The main concern is cost.",
+              "More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost."
+            ],
+            "suggestions": [
+              "Make each body paragraph explicitly address one part of the thesis, such as unsafe provision, affordability, or distance.",
+              "Move the survey and consultation point earlier, or develop it in a dedicated paragraph, so evidence-gathering supports the argument before the conclusion.",
+              "Add a stronger transition from cost to alternatives, for example: 'If long-term funding is uncertain, lower-cost alternatives may be preferable.'"
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay has a clear conditional thesis and organized paragraph roles: benefit, cost, alternatives, and conclusion. Transitions are smooth, and the conclusion restates the decision criteria. The main limitation is that the body paragraphs do not explicitly map to the thesis’s three gap categories—unsafe, unaffordable, or too far—and the survey point appears only near the end, making the progression slightly less tightly controlled.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents.\",\n    \"The main concern is cost.\",\n    \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"\n  ],\n  \"suggestions\": [\n    \"Make each body paragraph explicitly address one part of the thesis, such as unsafe provision, affordability, or distance.\",\n    \"Move the survey and consultation point earlier, or develop it in a dedicated paragraph, so evidence-gathering supports the argument before the conclusion.\",\n    \"Add a stronger transition from cost to alternatives, for example: 'If long-term funding is uncertain, lower-cost alternatives may be preferable.'\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 2,
+          "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+          "dimension": "depth",
+          "status": "ok",
+          "judgment": {
+            "dimension": "depth",
+            "score": 0.7,
+            "rationale": "The essay develops a clear conditional argument and identifies several causal mechanisms: facilities can improve accessibility and convenience, but long-term costs can reduce hours or quality. It also includes relevant counterarguments and limitations, especially around operating costs, alternatives, and survey bias. However, depth is limited by the absence of task-specific evidence: the example is hypothetical, and there is no local data on demand, affordability, safety, distance, usage projections, or maintenance budgets. The essay therefore explains the logic well but does not fully ground the claim in concrete evidence or a specific municipal context.",
+            "evidence": [
+              "A municipality should provide more such facilities only where a documented gap exists",
+              "in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs",
+              "survey respondents may not represent harder-to-reach groups"
+            ],
+            "suggestions": [
+              "Add specific local indicators, such as distance to existing facilities, safety complaints, affordability barriers, or participation rates, to support the claimed gap.",
+              "Include a more concrete cost comparison, such as estimated construction, operating, and maintenance costs versus projected usage or community need.",
+              "Strengthen the alternatives analysis by comparing a new hall, upgraded parks, and school partnerships using explicit criteria like cost, accessibility, supervision, and year-round usability."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.7,\n  \"rationale\": \"The essay develops a clear conditional argument and identifies several causal mechanisms: facilities can improve accessibility and convenience, but long-term costs can reduce hours or quality. It also includes relevant counterarguments and limitations, especially around operating costs, alternatives, and survey bias. However, depth is limited by the absence of task-specific evidence: the example is hypothetical, and there is no local data on demand, affordability, safety, distance, usage projections, or maintenance budgets. The essay therefore explains the logic well but does not fully ground the claim in concrete evidence or a specific municipal context.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists\",\n    \"in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs\",\n    \"survey respondents may not represent harder-to-reach groups\"\n  ],\n  \"suggestions\": [\n    \"Add specific local indicators, such as distance to existing facilities, safety complaints, affordability barriers, or participation rates, to support the claimed gap.\",\n    \"Include a more concrete cost comparison, such as estimated construction, operating, and maintenance costs versus projected usage or community need.\",\n    \"Strengthen the alternatives analysis by comparing a new hall, upgraded parks, and school partnerships using explicit criteria like cost, accessibility, supervision, and year-round usability.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        }
+      ],
+      "final_score": 0.8500000000000001,
+      "feedback": "[{\"dimension\": \"depth\", \"score\": 0.7, \"rationale\": \"The essay develops a clear conditional argument and identifies several causal mechanisms: facilities can improve accessibility and convenience, but long-term costs can reduce hours or quality. It also includes relevant counterarguments and limitations, especially around operating costs, alternatives, and survey bias. However, depth is limited by the absence of task-specific evidence: the example is hypothetical, and there is no local data on demand, affordability, safety, distance, usage projections, or maintenance budgets. The essay therefore explains the logic well but does not fully ground the claim in concrete evidence or a specific municipal context.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists\", \"in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs\", \"survey respondents may not represent harder-to-reach groups\"], \"suggestions\": [\"Add specific local indicators, such as distance to existing facilities, safety complaints, affordability barriers, or participation rates, to support the claimed gap.\", \"Include a more concrete cost comparison, such as estimated construction, operating, and maintenance costs versus projected usage or community need.\", \"Strengthen the alternatives analysis by comparing a new hall, upgraded parks, and school partnerships using explicit criteria like cost, accessibility, supervision, and year-round usability.\"]}, {\"dimension\": \"structure\", \"score\": 0.85, \"rationale\": \"The essay has a clear conditional thesis and organized paragraph roles: benefit, cost, alternatives, and conclusion. Transitions are smooth, and the conclusion restates the decision criteria. The main limitation is that the body paragraphs do not explicitly map to the thesis’s three gap categories—unsafe, unaffordable, or too far—and the survey point appears only near the end, making the progression slightly less tightly controlled.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents.\", \"The main concern is cost.\", \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"], \"suggestions\": [\"Make each body paragraph explicitly address one part of the thesis, such as unsafe provision, affordability, or distance.\", \"Move the survey and consultation point earlier, or develop it in a dedicated paragraph, so evidence-gathering supports the argument before the conclusion.\", \"Add a stronger transition from cost to alternatives, for example: 'If long-term funding is uncertain, lower-cost alternatives may be preferable.'\"]}, {\"dimension\": \"relevance\", \"score\": 0.9, \"rationale\": \"The essay remains tightly focused on the question of whether a municipality should provide more community sports facilities. It does not drift into generic discussion of exercise or community life; instead, it frames a conditional answer: more facilities are appropriate only when there is a documented gap in safety, affordability, or access. The discussion of accessibility, cost, alternatives, and evidence keeps the response aligned with the essential municipal decision-making question. The main limitation is that it could more explicitly define what “more” means relative to current provision, such as additional sites, expanded hours, or upgrades to existing facilities.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists\", \"The main concern is cost.\", \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"], \"suggestions\": [\"Preserve the conditional, evidence-based framework, as it directly answers the topic rather than giving a generic opinion.\", \"Add one sentence clarifying what “more” means in municipal terms: new facilities, expanded hours, or improved existing sites.\", \"Briefly compare the option of “more” against maintaining or upgrading current facilities to sharpen the relevance to municipal choice.\"]}, {\"dimension\": \"grammar\", \"score\": 1.0, \"rationale\": \"The essay is grammatically accurate, syntactically controlled, and clear. Word choice is precise and appropriate, with no material errors in agreement, punctuation, tense, or sentence structure. Any remaining choices are stylistic rather than defective.\", \"evidence\": [\"A municipality should provide more such facilities only where a documented gap exists\", \"If annual operating costs exceed the budget the council can reliably fund\", \"More facilities are justified when evidence shows unmet local demand\"], \"suggestions\": [\"Preserve the clear conditional structure and parallel lists, which support grammatical clarity.\"]}]",
+      "exit_reason": "max_rounds"
+    }
+  ],
+  "generation_attempts": [
+    {
+      "attempt": 1,
+      "status": "ok",
+      "raw_response": "Community sports facilities can make exercise more convenient and help residents meet one another. A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents. In neighborhoods with few safe outdoor spaces, a public facility can fill that gap, but the council must also compare realistic alternatives before spending public money.\n\nOne benefit is accessibility. Private gyms may be expensive, while a public facility can offer lower-cost classes, open hours, and activities for different age groups. For example, in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs, giving young people a supervised place to spend time. Good lighting, accessible entrances, and reliable transport would make the space usable for families, older residents, and beginners rather than only experienced athletes.\n\nThe main concern is cost. Construction is only the beginning, because maintenance, staffing, cleaning, utilities, and repairs continue for many years. If annual operating costs exceed the budget the council can reliably fund, the building may open with reduced hours or closed rooms. A new sports hall may therefore be justified only if the municipality can show that long-term funding is available and that the facility will serve enough users to make it worthwhile. Partnerships with local clubs or schools might help, but responsibilities for upkeep, insurance, and scheduling would need to be clear.\n\nThere are alternatives that may be more appropriate in some areas. Upgraded parks with courts, walking routes, and seating can provide informal activity at lower cost, but they may lack weather protection and supervision. School partnerships can extend use of existing facilities after hours, yet they depend on school availability and may not serve adults as well. A council should compare these options against a new hall by asking whether current provision is adequate, whether affordability is a barrier, and whether projected usage supports a larger commitment.\n\nA community survey can help identify demand, but survey respondents may not represent harder-to-reach groups, so the council should also speak directly with residents, local businesses, and youth leaders. More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost. Under those conditions, a well-planned facility is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+      "error": null,
+      "http_status": null,
+      "timeout_phase": null,
+      "connection_cause": null,
+      "provider_code": null,
+      "provider_reason": null,
+      "response_format": null,
+      "retryable": null,
+      "hint": null
+    }
+  ],
+  "generation_history": [
+    {
+      "round_id": 2,
+      "is_rewrite": true,
+      "feedback_used": "[{\"dimension\": \"depth\", \"score\": 0.5, \"rationale\": \"The essay shows some causal reasoning: facilities may increase accessibility, reduce cost barriers, and support social interaction, while poor budgeting may lead to reduced hours. It also includes limitations, such as long-term maintenance costs and survey bias. However, the analysis remains generic and lacks task-level specificity. There are no concrete examples of neighborhoods, facility types, costs, usage patterns, or local constraints. Counterarguments are present but not deeply developed, and the causal mechanisms are asserted rather than supported with evidence or detailed explanation.\", \"evidence\": [\"Community sports facilities can make exercise more convenient and help residents meet one another.\", \"Construction is only the beginning, since maintenance, staffing, cleaning, and repairs continue for many years.\", \"A community survey could provide useful information, but people who answer surveys may not represent everybody\"], \"suggestions\": [\"Add a specific local example, such as a neighborhood with few safe outdoor spaces or high gym costs, to ground the causal claim.\", \"Develop the cost argument with a realistic breakdown, such as estimated operating costs versus available budget, to show how maintenance affects service hours.\", \"Compare at least two alternatives more concretely, such as a new sports hall versus upgraded parks or school partnerships, including likely benefits and limitations.\"]}, {\"dimension\": \"structure\", \"score\": 0.8, \"rationale\": \"The essay has a clear, qualified thesis and a coherent progression: introduction, benefit, cost concern, alternatives, and conclusion. Paragraph roles are mostly distinct, and transitions such as 'One benefit' and 'The main concern' guide the reader. The structure is effective, but the thesis is somewhat hedged and the alternatives paragraph slightly broadens the focus without fully tying back to the central question of whether more facilities are needed.\", \"evidence\": [\"A municipality should consider providing more facilities, especially in neighborhoods where there are few safe and affordable places to be active.\", \"The main concern is cost.\", \"There are other ways to support activity.\"], \"suggestions\": [\"Make the thesis more decisive, e.g., state that the municipality should provide more facilities only where a documented gap exists.\", \"Add a sentence in the alternatives paragraph explaining how non-facility options complement or substitute for new facilities.\", \"In the conclusion, connect the recommendation directly to the thesis by restating the conditions under which more facilities are justified.\"]}, {\"dimension\": \"relevance\", \"score\": 0.85, \"rationale\": \"The essay stays closely aligned with the topic and directly addresses whether a municipality should provide more community sports facilities. It considers the main question through accessibility benefits, public cost concerns, alternative ways to support activity, and a conditional recommendation. Its main limitation is that the answer remains cautious and general; it does not more explicitly establish when the municipality should affirmatively provide more facilities rather than merely consider them.\", \"evidence\": [\"A municipality should consider providing more facilities\", \"The main concern is cost.\", \"More facilities can be worthwhile if they address a real gap and can be maintained fairly.\"], \"suggestions\": [\"State the position more clearly, such as recommending more facilities only where evidence shows unmet local demand.\", \"Add a specific municipal decision test, such as comparing current provision, affordability, and projected usage before approving new facilities.\", \"Connect the alternative options more explicitly to cases where building more facilities would not be the best response.\"]}, {\"dimension\": \"grammar\", \"score\": 0.95, \"rationale\": \"The essay is grammatically clean, with accurate syntax, punctuation, and word choice. Clarity is strong throughout, and there are no material errors. The only minor limitation is slight ambiguity in the phrase “maintained fairly,” which could be read as “in a fair manner” rather than “sustainably” or “at acceptable cost.” Otherwise, sentence structure is controlled and the writing is precise.\", \"evidence\": [\"can be maintained fairly\", \"less visible groups\", \"A well-planned service is more valuable than a large building that attracts attention but remains difficult for many residents to use.\"], \"suggestions\": [\"Replace “maintained fairly” with “maintained sustainably” or “maintained at acceptable cost” for clearer meaning.\", \"Consider “harder-to-reach groups” instead of “less visible groups” if the intended meaning is groups that are underrepresented in surveys.\", \"Preserve the concise syntax, parallel structures, and restrained word choice, which support clarity without verbosity.\"]}]",
+      "input_essay_hash": "4c9e57e703e3679fa876eb6907025e7b649ba2a24535b8aa0561113452f3f792",
+      "output_essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+      "attempts": [
+        {
+          "attempt": 1,
+          "status": "ok",
+          "raw_response": "Community sports facilities can make exercise more convenient and help residents meet one another. A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents. In neighborhoods with few safe outdoor spaces, a public facility can fill that gap, but the council must also compare realistic alternatives before spending public money.\n\nOne benefit is accessibility. Private gyms may be expensive, while a public facility can offer lower-cost classes, open hours, and activities for different age groups. For example, in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs, giving young people a supervised place to spend time. Good lighting, accessible entrances, and reliable transport would make the space usable for families, older residents, and beginners rather than only experienced athletes.\n\nThe main concern is cost. Construction is only the beginning, because maintenance, staffing, cleaning, utilities, and repairs continue for many years. If annual operating costs exceed the budget the council can reliably fund, the building may open with reduced hours or closed rooms. A new sports hall may therefore be justified only if the municipality can show that long-term funding is available and that the facility will serve enough users to make it worthwhile. Partnerships with local clubs or schools might help, but responsibilities for upkeep, insurance, and scheduling would need to be clear.\n\nThere are alternatives that may be more appropriate in some areas. Upgraded parks with courts, walking routes, and seating can provide informal activity at lower cost, but they may lack weather protection and supervision. School partnerships can extend use of existing facilities after hours, yet they depend on school availability and may not serve adults as well. A council should compare these options against a new hall by asking whether current provision is adequate, whether affordability is a barrier, and whether projected usage supports a larger commitment.\n\nA community survey can help identify demand, but survey respondents may not represent harder-to-reach groups, so the council should also speak directly with residents, local businesses, and youth leaders. More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost. Under those conditions, a well-planned facility is more valuable than a large building that attracts attention but remains difficult for many residents to use.",
+          "error": null,
+          "http_status": null,
+          "timeout_phase": null,
+          "connection_cause": null,
+          "provider_code": null,
+          "provider_reason": null,
+          "response_format": null,
+          "retryable": null,
+          "hint": null
+        }
+      ],
+      "status": "ok"
+    }
+  ],
+  "rewrites_completed": 1,
+  "relevance_result": {
+    "round_id": 2,
+    "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.9,
+      "rationale": "The essay remains tightly focused on the question of whether a municipality should provide more community sports facilities. It does not drift into generic discussion of exercise or community life; instead, it frames a conditional answer: more facilities are appropriate only when there is a documented gap in safety, affordability, or access. The discussion of accessibility, cost, alternatives, and evidence keeps the response aligned with the essential municipal decision-making question. The main limitation is that it could more explicitly define what “more” means relative to current provision, such as additional sites, expanded hours, or upgrades to existing facilities.",
+      "evidence": [
+        "A municipality should provide more such facilities only where a documented gap exists",
+        "The main concern is cost.",
+        "More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost."
+      ],
+      "suggestions": [
+        "Preserve the conditional, evidence-based framework, as it directly answers the topic rather than giving a generic opinion.",
+        "Add one sentence clarifying what “more” means in municipal terms: new facilities, expanded hours, or improved existing sites.",
+        "Briefly compare the option of “more” against maintaining or upgrading current facilities to sharpen the relevance to municipal choice."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay remains tightly focused on the question of whether a municipality should provide more community sports facilities. It does not drift into generic discussion of exercise or community life; instead, it frames a conditional answer: more facilities are appropriate only when there is a documented gap in safety, affordability, or access. The discussion of accessibility, cost, alternatives, and evidence keeps the response aligned with the essential municipal decision-making question. The main limitation is that it could more explicitly define what “more” means relative to current provision, such as additional sites, expanded hours, or upgrades to existing facilities.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists\",\n    \"The main concern is cost.\",\n    \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"\n  ],\n  \"suggestions\": [\n    \"Preserve the conditional, evidence-based framework, as it directly answers the topic rather than giving a generic opinion.\",\n    \"Add one sentence clarifying what “more” means in municipal terms: new facilities, expanded hours, or improved existing sites.\",\n    \"Briefly compare the option of “more” against maintaining or upgrading current facilities to sharpen the relevance to municipal choice.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 2,
+    "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+    "dimension": "grammar",
+    "status": "ok",
+    "judgment": {
+      "dimension": "grammar",
+      "score": 1.0,
+      "rationale": "The essay is grammatically accurate, syntactically controlled, and clear. Word choice is precise and appropriate, with no material errors in agreement, punctuation, tense, or sentence structure. Any remaining choices are stylistic rather than defective.",
+      "evidence": [
+        "A municipality should provide more such facilities only where a documented gap exists",
+        "If annual operating costs exceed the budget the council can reliably fund",
+        "More facilities are justified when evidence shows unmet local demand"
+      ],
+      "suggestions": [
+        "Preserve the clear conditional structure and parallel lists, which support grammatical clarity."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 1,\n  \"rationale\": \"The essay is grammatically accurate, syntactically controlled, and clear. Word choice is precise and appropriate, with no material errors in agreement, punctuation, tense, or sentence structure. Any remaining choices are stylistic rather than defective.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists\",\n    \"If annual operating costs exceed the budget the council can reliably fund\",\n    \"More facilities are justified when evidence shows unmet local demand\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear conditional structure and parallel lists, which support grammatical clarity.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 2,
+    "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.85,
+      "rationale": "The essay has a clear conditional thesis and organized paragraph roles: benefit, cost, alternatives, and conclusion. Transitions are smooth, and the conclusion restates the decision criteria. The main limitation is that the body paragraphs do not explicitly map to the thesis’s three gap categories—unsafe, unaffordable, or too far—and the survey point appears only near the end, making the progression slightly less tightly controlled.",
+      "evidence": [
+        "A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents.",
+        "The main concern is cost.",
+        "More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost."
+      ],
+      "suggestions": [
+        "Make each body paragraph explicitly address one part of the thesis, such as unsafe provision, affordability, or distance.",
+        "Move the survey and consultation point earlier, or develop it in a dedicated paragraph, so evidence-gathering supports the argument before the conclusion.",
+        "Add a stronger transition from cost to alternatives, for example: 'If long-term funding is uncertain, lower-cost alternatives may be preferable.'"
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.85,\n  \"rationale\": \"The essay has a clear conditional thesis and organized paragraph roles: benefit, cost, alternatives, and conclusion. Transitions are smooth, and the conclusion restates the decision criteria. The main limitation is that the body paragraphs do not explicitly map to the thesis’s three gap categories—unsafe, unaffordable, or too far—and the survey point appears only near the end, making the progression slightly less tightly controlled.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists: where existing provision is unsafe, unaffordable, or too far for many residents.\",\n    \"The main concern is cost.\",\n    \"More facilities are justified when evidence shows unmet local demand and when the municipality can maintain them at acceptable cost.\"\n  ],\n  \"suggestions\": [\n    \"Make each body paragraph explicitly address one part of the thesis, such as unsafe provision, affordability, or distance.\",\n    \"Move the survey and consultation point earlier, or develop it in a dedicated paragraph, so evidence-gathering supports the argument before the conclusion.\",\n    \"Add a stronger transition from cost to alternatives, for example: 'If long-term funding is uncertain, lower-cost alternatives may be preferable.'\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 2,
+    "essay_hash": "1367b04586b17187a9b39319549966487ffb02db8712c8583ef217468c37016d",
+    "dimension": "depth",
+    "status": "ok",
+    "judgment": {
+      "dimension": "depth",
+      "score": 0.7,
+      "rationale": "The essay develops a clear conditional argument and identifies several causal mechanisms: facilities can improve accessibility and convenience, but long-term costs can reduce hours or quality. It also includes relevant counterarguments and limitations, especially around operating costs, alternatives, and survey bias. However, depth is limited by the absence of task-specific evidence: the example is hypothetical, and there is no local data on demand, affordability, safety, distance, usage projections, or maintenance budgets. The essay therefore explains the logic well but does not fully ground the claim in concrete evidence or a specific municipal context.",
+      "evidence": [
+        "A municipality should provide more such facilities only where a documented gap exists",
+        "in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs",
+        "survey respondents may not represent harder-to-reach groups"
+      ],
+      "suggestions": [
+        "Add specific local indicators, such as distance to existing facilities, safety complaints, affordability barriers, or participation rates, to support the claimed gap.",
+        "Include a more concrete cost comparison, such as estimated construction, operating, and maintenance costs versus projected usage or community need.",
+        "Strengthen the alternatives analysis by comparing a new hall, upgraded parks, and school partnerships using explicit criteria like cost, accessibility, supervision, and year-round usability."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.7,\n  \"rationale\": \"The essay develops a clear conditional argument and identifies several causal mechanisms: facilities can improve accessibility and convenience, but long-term costs can reduce hours or quality. It also includes relevant counterarguments and limitations, especially around operating costs, alternatives, and survey bias. However, depth is limited by the absence of task-specific evidence: the example is hypothetical, and there is no local data on demand, affordability, safety, distance, usage projections, or maintenance budgets. The essay therefore explains the logic well but does not fully ground the claim in concrete evidence or a specific municipal context.\",\n  \"evidence\": [\n    \"A municipality should provide more such facilities only where a documented gap exists\",\n    \"in a dense low-income neighborhood with only a fenced playground and no public courts, a multi-use sports hall could host basketball, badminton, and youth clubs\",\n    \"survey respondents may not represent harder-to-reach groups\"\n  ],\n  \"suggestions\": [\n    \"Add specific local indicators, such as distance to existing facilities, safety complaints, affordability barriers, or participation rates, to support the claimed gap.\",\n    \"Include a more concrete cost comparison, such as estimated construction, operating, and maintenance costs versus projected usage or community need.\",\n    \"Strengthen the alternatives analysis by comparing a new hall, upgraded parks, and school partnerships using explicit criteria like cost, accessibility, supervision, and year-round usability.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "mode": "optimize",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "all",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T090300-459c41999d1c",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "d602ed5362ec47e197e149d1f22c3f82",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7150.196136,
+      "started_unix": 1794819666.3617222,
+      "prompt_sha256": "73b5d936568b18339cec206eff3730d57126f56a8b57f4bbc0dd43891174d8bd",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 15.106128100000205,
+      "ended_monotonic": 7165.3022652,
+      "input_tokens": 622,
+      "output_tokens": 750,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "574a8d5c5f024339a9e5d6aef5f78542",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7150.1971122,
+      "started_unix": 1794819666.3626938,
+      "prompt_sha256": "95debfbc4fea763552d80bd5394933ef0bc32c5700cbeead32a238ee2225c020",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 21.920246699999552,
+      "ended_monotonic": 7172.1173601,
+      "input_tokens": 611,
+      "output_tokens": 1192,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "ec699a95e6664be696f5f2e17436565c",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7150.1981354,
+      "started_unix": 1794819666.3637168,
+      "prompt_sha256": "35ebafd75837ed9363bbcd099af02162bf8b374b7c66acd92531017f7e3f36b4",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 15.019870000000083,
+      "ended_monotonic": 7165.2180069,
+      "input_tokens": 611,
+      "output_tokens": 709,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "9745e3e078e647a0a5e45d3fc7c56fad",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7150.1998171,
+      "started_unix": 1794819666.3653975,
+      "prompt_sha256": "eec4361eadecec3e6874a8956d1a4f1a54421494083418393f7a8fa322a3670d",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 32.11349230000087,
+      "ended_monotonic": 7182.3133108,
+      "input_tokens": 612,
+      "output_tokens": 1313,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "d171c15523994e768cd375e479419796",
+      "role": "generator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7182.3239437,
+      "started_unix": 1794819698.489541,
+      "prompt_sha256": "274f2d34115e4a8a525fd32dc21bc08fcc6360858c0bfc7353532a1bccfbac89",
+      "round_id": 2,
+      "stage": "rewrite",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 53.8099358999998,
+      "ended_monotonic": 7236.1338814,
+      "input_tokens": 1460,
+      "output_tokens": 3028,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "0350f8579e0742729ec7cbcf5c66125b",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7236.1407298,
+      "started_unix": 1794819752.3063176,
+      "prompt_sha256": "2fbe170494b52dd9ad7016326cd60bfa8d0f722bc51a82c4f5e0eef1ecb7c334",
+      "round_id": 2,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 19.68277279999984,
+      "ended_monotonic": 7255.8235039,
+      "input_tokens": 743,
+      "output_tokens": 889,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "e5e86ccce155443291270bfb1cb79ce0",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7236.141336,
+      "started_unix": 1794819752.3069193,
+      "prompt_sha256": "cc7e6094f083ef0fcdac97d0caef8bd4c9154d29a8c335026772b4c4582f59e3",
+      "round_id": 2,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 27.895852200000263,
+      "ended_monotonic": 7264.0371895,
+      "input_tokens": 732,
+      "output_tokens": 1389,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "408be749ef014f7ba7dd5e7e2f15eda2",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7236.1419859,
+      "started_unix": 1794819752.307567,
+      "prompt_sha256": "f74fb17be63e2562ed5398abe7ac69777ec21886243945f1ba7dee587a28436b",
+      "round_id": 2,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 22.33731110000008,
+      "ended_monotonic": 7258.4792989,
+      "input_tokens": 733,
+      "output_tokens": 847,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "8b2430720891423da56f6483e07570cb",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 7236.1427508,
+      "started_unix": 1794819752.3083303,
+      "prompt_sha256": "d6f6e4e83e2a0ae45ddd1b397233eadd9bd4b7a22527c520699da2c964d82b83",
+      "round_id": 2,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 22.352668999999878,
+      "ended_monotonic": 7258.4954212,
+      "input_tokens": 732,
+      "output_tokens": 826,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 9,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 6856,
+    "observed_output_tokens": 10943,
+    "total_tokens": 17799,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 113.86409580000054,
+    "parse_failures": 0
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000027",
+    "sample_id": "explore-08",
+    "repeat": 0,
+    "variant": "all_feedback"
+  }
+}

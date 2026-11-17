@@ -1,0 +1,437 @@
+{
+  "topic": "When is remote work suitable for a team?",
+  "essay": "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs, rather than as a reward or a universal productivity strategy. A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool. A team handling rapidly changing physical operations may face quite different constraints. The useful question is which work can move, and what support makes that move effective.\n\nFor example, an experienced analyst may complete a defined report from home while collaborating through written comments. A newly hired analyst doing the same nominal job may need frequent guidance to understand undocumented assumptions. Requiring both employees to follow an identical schedule can overlook this difference. Structured onboarding, examples of good work, and a dependable way to ask questions may matter more than the location policy alone.\n\nRemote arrangements also change who bears costs. An employer may save office space while an employee pays for heating, equipment, or a quieter room. Others may gain access because commuting is difficult. These effects cannot be summarized by asking whether employees prefer working from home. A fair evaluation should consider accessibility, home conditions, promotion opportunities, and whether people feel pressure to remain constantly available.\n\nThere are limits to flexibility. Some discussions benefit from shared context, and poor written communication can turn a small misunderstanding into repeated rework. But requiring office attendance does not automatically fix those problems. Teams should identify the decisions that need synchronous discussion and reserve shared time for them, while protecting time for focused work.\n\nA sensible pilot would define expected outcomes, compare similar tasks over time, and examine delays, quality, staff retention, and uneven effects across roles. It should allow revision when conditions change. Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees. That conditional conclusion is more useful than treating either home or office attendance as proof of commitment.",
+  "current_round": 1,
+  "feedback": "",
+  "final_score": null,
+  "exit_reason": "evaluation_failed",
+  "history": [
+    {
+      "round_id": 1,
+      "essay": "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs, rather than as a reward or a universal productivity strategy. A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool. A team handling rapidly changing physical operations may face quite different constraints. The useful question is which work can move, and what support makes that move effective.\n\nFor example, an experienced analyst may complete a defined report from home while collaborating through written comments. A newly hired analyst doing the same nominal job may need frequent guidance to understand undocumented assumptions. Requiring both employees to follow an identical schedule can overlook this difference. Structured onboarding, examples of good work, and a dependable way to ask questions may matter more than the location policy alone.\n\nRemote arrangements also change who bears costs. An employer may save office space while an employee pays for heating, equipment, or a quieter room. Others may gain access because commuting is difficult. These effects cannot be summarized by asking whether employees prefer working from home. A fair evaluation should consider accessibility, home conditions, promotion opportunities, and whether people feel pressure to remain constantly available.\n\nThere are limits to flexibility. Some discussions benefit from shared context, and poor written communication can turn a small misunderstanding into repeated rework. But requiring office attendance does not automatically fix those problems. Teams should identify the decisions that need synchronous discussion and reserve shared time for them, while protecting time for focused work.\n\nA sensible pilot would define expected outcomes, compare similar tasks over time, and examine delays, quality, staff retention, and uneven effects across roles. It should allow revision when conditions change. Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees. That conditional conclusion is more useful than treating either home or office attendance as proof of commitment.",
+      "results": [
+        {
+          "round_id": 1,
+          "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+          "dimension": "relevance",
+          "status": "ok",
+          "judgment": {
+            "dimension": "relevance",
+            "score": 0.9,
+            "rationale": "The essay stays closely aligned with the topic and directly addresses when remote work is suitable for a team. It frames suitability around task structure, employee experience, coordination costs, and support mechanisms, and ends with a clear conditional answer. The main limitation is that it could make the team-level decision criteria slightly more explicit, such as communication norms, management style, and required tools, but the essential question is well covered.",
+            "evidence": [
+              "Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.",
+              "The useful question is which work can move, and what support makes that move effective.",
+              "A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool."
+            ],
+            "suggestions": [
+              "Add a compact decision rule or checklist for team suitability, such as task autonomy, communication clarity, and supervision capacity.",
+              "Name specific team-level factors that make remote work less suitable, such as heavy synchronous coordination or weak documentation.",
+              "Preserve the balanced conditional conclusion, which is the strongest part of the essay for this criterion."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay stays closely aligned with the topic and directly addresses when remote work is suitable for a team. It frames suitability around task structure, employee experience, coordination costs, and support mechanisms, and ends with a clear conditional answer. The main limitation is that it could make the team-level decision criteria slightly more explicit, such as communication norms, management style, and required tools, but the essential question is well covered.\",\n  \"evidence\": [\n    \"Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.\",\n    \"The useful question is which work can move, and what support makes that move effective.\",\n    \"A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool.\"\n  ],\n  \"suggestions\": [\n    \"Add a compact decision rule or checklist for team suitability, such as task autonomy, communication clarity, and supervision capacity.\",\n    \"Name specific team-level factors that make remote work less suitable, such as heavy synchronous coordination or weak documentation.\",\n    \"Preserve the balanced conditional conclusion, which is the strongest part of the essay for this criterion.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+          "dimension": "grammar",
+          "status": "ok",
+          "judgment": {
+            "dimension": "grammar",
+            "score": 0.95,
+            "rationale": "The essay is grammatically sound, with clear syntax, precise word choice, and strong clarity. There are no material errors in agreement, tense, punctuation, or sentence structure. The only minor limitation is a slight collocation issue in the opening phrase, where “arrangement between tasks” is conceptually awkward because tasks are not participants in an arrangement; this is a precision/style issue rather than a grammatical defect. Overall, the prose is effective and polished.",
+            "evidence": [
+              "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs",
+              "A team that produces independently reviewable work may benefit from fewer interruptions",
+              "Teams should identify the decisions that need synchronous discussion and reserve shared time for them"
+            ],
+            "suggestions": [
+              "Preserve the clear, concise syntax and precise terminology such as “independently reviewable work” and “synchronous discussion.”",
+              "Consider revising “arrangement between tasks, people, and coordination needs” to “arrangement involving tasks, people, and coordination needs” for tighter collocation.",
+              "Maintain the balanced use of commas and subordinate clauses, which supports readability without creating grammatical complexity."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.95,\n  \"rationale\": \"The essay is grammatically sound, with clear syntax, precise word choice, and strong clarity. There are no material errors in agreement, tense, punctuation, or sentence structure. The only minor limitation is a slight collocation issue in the opening phrase, where “arrangement between tasks” is conceptually awkward because tasks are not participants in an arrangement; this is a precision/style issue rather than a grammatical defect. Overall, the prose is effective and polished.\",\n  \"evidence\": [\n    \"Remote work should be evaluated as an arrangement between tasks, people, and coordination needs\",\n    \"A team that produces independently reviewable work may benefit from fewer interruptions\",\n    \"Teams should identify the decisions that need synchronous discussion and reserve shared time for them\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear, concise syntax and precise terminology such as “independently reviewable work” and “synchronous discussion.”\",\n    \"Consider revising “arrangement between tasks, people, and coordination needs” to “arrangement involving tasks, people, and coordination needs” for tighter collocation.\",\n    \"Maintain the balanced use of commas and subordinate clauses, which supports readability without creating grammatical complexity.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+          "dimension": "structure",
+          "status": "ok",
+          "judgment": {
+            "dimension": "structure",
+            "score": 0.9,
+            "rationale": "The essay has a clear, focused thesis and a logical progression from criteria to example, costs, limits, and implementation. Paragraph roles are distinct: the first establishes the evaluative framework, the second applies it to a concrete case, the third expands to fairness and burden, the fourth acknowledges limits, and the final paragraph offers a pilot-based conclusion. Transitions are generally effective, especially “For example” and “Remote arrangements also change who bears costs.” The conclusion restates the conditional standard rather than introducing a new claim. A minor limitation is that the link between the cost/fairness paragraph and the final “coordination costs” conclusion could be made slightly more explicit.",
+            "evidence": [
+              "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs",
+              "For example, an experienced analyst may complete a defined report from home",
+              "Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees."
+            ],
+            "suggestions": [
+              "Add a brief bridging sentence before the final paragraph connecting fairness, costs, and coordination costs to the pilot design.",
+              "Make the transition from limits to pilot slightly more explicit, such as noting that the pilot should test the limits identified in the previous paragraph.",
+              "Preserve the current five-paragraph structure and the conditional conclusion, which are strong organizational choices."
+            ]
+          },
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "ok",
+              "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay has a clear, focused thesis and a logical progression from criteria to example, costs, limits, and implementation. Paragraph roles are distinct: the first establishes the evaluative framework, the second applies it to a concrete case, the third expands to fairness and burden, the fourth acknowledges limits, and the final paragraph offers a pilot-based conclusion. Transitions are generally effective, especially “For example” and “Remote arrangements also change who bears costs.” The conclusion restates the conditional standard rather than introducing a new claim. A minor limitation is that the link between the cost/fairness paragraph and the final “coordination costs” conclusion could be made slightly more explicit.\",\n  \"evidence\": [\n    \"Remote work should be evaluated as an arrangement between tasks, people, and coordination needs\",\n    \"For example, an experienced analyst may complete a defined report from home\",\n    \"Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.\"\n  ],\n  \"suggestions\": [\n    \"Add a brief bridging sentence before the final paragraph connecting fairness, costs, and coordination costs to the pilot design.\",\n    \"Make the transition from limits to pilot slightly more explicit, such as noting that the pilot should test the limits identified in the previous paragraph.\",\n    \"Preserve the current five-paragraph structure and the conditional conclusion, which are strong organizational choices.\"\n  ]\n}",
+              "error": null,
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": null
+            }
+          ]
+        },
+        {
+          "round_id": 1,
+          "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+          "dimension": "depth",
+          "status": "parse_error",
+          "judgment": null,
+          "attempts": [
+            {
+              "attempt": 1,
+              "status": "parse_error",
+              "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.72,\n  \"rationale\": \"The essay develops a useful causal framework by linking remote work suitability to task reviewability, onboarding needs, coordination costs, and burden distribution. It includes task-level examples and a practical pilot design, showing how location policies can interact with experience, documentation, and communication quality. However, the analysis remains largely assertive rather than evidence-based: it does not cite data, specify measurable thresholds, or deeply model failure mechanisms such as security constraints, trust calibration, or asynchronous escalation delays. The counterargument that office attendance does not automatically fix problems is present but underdeveloped.\",\n  \"evidence\": [\n    \"A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool.\",\n    \"An experienced analyst may complete a defined report from home while collaborating through written comments.\",\n    \"Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.\"\n  ],\n  \"suggestions\": [\n    \"Add concrete coordination mechanisms, such as decision logs, documented assumptions, response-time expectations, and escalation paths for blockers.\",\n    \"Include measurable pilot indicators, e.g., cycle time, rework rate, time-to-resolution, and role-specific retention, to make the evaluation less abstract.\",\n    \"Expand a counterexample where remote work is unsuitable even for reviewable tasks, such as security-sensitive work, weak documentation, or high interdependence.\"\n  ]\n}",
+              "error": "Invalid judgment schema or evidence",
+              "http_status": null,
+              "timeout_phase": null,
+              "connection_cause": null,
+              "provider_code": null,
+              "provider_reason": null,
+              "response_format": null,
+              "retryable": null,
+              "hint": "Check JSON fields, score range, dimension and exact source quotes."
+            }
+          ]
+        }
+      ],
+      "final_score": null,
+      "feedback": "",
+      "exit_reason": "evaluation_failed"
+    }
+  ],
+  "generation_history": [],
+  "rewrites_completed": 0,
+  "relevance_result": {
+    "round_id": 1,
+    "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+    "dimension": "relevance",
+    "status": "ok",
+    "judgment": {
+      "dimension": "relevance",
+      "score": 0.9,
+      "rationale": "The essay stays closely aligned with the topic and directly addresses when remote work is suitable for a team. It frames suitability around task structure, employee experience, coordination costs, and support mechanisms, and ends with a clear conditional answer. The main limitation is that it could make the team-level decision criteria slightly more explicit, such as communication norms, management style, and required tools, but the essential question is well covered.",
+      "evidence": [
+        "Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.",
+        "The useful question is which work can move, and what support makes that move effective.",
+        "A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool."
+      ],
+      "suggestions": [
+        "Add a compact decision rule or checklist for team suitability, such as task autonomy, communication clarity, and supervision capacity.",
+        "Name specific team-level factors that make remote work less suitable, such as heavy synchronous coordination or weak documentation.",
+        "Preserve the balanced conditional conclusion, which is the strongest part of the essay for this criterion."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"relevance\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay stays closely aligned with the topic and directly addresses when remote work is suitable for a team. It frames suitability around task structure, employee experience, coordination costs, and support mechanisms, and ends with a clear conditional answer. The main limitation is that it could make the team-level decision criteria slightly more explicit, such as communication norms, management style, and required tools, but the essential question is well covered.\",\n  \"evidence\": [\n    \"Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.\",\n    \"The useful question is which work can move, and what support makes that move effective.\",\n    \"A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool.\"\n  ],\n  \"suggestions\": [\n    \"Add a compact decision rule or checklist for team suitability, such as task autonomy, communication clarity, and supervision capacity.\",\n    \"Name specific team-level factors that make remote work less suitable, such as heavy synchronous coordination or weak documentation.\",\n    \"Preserve the balanced conditional conclusion, which is the strongest part of the essay for this criterion.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "grammar_result": {
+    "round_id": 1,
+    "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+    "dimension": "grammar",
+    "status": "ok",
+    "judgment": {
+      "dimension": "grammar",
+      "score": 0.95,
+      "rationale": "The essay is grammatically sound, with clear syntax, precise word choice, and strong clarity. There are no material errors in agreement, tense, punctuation, or sentence structure. The only minor limitation is a slight collocation issue in the opening phrase, where “arrangement between tasks” is conceptually awkward because tasks are not participants in an arrangement; this is a precision/style issue rather than a grammatical defect. Overall, the prose is effective and polished.",
+      "evidence": [
+        "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs",
+        "A team that produces independently reviewable work may benefit from fewer interruptions",
+        "Teams should identify the decisions that need synchronous discussion and reserve shared time for them"
+      ],
+      "suggestions": [
+        "Preserve the clear, concise syntax and precise terminology such as “independently reviewable work” and “synchronous discussion.”",
+        "Consider revising “arrangement between tasks, people, and coordination needs” to “arrangement involving tasks, people, and coordination needs” for tighter collocation.",
+        "Maintain the balanced use of commas and subordinate clauses, which supports readability without creating grammatical complexity."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"grammar\",\n  \"score\": 0.95,\n  \"rationale\": \"The essay is grammatically sound, with clear syntax, precise word choice, and strong clarity. There are no material errors in agreement, tense, punctuation, or sentence structure. The only minor limitation is a slight collocation issue in the opening phrase, where “arrangement between tasks” is conceptually awkward because tasks are not participants in an arrangement; this is a precision/style issue rather than a grammatical defect. Overall, the prose is effective and polished.\",\n  \"evidence\": [\n    \"Remote work should be evaluated as an arrangement between tasks, people, and coordination needs\",\n    \"A team that produces independently reviewable work may benefit from fewer interruptions\",\n    \"Teams should identify the decisions that need synchronous discussion and reserve shared time for them\"\n  ],\n  \"suggestions\": [\n    \"Preserve the clear, concise syntax and precise terminology such as “independently reviewable work” and “synchronous discussion.”\",\n    \"Consider revising “arrangement between tasks, people, and coordination needs” to “arrangement involving tasks, people, and coordination needs” for tighter collocation.\",\n    \"Maintain the balanced use of commas and subordinate clauses, which supports readability without creating grammatical complexity.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "structure_result": {
+    "round_id": 1,
+    "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+    "dimension": "structure",
+    "status": "ok",
+    "judgment": {
+      "dimension": "structure",
+      "score": 0.9,
+      "rationale": "The essay has a clear, focused thesis and a logical progression from criteria to example, costs, limits, and implementation. Paragraph roles are distinct: the first establishes the evaluative framework, the second applies it to a concrete case, the third expands to fairness and burden, the fourth acknowledges limits, and the final paragraph offers a pilot-based conclusion. Transitions are generally effective, especially “For example” and “Remote arrangements also change who bears costs.” The conclusion restates the conditional standard rather than introducing a new claim. A minor limitation is that the link between the cost/fairness paragraph and the final “coordination costs” conclusion could be made slightly more explicit.",
+      "evidence": [
+        "Remote work should be evaluated as an arrangement between tasks, people, and coordination needs",
+        "For example, an experienced analyst may complete a defined report from home",
+        "Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees."
+      ],
+      "suggestions": [
+        "Add a brief bridging sentence before the final paragraph connecting fairness, costs, and coordination costs to the pilot design.",
+        "Make the transition from limits to pilot slightly more explicit, such as noting that the pilot should test the limits identified in the previous paragraph.",
+        "Preserve the current five-paragraph structure and the conditional conclusion, which are strong organizational choices."
+      ]
+    },
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "ok",
+        "raw_response": "{\n  \"dimension\": \"structure\",\n  \"score\": 0.9,\n  \"rationale\": \"The essay has a clear, focused thesis and a logical progression from criteria to example, costs, limits, and implementation. Paragraph roles are distinct: the first establishes the evaluative framework, the second applies it to a concrete case, the third expands to fairness and burden, the fourth acknowledges limits, and the final paragraph offers a pilot-based conclusion. Transitions are generally effective, especially “For example” and “Remote arrangements also change who bears costs.” The conclusion restates the conditional standard rather than introducing a new claim. A minor limitation is that the link between the cost/fairness paragraph and the final “coordination costs” conclusion could be made slightly more explicit.\",\n  \"evidence\": [\n    \"Remote work should be evaluated as an arrangement between tasks, people, and coordination needs\",\n    \"For example, an experienced analyst may complete a defined report from home\",\n    \"Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.\"\n  ],\n  \"suggestions\": [\n    \"Add a brief bridging sentence before the final paragraph connecting fairness, costs, and coordination costs to the pilot design.\",\n    \"Make the transition from limits to pilot slightly more explicit, such as noting that the pilot should test the limits identified in the previous paragraph.\",\n    \"Preserve the current five-paragraph structure and the conditional conclusion, which are strong organizational choices.\"\n  ]\n}",
+        "error": null,
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": null
+      }
+    ]
+  },
+  "depth_result": {
+    "round_id": 1,
+    "essay_hash": "c0240899239f40f69c893882f97cdd4681e360743aa63ac96b1619d398c80c74",
+    "dimension": "depth",
+    "status": "parse_error",
+    "judgment": null,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": "parse_error",
+        "raw_response": "{\n  \"dimension\": \"depth\",\n  \"score\": 0.72,\n  \"rationale\": \"The essay develops a useful causal framework by linking remote work suitability to task reviewability, onboarding needs, coordination costs, and burden distribution. It includes task-level examples and a practical pilot design, showing how location policies can interact with experience, documentation, and communication quality. However, the analysis remains largely assertive rather than evidence-based: it does not cite data, specify measurable thresholds, or deeply model failure mechanisms such as security constraints, trust calibration, or asynchronous escalation delays. The counterargument that office attendance does not automatically fix problems is present but underdeveloped.\",\n  \"evidence\": [\n    \"A team that produces independently reviewable work may benefit from fewer interruptions and a wider hiring pool.\",\n    \"An experienced analyst may complete a defined report from home while collaborating through written comments.\",\n    \"Remote work is suitable when its coordination costs can be managed without shifting unreasonable burdens onto employees.\"\n  ],\n  \"suggestions\": [\n    \"Add concrete coordination mechanisms, such as decision logs, documented assumptions, response-time expectations, and escalation paths for blockers.\",\n    \"Include measurable pilot indicators, e.g., cycle time, rework rate, time-to-resolution, and role-specific retention, to make the evaluation less abstract.\",\n    \"Expand a counterexample where remote work is unsuitable even for reviewable tasks, such as security-sensitive work, weak documentation, or high interdependence.\"\n  ]\n}",
+        "error": "Invalid judgment schema or evidence",
+        "http_status": null,
+        "timeout_phase": null,
+        "connection_cause": null,
+        "provider_code": null,
+        "provider_reason": null,
+        "response_format": null,
+        "retryable": null,
+        "hint": "Check JSON fields, score range, dimension and exact source quotes."
+      }
+    ]
+  },
+  "mode": "evaluate",
+  "settings": {
+    "model": "qwen3.8-27b",
+    "evaluator_model": null,
+    "temperature": 0.3,
+    "evaluator_temperature": 0.0,
+    "threshold": 0.85,
+    "min_dimension_score": null,
+    "max_rounds": 2,
+    "max_attempts": 1,
+    "timeout_seconds": 180.0,
+    "retry_delay_seconds": 0.0,
+    "max_output_tokens": 2048,
+    "trust_env": true,
+    "execution": "parallel",
+    "feedback_mode": "all",
+    "stop_policy": "fixed"
+  },
+  "run_id": "20261116T091922-f167c58ba92d",
+  "evidence_type": "live_dual_model_exploration_no_human_validation",
+  "rubric_version": "essayloop-rubric-v3",
+  "calls": [
+    {
+      "call_id": "ed2926a13576478cb93f4553e21870c9",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8211.5562475,
+      "started_unix": 1794820727.7218459,
+      "prompt_sha256": "8209b8a8ca94fb2d1242a082d46c50945b0453d0be35ad2870617d2c38c19ac7",
+      "round_id": 1,
+      "stage": "depth",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 23.8514897999994,
+      "ended_monotonic": 8235.4077437,
+      "input_tokens": 629,
+      "output_tokens": 872,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "3fb59093178e4c9c96b76ccbef9970d1",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8211.5578014,
+      "started_unix": 1794820727.7233865,
+      "prompt_sha256": "d38cb0a74b0fd7e39fadd66732d204dbf805a809598348a781f16a65770717cd",
+      "round_id": 1,
+      "stage": "grammar",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 34.34248139999909,
+      "ended_monotonic": 8245.9002857,
+      "input_tokens": 618,
+      "output_tokens": 1712,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "11d0920083e14744a2e4712861843eee",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8211.5595586,
+      "started_unix": 1794820727.7251425,
+      "prompt_sha256": "a865565474acbd023b6675932cbaeb4ae4924aefdc9d58d2f7793f0abf3a9df5",
+      "round_id": 1,
+      "stage": "relevance",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 22.142803400000048,
+      "ended_monotonic": 8233.7023634,
+      "input_tokens": 618,
+      "output_tokens": 733,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    },
+    {
+      "call_id": "420c15f7c5734c4ea94cbaffd4a0ef1d",
+      "role": "evaluator",
+      "model": "qwen3.8-27b",
+      "started_monotonic": 8211.5625356,
+      "started_unix": 1794820727.728142,
+      "prompt_sha256": "462fc548c36508efad4b52b50a3c022303b9def26963863a644db821950f1864",
+      "round_id": 1,
+      "stage": "structure",
+      "attempt": 1,
+      "status": "ok",
+      "latency_seconds": 16.40220969999973,
+      "ended_monotonic": 8227.9647463,
+      "input_tokens": 619,
+      "output_tokens": 827,
+      "endpoint_host": "dashscope.aliyuncs.com"
+    }
+  ],
+  "telemetry": {
+    "call_count": 4,
+    "provider_failures": 0,
+    "usage_complete": true,
+    "calls_missing_usage": 0,
+    "observed_input_tokens": 2484,
+    "observed_output_tokens": 4144,
+    "total_tokens": 6628,
+    "cost": null,
+    "cost_note": "No price assumed. Use an explicit dated price table for offline cost calculation.",
+    "elapsed_seconds": 34.37221429999954,
+    "parse_failures": 1
+  },
+  "provenance": {
+    "project": "EssayLoop",
+    "python": "3.13.5",
+    "dependencies": {
+      "langgraph": "1.2.20",
+      "pydantic": "2.14.3",
+      "httpx": "0.28.1",
+      "python-dotenv": "1.2.4"
+    },
+    "git_commit": "7c443ae0017579a7a6d394a5735890a8480028ca",
+    "source_sha256": {
+      "src/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "src/ai_judge.py": "51593806880f50e373beb15eaec774a358b29b393e370865f0bde42107be530e",
+      "src/annotation.py": "e085a6dffa9c1743c4412a09214a2528b6fae2e505f817ddd7db0392194e27ab",
+      "src/app.py": "b5fc95d795e601180b94dc1e412f91d49c37b0de3eff47482bcbee9ffee1bac6",
+      "src/artifacts.py": "ae09b585ad19174fb2050f8a9a300811f85134d2bd2ca7a6c789f3a0c9df0aed",
+      "src/client.py": "dab0707a48962d1767810add661301644cc1fd1e70b760c1766fa4668085d7d0",
+      "src/config.py": "ade078b6ef76486b98b8dbf3645ffd961a4e9afaeb7a93b54e218f72ef04d28a",
+      "src/costs.py": "3e377fb760523ab8f120dec3796f9ff978575b1cffe6dfd9b36758ea10b95171",
+      "src/datasets.py": "ec912e5aece1b27ebd16e4bf794f4f887db7d11bc3da8ee8d6dcdd342c9db410",
+      "src/demo.py": "d6fce29eae0a1146e70d948a0d84aac1de1339918eb3901eeac87209cb7d254b",
+      "src/diagnostics.py": "a87f2f89711afb49d962eddca6c5e51e3526238855ece2708de6667497c37761",
+      "src/dual_study.py": "796080dc9508ea6f18c517ebf1202967cee83c3499d12e2af048a989517eed88",
+      "src/experiments.py": "42e218b089c4a79628dc94c327ad3abaeb2084aae79e7e3b70dd8c330eacae10",
+      "src/metrics.py": "892903402fef6794142c41546a508ed3a519b0dd988177c3bdab28c210293db5",
+      "src/network_guard.py": "a59bc8be5da4eb75dc3b8e4b68c826ccbdc7a1a6edf5708ac9d8388040205ea6",
+      "src/nodes.py": "e6a0675a30ccfe2c47f66cf4780b1abd57681fb94850e8babc11d3ea25d65ae8",
+      "src/plans.py": "c768747575f10466ea2b81db53933ecf11edb81ead869b77d06598ed1c3b7d14",
+      "src/schemas.py": "b804b569730cdf2c6e1c7cceb12cd53318c6abc786806bab17d47289feff9003",
+      "src/study.py": "d22df49d5fbd37aa0d060ed86f39993baffefae45d2b2a916d939c75f0766137",
+      "src/telemetry.py": "44c5b09f112dcfcf13648d9938e62b324e107ebcfbd19397f6f49b959c9789bc",
+      "src/transport.py": "a8229bd5b1ab3401ddb0c450211a892cd400187ebffbe327084431be118f0dde",
+      "src/utils.py": "9254a0d6fd98f5029a52950f00cbee905a352b4246053ddcfb24c96d493d4055",
+      "requirements-lock.txt": "5a2fe0bfaedfa80dce8b135d2c722526e99a972bde42dc856f0ced22c02eda3d",
+      "requirements.txt": "6fa293a18eb69b4fe702742822e3d826908cfff93c6523cf55c05c9bacbb4f9a"
+    },
+    "note": "Commit may not include local edits; source hashes describe the executed files. No environment values are saved."
+  },
+  "experiment": {
+    "job_id": "job-000037",
+    "sample_id": "explore-04",
+    "repeat": 0,
+    "variant": "no_rewrite"
+  }
+}
