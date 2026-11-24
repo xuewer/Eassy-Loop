@@ -1,0 +1,32 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.vscode/
+.venv/
+.coverage
+htmlcov/
+runs/
+work/
+.aris/
+
+# Local reports, credentials, and generated review records
+.env.*
+!.env.example
+run_result.json
+*.log
+*.egg-info/
+build/
+dist/
+# Local helpers for one archived reporting session
+/tools/finalize_dual_audit.py
+/tools/report_dual_study.py
+
+# Local experimental artifacts and personal documentation
+/experiments/
+/docs/RESUME_ZH.md
+/docs/RELEASE_NOTES.md
+/docs/RESULTS.md
+/docs/EXPLORATION_V1.md
+/docs/AI_CROSS_EVALUATION.md

@@ -1,0 +1,4 @@
+* text=auto
+# Archived provenance hashes refer to exact bytes, including line endings.
+/experiments/** -text whitespace=cr-at-eol
+/data/** -text whitespace=cr-at-eol

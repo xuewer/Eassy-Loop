@@ -1,0 +1,69 @@
+{
+  "version": "exploration-v1",
+  "authorship": "AI-authored synthetic texts; no external corpus or empirical claims verified",
+  "quality_strata_are_design_intent_not_ground_truth": true,
+  "split_policy": "All dev; exploratory only, no held-out validation",
+  "dataset_sha256": "04e26d9117e934b06b5b74e398b0d449f2ecf11bc15b580b950699635128fe79",
+  "items": [
+    {
+      "sample_id": "explore-01",
+      "domain": "Transport",
+      "private_design_intent": "strong-intent",
+      "words_whitespace": 310
+    },
+    {
+      "sample_id": "explore-02",
+      "domain": "Education",
+      "private_design_intent": "mixed-intent",
+      "words_whitespace": 314
+    },
+    {
+      "sample_id": "explore-03",
+      "domain": "Waste policy",
+      "private_design_intent": "weak-intent",
+      "words_whitespace": 335
+    },
+    {
+      "sample_id": "explore-04",
+      "domain": "Work organization",
+      "private_design_intent": "strong-intent",
+      "words_whitespace": 317
+    },
+    {
+      "sample_id": "explore-05",
+      "domain": "Public culture",
+      "private_design_intent": "mixed-intent",
+      "words_whitespace": 316
+    },
+    {
+      "sample_id": "explore-06",
+      "domain": "Privacy and commerce",
+      "private_design_intent": "strong-intent",
+      "words_whitespace": 319
+    },
+    {
+      "sample_id": "explore-07",
+      "domain": "Energy planning",
+      "private_design_intent": "weak-intent",
+      "words_whitespace": 323
+    },
+    {
+      "sample_id": "explore-08",
+      "domain": "Community recreation",
+      "private_design_intent": "mixed-intent",
+      "words_whitespace": 311
+    },
+    {
+      "sample_id": "explore-09",
+      "domain": "Museum learning",
+      "private_design_intent": "fluent-shallow-intent",
+      "words_whitespace": 322
+    },
+    {
+      "sample_id": "explore-10",
+      "domain": "Consumer information",
+      "private_design_intent": "grammar-weak-reasoning-mixed-intent",
+      "words_whitespace": 325
+    }
+  ]
+}
